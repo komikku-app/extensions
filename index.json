@@ -2439,6 +2439,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Platinum Crown",
+    "pkg": "eu.kanade.tachiyomi.extension.en.platinumcrown",
+    "apk": "tachiyomi-en.platinumcrown-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: PMScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.pmscans",
     "apk": "tachiyomi-en.pmscans-v1.2.4.apk",

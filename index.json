@@ -2835,6 +2835,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: 24hRomance",
+    "pkg": "eu.kanade.tachiyomi.extension.en.romance24h",
+    "apk": "tachiyomi-en.romance24h-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
     "apk": "tachiyomi-en.s2manga-v1.2.3.apk",
@@ -2859,6 +2868,15 @@
     "lang": "en",
     "code": 2,
     "version": "1.2.2",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Setsu Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
+    "apk": "tachiyomi-en.setsuscans-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -3552,6 +3570,15 @@
     "lang": "fr",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: FuryoSquad",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.furyosquad",
+    "apk": "tachiyomi-fr.furyosquad-v1.2.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {

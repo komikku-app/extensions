@@ -1955,10 +1955,10 @@
   {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
-    "apk": "tachiyomi-en.mangaweebs-v1.2.3.apk",
+    "apk": "tachiyomi-en.mangaweebs-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2013,6 +2013,15 @@
     "lang": "en",
     "code": 4,
     "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Manhualo",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhualo",
+    "apk": "tachiyomi-en.manhualo-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -3116,10 +3125,10 @@
   {
     "name": "Tachiyomi: TritiniaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tritiniascans",
-    "apk": "tachiyomi-en.tritiniascans-v1.2.3.apk",
+    "apk": "tachiyomi-en.tritiniascans-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -3165,6 +3174,15 @@
     "lang": "en",
     "code": 6,
     "version": "1.2.6",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Wakamics",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wakamics",
+    "apk": "tachiyomi-en.wakamics-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {

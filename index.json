@@ -4619,10 +4619,10 @@
   {
     "name": "Tachiyomi: Mangá Host",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangahost",
-    "apk": "tachiyomi-pt.mangahost-v1.2.23.apk",
+    "apk": "tachiyomi-pt.mangahost-v1.2.24.apk",
     "lang": "pt",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 0
   },
   {

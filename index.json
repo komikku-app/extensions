@@ -110,28 +110,28 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.2.4.apk",
+    "apk": "tachiyomi-all.luscious-v1.2.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Luscious (API)",
     "pkg": "eu.kanade.tachiyomi.extension.all.lusciousapi",
-    "apk": "tachiyomi-all.lusciousapi-v1.2.2.apk",
+    "apk": "tachiyomi-all.lusciousapi-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Luscious (Members)",
     "pkg": "eu.kanade.tachiyomi.extension.all.lusciousmembers",
-    "apk": "tachiyomi-all.lusciousmembers-v1.2.2.apk",
+    "apk": "tachiyomi-all.lusciousmembers-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {

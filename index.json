@@ -4770,6 +4770,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaTube",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangatube",
+    "apk": "tachiyomi-pt.mangatube-v1.2.1.apk",
+    "lang": "pt",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: MangaYabu!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangayabu",
     "apk": "tachiyomi-pt.mangayabu-v1.2.7.apk",

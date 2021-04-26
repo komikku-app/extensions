@@ -3105,6 +3105,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Sugar Babies",
+    "pkg": "eu.kanade.tachiyomi.extension.en.sugarbabies",
+    "apk": "tachiyomi-en.sugarbabies-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Swords Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.swordscomic",
     "apk": "tachiyomi-en.swordscomic-v1.2.1.apk",

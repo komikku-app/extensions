@@ -236,10 +236,10 @@
   {
     "name": "Tachiyomi: Manhwa18.net",
     "pkg": "eu.kanade.tachiyomi.extension.all.manhwa18net",
-    "apk": "tachiyomi-all.manhwa18net-v1.2.2.apk",
+    "apk": "tachiyomi-all.manhwa18net-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
@@ -1190,10 +1190,10 @@
   {
     "name": "Tachiyomi: HeroScan",
     "pkg": "eu.kanade.tachiyomi.extension.en.heroscan",
-    "apk": "tachiyomi-en.heroscan-v1.2.2.apk",
+    "apk": "tachiyomi-en.heroscan-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -1388,10 +1388,10 @@
   {
     "name": "Tachiyomi: KSGroupScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
-    "apk": "tachiyomi-en.ksgroupscans-v1.2.2.apk",
+    "apk": "tachiyomi-en.ksgroupscans-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -1433,10 +1433,10 @@
   {
     "name": "Tachiyomi: LHTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.en.lhtranslation",
-    "apk": "tachiyomi-en.lhtranslation-v1.2.3.apk",
+    "apk": "tachiyomi-en.lhtranslation-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2162,10 +2162,10 @@
   {
     "name": "Tachiyomi: ManhuaScan",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuascan",
-    "apk": "tachiyomi-en.manhuascan-v1.2.3.apk",
+    "apk": "tachiyomi-en.manhuascan-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -2207,10 +2207,10 @@
   {
     "name": "Tachiyomi: Manhwa18",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwa18",
-    "apk": "tachiyomi-en.manhwa18-v1.2.2.apk",
+    "apk": "tachiyomi-en.manhwa18-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
@@ -2234,10 +2234,10 @@
   {
     "name": "Tachiyomi: ManhwaSmut",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwasmut",
-    "apk": "tachiyomi-en.manhwasmut-v1.2.4.apk",
+    "apk": "tachiyomi-en.manhwasmut-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -4457,10 +4457,10 @@
   {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
-    "apk": "tachiyomi-ja.kisslove-v1.2.2.apk",
+    "apk": "tachiyomi-ja.kisslove-v1.2.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -4511,10 +4511,10 @@
   {
     "name": "Tachiyomi: RawLH",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawlh",
-    "apk": "tachiyomi-ja.rawlh-v1.2.2.apk",
+    "apk": "tachiyomi-ja.rawlh-v1.2.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5330,10 +5330,10 @@
   {
     "name": "Tachiyomi: Epik Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.epikmanga",
-    "apk": "tachiyomi-tr.epikmanga-v1.2.2.apk",
+    "apk": "tachiyomi-tr.epikmanga-v1.2.3.apk",
     "lang": "tr",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5438,10 +5438,10 @@
   {
     "name": "Tachiyomi: Manga-TR",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatr",
-    "apk": "tachiyomi-tr.mangatr-v1.2.2.apk",
+    "apk": "tachiyomi-tr.mangatr-v1.2.3.apk",
     "lang": "tr",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5609,10 +5609,10 @@
   {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
-    "apk": "tachiyomi-vi.saytruyen-v1.2.2.apk",
+    "apk": "tachiyomi-vi.saytruyen-v1.2.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {

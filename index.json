@@ -3755,10 +3755,10 @@
   {
     "name": "Tachiyomi: Kangaryu",
     "pkg": "eu.kanade.tachiyomi.extension.fr.kangaryu",
-    "apk": "tachiyomi-fr.kangaryu-v1.2.1.apk",
+    "apk": "tachiyomi-fr.kangaryu-v1.2.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {

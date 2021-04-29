@@ -3125,10 +3125,10 @@
   {
     "name": "Tachiyomi: Tapas",
     "pkg": "eu.kanade.tachiyomi.extension.en.tapastic",
-    "apk": "tachiyomi-en.tapastic-v1.2.10.apk",
+    "apk": "tachiyomi-en.tapastic-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {
@@ -3737,10 +3737,10 @@
   {
     "name": "Tachiyomi: Japanread",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.2.4.apk",
+    "apk": "tachiyomi-fr.japanread-v1.2.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {

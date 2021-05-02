@@ -4833,6 +4833,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Ama Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.amascans",
+    "apk": "tachiyomi-pt.amascans-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: AnimaRegia",
     "pkg": "eu.kanade.tachiyomi.extension.pt.animaregia",
     "apk": "tachiyomi-pt.animaregia-v1.2.3.apk",
@@ -5177,10 +5186,10 @@
   {
     "name": "Tachiyomi: Tao Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taosect",
-    "apk": "tachiyomi-pt.taosect-v1.2.2.apk",
+    "apk": "tachiyomi-pt.taosect-v1.2.3.apk",
     "lang": "pt",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5843,10 +5852,10 @@
   {
     "name": "Tachiyomi: HentaiVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivn",
-    "apk": "tachiyomi-vi.hentaivn-v1.2.8.apk",
+    "apk": "tachiyomi-vi.hentaivn-v1.2.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {

@@ -4923,6 +4923,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: GekkouScan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.gekkouscan",
+    "apk": "tachiyomi-pt.gekkouscan-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Golden Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.goldenmangas",
     "apk": "tachiyomi-pt.goldenmangas-v1.2.9.apk",

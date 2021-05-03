@@ -1865,10 +1865,10 @@
   {
     "name": "Tachiyomi: Manga Mitsu",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamitsu",
-    "apk": "tachiyomi-en.mangamitsu-v1.2.3.apk",
+    "apk": "tachiyomi-en.mangamitsu-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -2135,10 +2135,10 @@
   {
     "name": "Tachiyomi: MangaYami",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangayami",
-    "apk": "tachiyomi-en.mangayami-v1.2.3.apk",
+    "apk": "tachiyomi-en.mangayami-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {

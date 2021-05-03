@@ -4007,10 +4007,10 @@
   {
     "name": "Tachiyomi: Japanread",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japanread",
-    "apk": "tachiyomi-fr.japanread-v1.2.6.apk",
+    "apk": "tachiyomi-fr.japanread-v1.2.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1
   },
   {

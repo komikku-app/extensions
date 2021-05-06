@@ -5103,6 +5103,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Fudido Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fudidoscanlator",
+    "apk": "tachiyomi-pt.fudidoscanlator-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Furio Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.furioscans",
     "apk": "tachiyomi-pt.furioscans-v1.2.3.apk",

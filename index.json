@@ -5157,6 +5157,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: BL Manhwa Club",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.blmanhwaclub",
+    "apk": "tachiyomi-pt.blmanhwaclub-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: BR Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.brmangas",
     "apk": "tachiyomi-pt.brmangas-v1.2.1.apk",

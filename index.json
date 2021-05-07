@@ -45,6 +45,24 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: DDHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ddhentai",
+    "apk": "tachiyomi-all.ddhentai-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: DDHentai A",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ddhentaia",
+    "apk": "tachiyomi-all.ddhentaia-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: DogHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.doghentai",
     "apk": "tachiyomi-all.doghentai-v1.2.1.apk",

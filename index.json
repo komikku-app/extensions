@@ -5184,6 +5184,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Café com Yaoi",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
+    "apk": "tachiyomi-pt.cafecomyaoi-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Central de Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.centraldemangas",
     "apk": "tachiyomi-pt.centraldemangas-v1.2.4.apk",
@@ -5253,6 +5262,15 @@
     "lang": "pt",
     "code": 4,
     "version": "1.2.4",
+    "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: Glory Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.gloryscans",
+    "apk": "tachiyomi-pt.gloryscans-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
@@ -5596,6 +5614,15 @@
     "code": 4,
     "version": "1.2.4",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Yaoi Fan Clube",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yaoifanclube",
+    "apk": "tachiyomi-pt.yaoifanclube-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Yaoi Toshokan",

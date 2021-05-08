@@ -5463,6 +5463,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: One Piece Ex",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
+    "apk": "tachiyomi-pt.opex-v1.2.1.apk",
+    "lang": "pt",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Origami Orpheans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.origamiorpheans",
     "apk": "tachiyomi-pt.origamiorpheans-v1.2.3.apk",

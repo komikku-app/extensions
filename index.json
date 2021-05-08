@@ -2844,12 +2844,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Attack on Titan/Shingeki no Kyojin Manga",
+    "name": "Tachiyomi: Read Attack on Titan Shingeki no Kyojin Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
-    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.2.3.apk",
+    "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2889,12 +2889,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Boku no Hero Academia/My Hero Academia Manga",
+    "name": "Tachiyomi: Read Boku no Hero Academia My Hero Academia Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readbokunoheroacademiamyheroacademiamanga",
-    "apk": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.2.3.apk",
+    "apk": "tachiyomi-en.readbokunoheroacademiamyheroacademiamanga-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2934,12 +2934,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Dragon Ball Super/Chou Manga Online",
+    "name": "Tachiyomi: Read Dragon Ball Super Chou Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readdragonballsuperchoumangaonline",
-    "apk": "tachiyomi-en.readdragonballsuperchoumangaonline-v1.2.2.apk",
+    "apk": "tachiyomi-en.readdragonballsuperchoumangaonline-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -3096,12 +3096,12 @@
     "nsfw": 1
   },
   {
-    "name": "Tachiyomi: Read Nanatsu no Taizai/7 Deadly Sins Manga Online",
+    "name": "Tachiyomi: Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
-    "apk": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.2.3.apk",
+    "apk": "tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -3114,12 +3114,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Naruto/Boruto/Samurai 8 Manga Online",
+    "name": "Tachiyomi: Read Naruto Boruto Samurai 8 Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readnarutoborutosamurai8mangaonline",
-    "apk": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.2.2.apk",
+    "apk": "tachiyomi-en.readnarutoborutosamurai8mangaonline-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -3195,12 +3195,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Solo Leveling Manga/Manhwa Online",
+    "name": "Tachiyomi: Read Solo Leveling Manga Manhwa Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
-    "apk": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.2.3.apk",
+    "apk": "tachiyomi-en.readsololevelingmangamanhwaonline-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -3231,12 +3231,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Read Tower of God Manhwa/Manga Online",
+    "name": "Tachiyomi: Read Tower of God Manhwa Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readtowerofgodmanhwamangaonline",
-    "apk": "tachiyomi-en.readtowerofgodmanhwamangaonline-v1.2.3.apk",
+    "apk": "tachiyomi-en.readtowerofgodmanhwamangaonline-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {

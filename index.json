@@ -1269,6 +1269,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: HentaiMimi",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentaimimi",
+    "apk": "tachiyomi-en.hentaimimi-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Hero Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.heromanhua",
     "apk": "tachiyomi-en.heromanhua-v1.2.3.apk",

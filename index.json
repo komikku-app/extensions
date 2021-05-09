@@ -218,10 +218,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.109.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.110.apk",
     "lang": "all",
-    "code": 109,
-    "version": "1.2.109",
+    "code": 110,
+    "version": "1.2.110",
     "nsfw": 1
   },
   {
@@ -6117,15 +6117,6 @@
     "lang": "tr",
     "code": 4,
     "version": "1.2.4",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Pied Piper",
-    "pkg": "eu.kanade.tachiyomi.extension.tr.piedpiper",
-    "apk": "tachiyomi-tr.piedpiper-v1.2.3.apk",
-    "lang": "tr",
-    "code": 3,
-    "version": "1.2.3",
     "nsfw": 0
   },
   {

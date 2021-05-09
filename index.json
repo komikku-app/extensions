@@ -828,6 +828,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: A Pair of 2+",
+    "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
+    "apk": "tachiyomi-en.apairof2-v1.2.4.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Arang Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arangscans",
     "apk": "tachiyomi-en.arangscans-v1.2.5.apk",
@@ -5672,10 +5681,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.2.4.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.2.5.apk",
     "lang": "ru",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -5699,10 +5708,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.2.7.apk",
+    "apk": "tachiyomi-ru.desu-v1.2.8.apk",
     "lang": "ru",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -5726,10 +5735,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.42.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.43.apk",
     "lang": "ru",
-    "code": 42,
-    "version": "1.2.42",
+    "code": 43,
+    "version": "1.2.43",
     "nsfw": 0
   },
   {
@@ -5771,10 +5780,10 @@
   {
     "name": "Tachiyomi: MangaPoisk",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
-    "apk": "tachiyomi-ru.mangapoisk-v1.2.2.apk",
+    "apk": "tachiyomi-ru.mangapoisk-v1.2.3.apk",
     "lang": "ru",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {

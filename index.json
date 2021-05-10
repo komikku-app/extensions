@@ -5175,6 +5175,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Banana Mecânica",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.bananamecanica",
+    "apk": "tachiyomi-pt.bananamecanica-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: BL Manhwa Club",
     "pkg": "eu.kanade.tachiyomi.extension.pt.blmanhwaclub",
     "apk": "tachiyomi-pt.blmanhwaclub-v1.2.3.apk",
@@ -5253,6 +5262,15 @@
     "lang": "pt",
     "code": 4,
     "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Fênix Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.fenixscanlator",
+    "apk": "tachiyomi-pt.fenixscanlator-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5550,6 +5568,15 @@
     "lang": "pt",
     "code": 4,
     "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Sweet Time Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.sweettimescan",
+    "apk": "tachiyomi-pt.sweettimescan-v1.2.3.apk",
+    "lang": "pt",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {

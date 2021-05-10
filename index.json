@@ -945,6 +945,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Comicdom",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comicdom",
+    "apk": "tachiyomi-en.comicdom-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
     "apk": "tachiyomi-en.comicextra-v1.2.7.apk",
@@ -975,15 +984,6 @@
     "name": "Tachiyomi: Comicpunch",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicpunch",
     "apk": "tachiyomi-en.comicpunch-v1.2.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Comic Rush",
-    "pkg": "eu.kanade.tachiyomi.extension.en.comicrush",
-    "apk": "tachiyomi-en.comicrush-v1.2.3.apk",
     "lang": "en",
     "code": 3,
     "version": "1.2.3",
@@ -5735,10 +5735,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.43.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.44.apk",
     "lang": "ru",
-    "code": 43,
-    "version": "1.2.43",
+    "code": 44,
+    "version": "1.2.44",
     "nsfw": 0
   },
   {

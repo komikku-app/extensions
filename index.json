@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.2.8.apk",
+    "apk": "tachiyomi-all.batoto-v1.2.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {
@@ -218,10 +218,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.110.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.111.apk",
     "lang": "all",
-    "code": 110,
-    "version": "1.2.110",
+    "code": 111,
+    "version": "1.2.111",
     "nsfw": 1
   },
   {
@@ -1341,6 +1341,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Home Hero Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.homeheroscans",
+    "apk": "tachiyomi-en.homeheroscans-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: HonkaiImpact3",
     "pkg": "eu.kanade.tachiyomi.extension.en.honkaiimpact",
     "apk": "tachiyomi-en.honkaiimpact-v1.2.1.apk",
@@ -1581,6 +1590,15 @@
     "lang": "en",
     "code": 1,
     "version": "1.2.1",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Luminous Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
+    "apk": "tachiyomi-en.luminousscans-v1.2.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -3384,6 +3402,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Skull Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.skullscans",
+    "apk": "tachiyomi-en.skullscans-v1.2.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Skymanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.skymanga",
     "apk": "tachiyomi-en.skymanga-v1.2.3.apk",
@@ -4389,6 +4416,15 @@
     "lang": "id",
     "code": 2,
     "version": "1.2.2",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Davey Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.id.daveyscans",
+    "apk": "tachiyomi-id.daveyscans-v1.2.5.apk",
+    "lang": "id",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {

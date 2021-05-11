@@ -4142,10 +4142,10 @@
   {
     "name": "Tachiyomi: GS Nation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.gsnation",
-    "apk": "tachiyomi-fr.gsnation-v1.2.5.apk",
+    "apk": "tachiyomi-fr.gsnation-v1.2.6.apk",
     "lang": "fr",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {

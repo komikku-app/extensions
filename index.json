@@ -5798,10 +5798,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.44.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.45.apk",
     "lang": "ru",
-    "code": 44,
-    "version": "1.2.44",
+    "code": 45,
+    "version": "1.2.45",
     "nsfw": 0
   },
   {
@@ -5879,10 +5879,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.22.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.23.apk",
     "lang": "ru",
-    "code": 22,
-    "version": "1.2.22",
+    "code": 23,
+    "version": "1.2.23",
     "nsfw": 0
   },
   {

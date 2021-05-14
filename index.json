@@ -4113,6 +4113,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: YugenMangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.yugenmangas",
+    "apk": "tachiyomi-es.yugenmangas-v1.2.5.apk",
+    "lang": "es",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: ZManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.zmanga",
     "apk": "tachiyomi-es.zmanga-v1.2.3.apk",
@@ -5798,10 +5807,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.45.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.46.apk",
     "lang": "ru",
-    "code": 45,
-    "version": "1.2.45",
+    "code": 46,
+    "version": "1.2.46",
     "nsfw": 0
   },
   {

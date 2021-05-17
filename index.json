@@ -218,10 +218,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.112.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.113.apk",
     "lang": "all",
-    "code": 112,
-    "version": "1.2.112",
+    "code": 113,
+    "version": "1.2.113",
     "nsfw": 1
   },
   {
@@ -1325,10 +1325,10 @@
   {
     "name": "Tachiyomi: Hiveworks Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiveworks",
-    "apk": "tachiyomi-en.hiveworks-v1.2.4.apk",
+    "apk": "tachiyomi-en.hiveworks-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -5382,15 +5382,6 @@
     "nsfw": 1
   },
   {
-    "name": "Tachiyomi: HQ Dragon",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.hqdragon",
-    "apk": "tachiyomi-pt.hqdragon-v1.2.4.apk",
-    "lang": "pt",
-    "code": 4,
-    "version": "1.2.4",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: HQ Now!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hqnow",
     "apk": "tachiyomi-pt.hqnow-v1.2.3.apk",
@@ -5433,15 +5424,6 @@
     "lang": "pt",
     "code": 4,
     "version": "1.2.4",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Mangá Host",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangahost",
-    "apk": "tachiyomi-pt.mangahost-v1.2.24.apk",
-    "lang": "pt",
-    "code": 24,
-    "version": "1.2.24",
     "nsfw": 0
   },
   {
@@ -5663,11 +5645,11 @@
   {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-    "apk": "tachiyomi-pt.tsukimangas-v1.2.14.apk",
+    "apk": "tachiyomi-pt.tsukimangas-v1.2.15.apk",
     "lang": "pt",
-    "code": 14,
-    "version": "1.2.14",
-    "nsfw": 0
+    "code": 15,
+    "version": "1.2.15",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Tsundoku Traduções",
@@ -5676,15 +5658,6 @@
     "lang": "pt",
     "code": 4,
     "version": "1.2.4",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Union Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.unionmangas",
-    "apk": "tachiyomi-pt.unionmangas-v1.2.22.apk",
-    "lang": "pt",
-    "code": 22,
-    "version": "1.2.22",
     "nsfw": 0
   },
   {
@@ -5731,15 +5704,6 @@
     "code": 5,
     "version": "1.2.5",
     "nsfw": 1
-  },
-  {
-    "name": "Tachiyomi: YES Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.yesmangas",
-    "apk": "tachiyomi-pt.yesmangas-v1.2.7.apk",
-    "lang": "pt",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 0
   },
   {
     "name": "Tachiyomi: Yuri Verso",
@@ -5816,10 +5780,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.46.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.47.apk",
     "lang": "ru",
-    "code": 46,
-    "version": "1.2.46",
+    "code": 47,
+    "version": "1.2.47",
     "nsfw": 0
   },
   {

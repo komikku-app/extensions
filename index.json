@@ -3537,6 +3537,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: TheFluffyHangoutGroup",
+    "pkg": "eu.kanade.tachiyomi.extension.en.thefluffyhangoutgroup",
+    "apk": "tachiyomi-en.thefluffyhangoutgroup-v1.2.4.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: The Nonames Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.thenonamesscans",
     "apk": "tachiyomi-en.thenonamesscans-v1.2.1.apk",
@@ -3687,6 +3696,15 @@
     "lang": "en",
     "code": 9,
     "version": "1.2.9",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Volkan Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.volkanscans",
+    "apk": "tachiyomi-en.volkanscans-v1.2.4.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -5290,15 +5308,6 @@
     "code": 4,
     "version": "1.2.4",
     "nsfw": 1
-  },
-  {
-    "name": "Tachiyomi: Central de Mangás",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.centraldemangas",
-    "apk": "tachiyomi-pt.centraldemangas-v1.2.4.apk",
-    "lang": "pt",
-    "code": 4,
-    "version": "1.2.4",
-    "nsfw": 0
   },
   {
     "name": "Tachiyomi: Cervo Scanlator",

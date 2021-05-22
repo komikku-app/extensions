@@ -866,10 +866,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.2.4.apk",
+    "apk": "tachiyomi-en.asurascans-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -2279,10 +2279,10 @@
   {
     "name": "Tachiyomi: Mangazuki.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangazukime",
-    "apk": "tachiyomi-en.mangazukime-v1.2.4.apk",
+    "apk": "tachiyomi-en.mangazukime-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -2459,10 +2459,10 @@
   {
     "name": "Tachiyomi: Manwahentai.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.manwahentaime",
-    "apk": "tachiyomi-en.manwahentaime-v1.2.4.apk",
+    "apk": "tachiyomi-en.manwahentaime-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -2477,19 +2477,19 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.2.4.apk",
+    "apk": "tachiyomi-en.manytoon-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
     "name": "Tachiyomi: ManyToon.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoonme",
-    "apk": "tachiyomi-en.manytoonme-v1.2.4.apk",
+    "apk": "tachiyomi-en.manytoonme-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -2531,10 +2531,10 @@
   {
     "name": "Tachiyomi: Milftoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.milftoon",
-    "apk": "tachiyomi-en.milftoon-v1.2.5.apk",
+    "apk": "tachiyomi-en.milftoon-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -2801,10 +2801,10 @@
   {
     "name": "Tachiyomi: PornComix",
     "pkg": "eu.kanade.tachiyomi.extension.en.porncomix",
-    "apk": "tachiyomi-en.porncomix-v1.2.4.apk",
+    "apk": "tachiyomi-en.porncomix-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -2855,10 +2855,10 @@
   {
     "name": "Tachiyomi: Rain Of Snow",
     "pkg": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-    "apk": "tachiyomi-en.rainofsnow-v1.2.5.apk",
+    "apk": "tachiyomi-en.rainofsnow-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -3413,10 +3413,10 @@
   {
     "name": "Tachiyomi: Skymanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.skymanga",
-    "apk": "tachiyomi-en.skymanga-v1.2.4.apk",
+    "apk": "tachiyomi-en.skymanga-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -5816,10 +5816,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.2.8.apk",
+    "apk": "tachiyomi-ru.desu-v1.2.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

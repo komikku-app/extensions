@@ -236,10 +236,10 @@
   {
     "name": "Tachiyomi: MangaPark v3",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.2.1.apk",
+    "apk": "tachiyomi-all.mangapark-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -2882,10 +2882,10 @@
   {
     "name": "Tachiyomi: Rain Of Snow",
     "pkg": "eu.kanade.tachiyomi.extension.en.rainofsnow",
-    "apk": "tachiyomi-en.rainofsnow-v1.2.6.apk",
+    "apk": "tachiyomi-en.rainofsnow-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -4538,10 +4538,10 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.2.4.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.2.6.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {

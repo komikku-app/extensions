@@ -234,6 +234,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: MangaPark v3",
+    "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
+    "apk": "tachiyomi-all.mangapark-v1.2.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
     "apk": "tachiyomi-all.mangaplus-v1.2.17.apk",
@@ -272,10 +281,10 @@
   {
     "name": "Tachiyomi: Mango",
     "pkg": "eu.kanade.tachiyomi.extension.all.mango",
-    "apk": "tachiyomi-all.mango-v1.2.2.apk",
+    "apk": "tachiyomi-all.mango-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -879,6 +888,15 @@
     "lang": "en",
     "code": 5,
     "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Azure Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.azurescans",
+    "apk": "tachiyomi-en.azurescans-v1.2.6.apk",
+    "lang": "en",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -2063,10 +2081,10 @@
   {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapark",
-    "apk": "tachiyomi-en.mangapark-v1.2.19.apk",
+    "apk": "tachiyomi-en.mangapark-v1.2.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 0
   },
   {
@@ -3339,6 +3357,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Seafoam Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.seafoamscans",
+    "apk": "tachiyomi-en.seafoamscans-v1.2.6.apk",
+    "lang": "en",
+    "code": 6,
+    "version": "1.2.6",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Sense-Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.sensescans",
     "apk": "tachiyomi-en.sensescans-v1.2.2.apk",
@@ -4241,10 +4268,10 @@
   {
     "name": "Tachiyomi: Japscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.japscan",
-    "apk": "tachiyomi-fr.japscan-v1.2.27.apk",
+    "apk": "tachiyomi-fr.japscan-v1.2.28.apk",
     "lang": "fr",
-    "code": 27,
-    "version": "1.2.27",
+    "code": 28,
+    "version": "1.2.28",
     "nsfw": 0
   },
   {
@@ -4741,6 +4768,15 @@
     "code": 4,
     "version": "1.2.4",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Mangasusu",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangasusu",
+    "apk": "tachiyomi-id.mangasusu-v1.2.6.apk",
+    "lang": "id",
+    "code": 6,
+    "version": "1.2.6",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: MangaYaku",
@@ -6522,6 +6558,15 @@
     "lang": "zh",
     "code": 4,
     "version": "1.2.4",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Imitui Manhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
+    "apk": "tachiyomi-zh.imitui-v1.2.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {

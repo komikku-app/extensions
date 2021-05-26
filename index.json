@@ -5951,10 +5951,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.29.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0
   },
   {
@@ -5969,10 +5969,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.28.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.29.apk",
     "lang": "ru",
-    "code": 28,
-    "version": "1.2.28",
+    "code": 29,
+    "version": "1.2.29",
     "nsfw": 0
   },
   {

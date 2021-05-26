@@ -622,11 +622,11 @@
   },
   {
     "name": "Tachiyomi: مانجا لينك",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalink",
-    "apk": "tachiyomi-ar.mangalink-v1.2.4.apk",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangalinkio",
+    "apk": "tachiyomi-ar.mangalinkio-v1.2.5.apk",
     "lang": "ar",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -6581,10 +6581,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.11.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.2.11",
+    "code": 12,
+    "version": "1.2.12",
     "nsfw": 1
   },
   {

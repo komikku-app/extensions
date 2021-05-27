@@ -4187,10 +4187,10 @@
   {
     "name": "Tachiyomi: VCPVMP",
     "pkg": "eu.kanade.tachiyomi.extension.es.vcpvmp",
-    "apk": "tachiyomi-es.vcpvmp-v1.2.4.apk",
+    "apk": "tachiyomi-es.vcpvmp-v1.2.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {

@@ -2126,10 +2126,10 @@
   {
     "name": "Tachiyomi: manga-raw.club",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangarawclub",
-    "apk": "tachiyomi-en.mangarawclub-v1.2.1.apk",
+    "apk": "tachiyomi-en.mangarawclub-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -5654,10 +5654,10 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.8.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.9.apk",
     "lang": "pt",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

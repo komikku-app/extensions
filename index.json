@@ -1242,12 +1242,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: FreeManga",
+    "name": "Tachiyomi: Free Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.freemanga",
-    "apk": "tachiyomi-en.freemanga-v1.2.5.apk",
+    "apk": "tachiyomi-en.freemanga-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -1955,10 +1955,10 @@
   {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-    "apk": "tachiyomi-en.mangakakalot-v1.2.3.apk",
+    "apk": "tachiyomi-en.mangakakalot-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2052,12 +2052,12 @@
     "nsfw": 1
   },
   {
-    "name": "Tachiyomi: Manganelo",
+    "name": "Tachiyomi: Manganato",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganelo",
-    "apk": "tachiyomi-en.manganelo-v1.2.2.apk",
+    "apk": "tachiyomi-en.manganelo-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -2279,10 +2279,10 @@
   {
     "name": "Tachiyomi: MangaTuli",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatuli",
-    "apk": "tachiyomi-en.mangatuli-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangatuli-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -3917,10 +3917,10 @@
   {
     "name": "Tachiyomi: Yaoi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.yaoimanga",
-    "apk": "tachiyomi-en.yaoimanga-v1.2.5.apk",
+    "apk": "tachiyomi-en.yaoimanga-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {

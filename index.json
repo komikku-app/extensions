@@ -227,10 +227,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.114.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.115.apk",
     "lang": "all",
-    "code": 114,
-    "version": "1.2.114",
+    "code": 115,
+    "version": "1.2.115",
     "nsfw": 1
   },
   {
@@ -1397,10 +1397,10 @@
   {
     "name": "Tachiyomi: Home Hero Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.homeheroscans",
-    "apk": "tachiyomi-en.homeheroscans-v1.2.2.apk",
+    "apk": "tachiyomi-en.homeheroscans-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -4628,10 +4628,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.2.8.apk",
+    "apk": "tachiyomi-id.komikcast-v1.2.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -4952,10 +4952,10 @@
   {
     "name": "Tachiyomi: Sekte Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.sektekomik",
-    "apk": "tachiyomi-id.sektekomik-v1.2.4.apk",
+    "apk": "tachiyomi-id.sektekomik-v1.2.5.apk",
     "lang": "id",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -5550,6 +5550,15 @@
     "lang": "pt",
     "code": 6,
     "version": "1.2.6",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Império dos Otakus",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.imperiodosotakus",
+    "apk": "tachiyomi-pt.imperiodosotakus-v1.2.5.apk",
+    "lang": "pt",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {

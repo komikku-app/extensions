@@ -1784,10 +1784,10 @@
   {
     "name": "Tachiyomi: Manga Clash",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaclash",
-    "apk": "tachiyomi-en.mangaclash-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangaclash-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -2000,10 +2000,10 @@
   {
     "name": "Tachiyomi: MangaKomi",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakomi",
-    "apk": "tachiyomi-en.mangakomi-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangakomi-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -2412,6 +2412,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: ManhuaPro",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuapro",
+    "apk": "tachiyomi-en.manhuapro-v1.2.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Manhuas.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuasnet",
     "apk": "tachiyomi-en.manhuasnet-v1.2.5.apk",
@@ -2585,11 +2594,11 @@
   {
     "name": "Tachiyomi: Midnight Mess Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.midnightmessscans",
-    "apk": "tachiyomi-en.midnightmessscans-v1.2.5.apk",
+    "apk": "tachiyomi-en.midnightmessscans-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
-    "nsfw": 0
+    "code": 6,
+    "version": "1.2.6",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Milftoon",

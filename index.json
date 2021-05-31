@@ -461,10 +461,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.2.29.apk",
+    "apk": "tachiyomi-all.webtoons-v1.2.30.apk",
     "lang": "all",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0
   },
   {
@@ -866,10 +866,10 @@
   {
     "name": "Tachiyomi: Arang Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arangscans",
-    "apk": "tachiyomi-en.arangscans-v1.2.7.apk",
+    "apk": "tachiyomi-en.arangscans-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -2000,10 +2000,10 @@
   {
     "name": "Tachiyomi: MangaKomi",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakomi",
-    "apk": "tachiyomi-en.mangakomi-v1.2.6.apk",
+    "apk": "tachiyomi-en.mangakomi-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -4376,10 +4376,10 @@
   {
     "name": "Tachiyomi: Mangakawaii",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangakawaii",
-    "apk": "tachiyomi-fr.mangakawaii-v1.2.30.apk",
+    "apk": "tachiyomi-fr.mangakawaii-v1.2.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.2.30",
+    "code": 31,
+    "version": "1.2.31",
     "nsfw": 0
   },
   {
@@ -5452,6 +5452,15 @@
     "code": 5,
     "version": "1.2.5",
     "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: Cerise Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
+    "apk": "tachiyomi-pt.cerisescans-v1.2.5.apk",
+    "lang": "pt",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
   },
   {
     "name": "Tachiyomi: Cervo Scanlator",

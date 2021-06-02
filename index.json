@@ -245,10 +245,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.2.18.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.2.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0
   },
   {
@@ -5114,10 +5114,10 @@
   {
     "name": "Tachiyomi: Bruttal",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bruttal",
-    "apk": "tachiyomi-pt.bruttal-v1.2.2.apk",
+    "apk": "tachiyomi-pt.bruttal-v1.2.3.apk",
     "lang": "pt",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5231,10 +5231,10 @@
   {
     "name": "Tachiyomi: HipercooL",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hipercool",
-    "apk": "tachiyomi-pt.hipercool-v1.2.6.apk",
+    "apk": "tachiyomi-pt.hipercool-v1.2.7.apk",
     "lang": "pt",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1
   },
   {
@@ -5528,10 +5528,10 @@
   {
     "name": "Tachiyomi: War Queen Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.warqueenscan",
-    "apk": "tachiyomi-pt.warqueenscan-v1.2.6.apk",
+    "apk": "tachiyomi-pt.warqueenscan-v1.2.7.apk",
     "lang": "pt",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -5852,10 +5852,10 @@
   {
     "name": "Tachiyomi: Cutie Pie",
     "pkg": "eu.kanade.tachiyomi.extension.tr.cutiepie",
-    "apk": "tachiyomi-tr.cutiepie-v1.2.5.apk",
+    "apk": "tachiyomi-tr.cutiepie-v1.2.6.apk",
     "lang": "tr",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -6275,10 +6275,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.17.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 0
   },
   {

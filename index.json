@@ -227,10 +227,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.115.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.116.apk",
     "lang": "all",
-    "code": 115,
-    "version": "1.2.115",
+    "code": 116,
+    "version": "1.2.116",
     "nsfw": 1
   },
   {
@@ -3611,10 +3611,10 @@
   {
     "name": "Tachiyomi: VIZ Shonen Jump",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.2.10.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {
@@ -5240,10 +5240,10 @@
   {
     "name": "Tachiyomi: HQ Now!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.hqnow",
-    "apk": "tachiyomi-pt.hqnow-v1.2.3.apk",
+    "apk": "tachiyomi-pt.hqnow-v1.2.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -5267,10 +5267,10 @@
   {
     "name": "Tachiyomi: Leitor.net",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leitornet",
-    "apk": "tachiyomi-pt.leitornet-v1.2.3.apk",
+    "apk": "tachiyomi-pt.leitornet-v1.2.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -5294,10 +5294,10 @@
   {
     "name": "Tachiyomi: Mangá Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.2.3.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.2.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -5312,10 +5312,10 @@
   {
     "name": "Tachiyomi: MangaTube",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangatube",
-    "apk": "tachiyomi-pt.mangatube-v1.2.1.apk",
+    "apk": "tachiyomi-pt.mangatube-v1.2.2.apk",
     "lang": "pt",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {
@@ -5348,19 +5348,19 @@
   {
     "name": "Tachiyomi: Muito Mangá",
     "pkg": "eu.kanade.tachiyomi.extension.pt.muitomanga",
-    "apk": "tachiyomi-pt.muitomanga-v1.2.1.apk",
+    "apk": "tachiyomi-pt.muitomanga-v1.2.2.apk",
     "lang": "pt",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Mundo Mangá-Kun",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
-    "apk": "tachiyomi-pt.mundomangakun-v1.2.2.apk",
+    "apk": "tachiyomi-pt.mundomangakun-v1.2.3.apk",
     "lang": "pt",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5384,10 +5384,10 @@
   {
     "name": "Tachiyomi: One Piece Ex",
     "pkg": "eu.kanade.tachiyomi.extension.pt.opex",
-    "apk": "tachiyomi-pt.opex-v1.2.1.apk",
+    "apk": "tachiyomi-pt.opex-v1.2.2.apk",
     "lang": "pt",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {
@@ -5501,19 +5501,19 @@
   {
     "name": "Tachiyomi: Toonei",
     "pkg": "eu.kanade.tachiyomi.extension.pt.toonei",
-    "apk": "tachiyomi-pt.toonei-v1.2.3.apk",
+    "apk": "tachiyomi-pt.toonei-v1.2.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-    "apk": "tachiyomi-pt.tsukimangas-v1.2.15.apk",
+    "apk": "tachiyomi-pt.tsukimangas-v1.2.16.apk",
     "lang": "pt",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 1
   },
   {

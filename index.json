@@ -1955,10 +1955,10 @@
   {
     "name": "Tachiyomi: Manga Mutiny",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamutiny",
-    "apk": "tachiyomi-en.mangamutiny-v1.2.7.apk",
+    "apk": "tachiyomi-en.mangamutiny-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {
@@ -3951,6 +3951,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Manga Crab",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
+    "apk": "tachiyomi-es.mangacrab-v1.2.5.apk",
+    "lang": "es",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Mangadoor",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangadoor",
     "apk": "tachiyomi-es.mangadoor-v1.2.3.apk",
@@ -3984,6 +3993,15 @@
     "lang": "es",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Martial Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.martialmanga",
+    "apk": "tachiyomi-es.martialmanga-v1.2.6.apk",
+    "lang": "es",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -5814,6 +5832,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Anisa Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.anisamanga",
+    "apk": "tachiyomi-tr.anisamanga-v1.2.5.apk",
+    "lang": "tr",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: ArazNovel",
     "pkg": "eu.kanade.tachiyomi.extension.tr.araznovel",
     "apk": "tachiyomi-tr.araznovel-v1.2.5.apk",
@@ -6102,6 +6129,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Webtoon Hatti",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.webtoonhatti",
+    "apk": "tachiyomi-tr.webtoonhatti-v1.2.5.apk",
+    "lang": "tr",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: HocVienTruyenTranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.academyvn",
     "apk": "tachiyomi-vi.academyvn-v1.2.8.apk",
@@ -6275,10 +6311,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.18.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.19.apk",
     "lang": "zh",
-    "code": 18,
-    "version": "1.2.18",
+    "code": 19,
+    "version": "1.2.19",
     "nsfw": 0
   },
   {

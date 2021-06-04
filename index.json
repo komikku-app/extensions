@@ -2333,10 +2333,10 @@
   {
     "name": "Tachiyomi: ManhuaPro",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuapro",
-    "apk": "tachiyomi-en.manhuapro-v1.2.5.apk",
+    "apk": "tachiyomi-en.manhuapro-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {

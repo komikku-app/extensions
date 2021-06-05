@@ -191,10 +191,10 @@
   {
     "name": "Tachiyomi: Leviatan Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.leviatanscans",
-    "apk": "tachiyomi-all.leviatanscans-v1.2.8.apk",
+    "apk": "tachiyomi-all.leviatanscans-v1.2.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -902,10 +902,10 @@
   {
     "name": "Tachiyomi: CatManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.catmanga",
-    "apk": "tachiyomi-en.catmanga-v1.2.2.apk",
+    "apk": "tachiyomi-en.catmanga-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -1136,10 +1136,10 @@
   {
     "name": "Tachiyomi: Fallen Angels",
     "pkg": "eu.kanade.tachiyomi.extension.en.fallenangels",
-    "apk": "tachiyomi-en.fallenangels-v1.2.4.apk",
+    "apk": "tachiyomi-en.fallenangels-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -1257,6 +1257,15 @@
     "lang": "en",
     "code": 12,
     "version": "1.2.12",
+    "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: Hentaidexy",
+    "pkg": "eu.kanade.tachiyomi.extension.en.hentaidexy",
+    "apk": "tachiyomi-en.hentaidexy-v1.2.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -2041,6 +2050,15 @@
     "code": 2,
     "version": "1.2.2",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaPL",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangapl",
+    "apk": "tachiyomi-en.mangapl-v1.2.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.2.5",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: MangaRave",
@@ -4542,6 +4560,15 @@
     "lang": "id",
     "code": 6,
     "version": "1.2.6",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaKane",
+    "pkg": "eu.kanade.tachiyomi.extension.id.mangakane",
+    "apk": "tachiyomi-id.mangakane-v1.2.1.apk",
+    "lang": "id",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {

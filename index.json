@@ -236,10 +236,10 @@
   {
     "name": "Tachiyomi: MangaPark v3",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.2.3.apk",
+    "apk": "tachiyomi-all.mangapark-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -5708,10 +5708,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.51.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.52.apk",
     "lang": "ru",
-    "code": 51,
-    "version": "1.2.51",
+    "code": 52,
+    "version": "1.2.52",
     "nsfw": 0
   },
   {

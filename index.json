@@ -92,10 +92,10 @@
   {
     "name": "Tachiyomi: E-Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ehentai",
-    "apk": "tachiyomi-all.ehentai-v1.2.13.apk",
+    "apk": "tachiyomi-all.ehentai-v1.2.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 1
   },
   {
@@ -128,10 +128,10 @@
   {
     "name": "Tachiyomi: HentaiHand",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaihand",
-    "apk": "tachiyomi-all.hentaihand-v1.2.2.apk",
+    "apk": "tachiyomi-all.hentaihand-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
@@ -200,28 +200,28 @@
   {
     "name": "Tachiyomi: Luscious",
     "pkg": "eu.kanade.tachiyomi.extension.all.luscious",
-    "apk": "tachiyomi-all.luscious-v1.2.12.apk",
+    "apk": "tachiyomi-all.luscious-v1.2.13.apk",
     "lang": "all",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Luscious (API)",
     "pkg": "eu.kanade.tachiyomi.extension.all.lusciousapi",
-    "apk": "tachiyomi-all.lusciousapi-v1.2.10.apk",
+    "apk": "tachiyomi-all.lusciousapi-v1.2.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: Luscious (Members)",
     "pkg": "eu.kanade.tachiyomi.extension.all.lusciousmembers",
-    "apk": "tachiyomi-all.lusciousmembers-v1.2.10.apk",
+    "apk": "tachiyomi-all.lusciousmembers-v1.2.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1
   },
   {
@@ -263,10 +263,10 @@
   {
     "name": "Tachiyomi: Mangatoon (Limited)",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangatoon",
-    "apk": "tachiyomi-all.mangatoon-v1.2.1.apk",
+    "apk": "tachiyomi-all.mangatoon-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {
@@ -317,10 +317,10 @@
   {
     "name": "Tachiyomi: NineManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.ninemanga",
-    "apk": "tachiyomi-all.ninemanga-v1.2.13.apk",
+    "apk": "tachiyomi-all.ninemanga-v1.2.14.apk",
     "lang": "all",
-    "code": 13,
-    "version": "1.2.13",
+    "code": 14,
+    "version": "1.2.14",
     "nsfw": 0
   },
   {
@@ -416,10 +416,10 @@
   {
     "name": "Tachiyomi: Simply Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.simplyhentai",
-    "apk": "tachiyomi-all.simplyhentai-v1.2.2.apk",
+    "apk": "tachiyomi-all.simplyhentai-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {

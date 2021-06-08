@@ -236,10 +236,10 @@
   {
     "name": "Tachiyomi: MangaPark v3",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.2.4.apk",
+    "apk": "tachiyomi-all.mangapark-v1.2.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
@@ -930,6 +930,15 @@
     "name": "Tachiyomi: Clone Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.clonemanga",
     "apk": "tachiyomi-en.clonemanga-v1.2.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Colored Council",
+    "pkg": "eu.kanade.tachiyomi.extension.en.coloredcouncil",
+    "apk": "tachiyomi-en.coloredcouncil-v1.2.2.apk",
     "lang": "en",
     "code": 2,
     "version": "1.2.2",
@@ -1955,10 +1964,10 @@
   {
     "name": "Tachiyomi: MangaLazy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangalazy",
-    "apk": "tachiyomi-en.mangalazy-v1.2.7.apk",
+    "apk": "tachiyomi-en.mangalazy-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {
@@ -5582,10 +5591,10 @@
   {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-    "apk": "tachiyomi-pt.tsukimangas-v1.2.17.apk",
+    "apk": "tachiyomi-pt.tsukimangas-v1.2.18.apk",
     "lang": "pt",
-    "code": 17,
-    "version": "1.2.17",
+    "code": 18,
+    "version": "1.2.18",
     "nsfw": 1
   },
   {

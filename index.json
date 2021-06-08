@@ -1937,10 +1937,10 @@
   {
     "name": "Tachiyomi: MangaKitsune",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakitsune",
-    "apk": "tachiyomi-en.mangakitsune-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangakitsune-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -1955,10 +1955,10 @@
   {
     "name": "Tachiyomi: MangaLazy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangalazy",
-    "apk": "tachiyomi-en.mangalazy-v1.2.6.apk",
+    "apk": "tachiyomi-en.mangalazy-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1
   },
   {

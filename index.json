@@ -495,6 +495,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: ArabMkr",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.arabmkr",
+    "apk": "tachiyomi-ar.arabmkr-v1.2.7.apk",
+    "lang": "ar",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Asgard Team",
     "pkg": "eu.kanade.tachiyomi.extension.ar.asgardteam",
     "apk": "tachiyomi-ar.asgardteam-v1.2.8.apk",

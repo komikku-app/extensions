@@ -227,10 +227,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.118.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.119.apk",
     "lang": "all",
-    "code": 118,
-    "version": "1.2.118",
+    "code": 119,
+    "version": "1.2.119",
     "nsfw": 1
   },
   {
@@ -3728,10 +3728,10 @@
   {
     "name": "Tachiyomi: WeComics",
     "pkg": "eu.kanade.tachiyomi.extension.en.wecomics",
-    "apk": "tachiyomi-en.wecomics-v1.2.1.apk",
+    "apk": "tachiyomi-en.wecomics-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {

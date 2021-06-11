@@ -3512,10 +3512,10 @@
   {
     "name": "Tachiyomi: TheFluffyHangoutGroup",
     "pkg": "eu.kanade.tachiyomi.extension.en.thefluffyhangoutgroup",
-    "apk": "tachiyomi-en.thefluffyhangoutgroup-v1.2.8.apk",
+    "apk": "tachiyomi-en.thefluffyhangoutgroup-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

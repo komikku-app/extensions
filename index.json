@@ -5510,10 +5510,10 @@
   {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
-    "apk": "tachiyomi-pt.saikaiscan-v1.2.5.apk",
+    "apk": "tachiyomi-pt.saikaiscan-v1.2.6.apk",
     "lang": "pt",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {

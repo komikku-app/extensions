@@ -11,28 +11,28 @@
   {
     "name": "Tachiyomi: BugHentai (en)",
     "pkg": "eu.kanade.tachiyomi.extension.all.bughentaien",
-    "apk": "tachiyomi-all.bughentaien-v1.2.1.apk",
+    "apk": "tachiyomi-all.bughentaien-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: BugHentai (ja)",
     "pkg": "eu.kanade.tachiyomi.extension.all.bughentaija",
-    "apk": "tachiyomi-all.bughentaija-v1.2.1.apk",
+    "apk": "tachiyomi-all.bughentaija-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: CatHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.cathentai",
-    "apk": "tachiyomi-all.cathentai-v1.2.1.apk",
+    "apk": "tachiyomi-all.cathentai-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -56,28 +56,28 @@
   {
     "name": "Tachiyomi: DDHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.ddhentai",
-    "apk": "tachiyomi-all.ddhentai-v1.2.1.apk",
+    "apk": "tachiyomi-all.ddhentai-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: DDHentai A",
     "pkg": "eu.kanade.tachiyomi.extension.all.ddhentaia",
-    "apk": "tachiyomi-all.ddhentaia-v1.2.1.apk",
+    "apk": "tachiyomi-all.ddhentaia-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: DogHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.doghentai",
-    "apk": "tachiyomi-all.doghentai-v1.2.1.apk",
+    "apk": "tachiyomi-all.doghentai-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -110,10 +110,10 @@
   {
     "name": "Tachiyomi: FoxHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.foxhentai",
-    "apk": "tachiyomi-all.foxhentai-v1.2.1.apk",
+    "apk": "tachiyomi-all.foxhentai-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -353,82 +353,82 @@
   {
     "name": "Tachiyomi: NyaHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentai",
-    "apk": "tachiyomi-all.nyahentai-v1.2.4.apk",
+    "apk": "tachiyomi-all.nyahentai-v1.2.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaiclub",
-    "apk": "tachiyomi-all.nyahentaiclub-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaiclub-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai.co",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaico",
-    "apk": "tachiyomi-all.nyahentaico-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaico-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai.fun",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaifun",
-    "apk": "tachiyomi-all.nyahentaifun-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaifun-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai.me",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaime",
-    "apk": "tachiyomi-all.nyahentaime-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaime-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai.site",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaisite",
-    "apk": "tachiyomi-all.nyahentaisite-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaisite-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai3.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaithreecom",
-    "apk": "tachiyomi-all.nyahentaithreecom-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaithreecom-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: NyaHentai2.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.nyahentaitwocom",
-    "apk": "tachiyomi-all.nyahentaitwocom-v1.2.1.apk",
+    "apk": "tachiyomi-all.nyahentaitwocom-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
     "name": "Tachiyomi: QQHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.qqhentai",
-    "apk": "tachiyomi-all.qqhentai-v1.2.1.apk",
+    "apk": "tachiyomi-all.qqhentai-v1.2.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 1
   },
   {
@@ -2014,6 +2014,15 @@
     "code": 8,
     "version": "1.2.8",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaMiso",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangamiso",
+    "apk": "tachiyomi-en.mangamiso-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Manga Mitsu",
@@ -6419,10 +6428,10 @@
   {
     "name": "Tachiyomi: Jinmantiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.2.12.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.2.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 1
   },
   {

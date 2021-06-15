@@ -38,10 +38,10 @@
   {
     "name": "Tachiyomi: Comick.fun",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.2.1.apk",
+    "apk": "tachiyomi-all.comickfun-v1.2.3.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 1
   },
   {
@@ -119,10 +119,10 @@
   {
     "name": "Tachiyomi: Genkan.io",
     "pkg": "eu.kanade.tachiyomi.extension.all.genkanio",
-    "apk": "tachiyomi-all.genkanio-v1.2.2.apk",
+    "apk": "tachiyomi-all.genkanio-v1.2.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -1361,10 +1361,10 @@
   {
     "name": "Tachiyomi: Home Hero Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.homeheroscans",
-    "apk": "tachiyomi-en.homeheroscans-v1.2.4.apk",
+    "apk": "tachiyomi-en.homeheroscans-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -5789,10 +5789,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.28.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.29.apk",
     "lang": "ru",
-    "code": 28,
-    "version": "1.2.28",
+    "code": 29,
+    "version": "1.2.29",
     "nsfw": 0
   },
   {

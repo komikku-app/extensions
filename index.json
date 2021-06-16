@@ -38,10 +38,10 @@
   {
     "name": "Tachiyomi: Comick.fun",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.2.3.apk",
+    "apk": "tachiyomi-all.comickfun-v1.2.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 1
   },
   {
@@ -902,10 +902,10 @@
   {
     "name": "Tachiyomi: CatManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.catmanga",
-    "apk": "tachiyomi-en.catmanga-v1.2.3.apk",
+    "apk": "tachiyomi-en.catmanga-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -5708,10 +5708,10 @@
   {
     "name": "Tachiyomi: MangaBook",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangabook",
-    "apk": "tachiyomi-ru.mangabook-v1.2.1.apk",
+    "apk": "tachiyomi-ru.mangabook-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {
@@ -5789,10 +5789,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.29.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0
   },
   {
@@ -6383,10 +6383,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.19.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.20.apk",
     "lang": "zh",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 0
   },
   {

@@ -585,6 +585,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Mangaka3rb",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaka3rb",
+    "apk": "tachiyomi-ar.mangaka3rb-v1.2.7.apk",
+    "lang": "ar",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Manga Land Arabic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangalandarabic",
     "apk": "tachiyomi-ar.mangalandarabic-v1.2.7.apk",
@@ -1154,19 +1163,37 @@
   {
     "name": "Tachiyomi: 1st Kiss",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanga",
-    "apk": "tachiyomi-en.firstkissmanga-v1.2.9.apk",
+    "apk": "tachiyomi-en.firstkissmanga-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: 1stKissManga.Club",
+    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmangaclub",
+    "apk": "tachiyomi-en.firstkissmangaclub-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: 1st Kiss Manga.love",
+    "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmangalove",
+    "apk": "tachiyomi-en.firstkissmangalove-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
     "name": "Tachiyomi: 1st Kiss Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanhua",
-    "apk": "tachiyomi-en.firstkissmanhua-v1.2.8.apk",
+    "apk": "tachiyomi-en.firstkissmanhua-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -1334,10 +1361,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.2.8.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {
@@ -1820,10 +1847,10 @@
   {
     "name": "Tachiyomi: MangaFast",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafast",
-    "apk": "tachiyomi-en.mangafast-v1.2.8.apk",
+    "apk": "tachiyomi-en.mangafast-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -1874,10 +1901,10 @@
   {
     "name": "Tachiyomi: Mangahere",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahere",
-    "apk": "tachiyomi-en.mangahere-v1.2.15.apk",
+    "apk": "tachiyomi-en.mangahere-v1.2.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.2.15",
+    "code": 16,
+    "version": "1.2.16",
     "nsfw": 0
   },
   {
@@ -3465,6 +3492,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Solo Leveling",
+    "pkg": "eu.kanade.tachiyomi.extension.en.sololeveling",
+    "apk": "tachiyomi-en.sololeveling-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: SoloScanlation",
     "pkg": "eu.kanade.tachiyomi.extension.en.soloscanlation",
     "apk": "tachiyomi-en.soloscanlation-v1.2.7.apk",
@@ -3924,6 +3960,24 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Hades no Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
+    "apk": "tachiyomi-es.hadesnofansub-v1.2.7.apk",
+    "lang": "es",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Hades no Fansub Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.es.hadesnofansubhentai",
+    "apk": "tachiyomi-es.hadesnofansubhentai-v1.2.7.apk",
+    "lang": "es",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: HeavenManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.heavenmanga",
     "apk": "tachiyomi-es.heavenmanga-v1.2.5.apk",
@@ -3958,6 +4012,15 @@
     "code": 1,
     "version": "1.2.1",
     "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: InfraFandub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.infrafandub",
+    "apk": "tachiyomi-es.infrafandub-v1.2.7.apk",
+    "lang": "es",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
   },
   {
     "name": "Tachiyomi: InManga",
@@ -4374,6 +4437,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: ComicsWorld",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsworld",
+    "apk": "tachiyomi-hi.comicsworld-v1.2.7.apk",
+    "lang": "hi",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Bacakomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
     "apk": "tachiyomi-id.bacakomik-v1.2.3.apk",
@@ -4646,10 +4718,10 @@
   {
     "name": "Tachiyomi: Mangceh",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangceh",
-    "apk": "tachiyomi-id.mangceh-v1.2.8.apk",
+    "apk": "tachiyomi-id.mangceh-v1.2.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {
@@ -5339,10 +5411,10 @@
   {
     "name": "Tachiyomi: Leitor.net",
     "pkg": "eu.kanade.tachiyomi.extension.pt.leitornet",
-    "apk": "tachiyomi-pt.leitornet-v1.2.5.apk",
+    "apk": "tachiyomi-pt.leitornet-v1.2.6.apk",
     "lang": "pt",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -5366,10 +5438,10 @@
   {
     "name": "Tachiyomi: Mangá Livre",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.2.5.apk",
+    "apk": "tachiyomi-pt.mangalivre-v1.2.6.apk",
     "lang": "pt",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -5393,10 +5465,10 @@
   {
     "name": "Tachiyomi: MangaYabu!",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangayabu",
-    "apk": "tachiyomi-pt.mangayabu-v1.2.7.apk",
+    "apk": "tachiyomi-pt.mangayabu-v1.2.8.apk",
     "lang": "pt",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -5564,10 +5636,10 @@
   {
     "name": "Tachiyomi: Toonei",
     "pkg": "eu.kanade.tachiyomi.extension.pt.toonei",
-    "apk": "tachiyomi-pt.toonei-v1.2.5.apk",
+    "apk": "tachiyomi-pt.toonei-v1.2.6.apk",
     "lang": "pt",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 1
   },
   {
@@ -5726,10 +5798,10 @@
   {
     "name": "Tachiyomi: MangaClub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangaclub",
-    "apk": "tachiyomi-ru.mangaclub-v1.2.2.apk",
+    "apk": "tachiyomi-ru.mangaclub-v1.2.3.apk",
     "lang": "ru",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {

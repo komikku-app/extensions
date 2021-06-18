@@ -146,10 +146,10 @@
   {
     "name": "Tachiyomi: Hitomi.la",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.2.7.apk",
+    "apk": "tachiyomi-all.hitomi-v1.2.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {
@@ -1361,10 +1361,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.2.10.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1
   },
   {
@@ -1847,10 +1847,10 @@
   {
     "name": "Tachiyomi: MangaFast",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafast",
-    "apk": "tachiyomi-en.mangafast-v1.2.9.apk",
+    "apk": "tachiyomi-en.mangafast-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0
   },
   {
@@ -3798,15 +3798,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Wutopia",
-    "pkg": "eu.kanade.tachiyomi.extension.en.wutopia",
-    "apk": "tachiyomi-en.wutopia-v1.2.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: WuxiaWorld",
     "pkg": "eu.kanade.tachiyomi.extension.en.wuxiaworld",
     "apk": "tachiyomi-en.wuxiaworld-v1.2.8.apk",
@@ -5636,10 +5627,10 @@
   {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-    "apk": "tachiyomi-pt.tsukimangas-v1.2.19.apk",
+    "apk": "tachiyomi-pt.tsukimangas-v1.2.20.apk",
     "lang": "pt",
-    "code": 19,
-    "version": "1.2.19",
+    "code": 20,
+    "version": "1.2.20",
     "nsfw": 1
   },
   {
@@ -5744,10 +5735,10 @@
   {
     "name": "Tachiyomi: Desu",
     "pkg": "eu.kanade.tachiyomi.extension.ru.desu",
-    "apk": "tachiyomi-ru.desu-v1.2.10.apk",
+    "apk": "tachiyomi-ru.desu-v1.2.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {
@@ -5771,10 +5762,10 @@
   {
     "name": "Tachiyomi: MangaBook",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangabook",
-    "apk": "tachiyomi-ru.mangabook-v1.2.2.apk",
+    "apk": "tachiyomi-ru.mangabook-v1.2.3.apk",
     "lang": "ru",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -5852,10 +5843,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.30.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.31.apk",
     "lang": "ru",
-    "code": 30,
-    "version": "1.2.30",
+    "code": 31,
+    "version": "1.2.31",
     "nsfw": 0
   },
   {

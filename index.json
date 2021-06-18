@@ -1199,10 +1199,10 @@
   {
     "name": "Tachiyomi: Flame Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamescans",
-    "apk": "tachiyomi-en.flamescans-v1.2.10.apk",
+    "apk": "tachiyomi-en.flamescans-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {

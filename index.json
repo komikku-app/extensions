@@ -5627,10 +5627,10 @@
   {
     "name": "Tachiyomi: Tsuki Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.tsukimangas",
-    "apk": "tachiyomi-pt.tsukimangas-v1.2.20.apk",
+    "apk": "tachiyomi-pt.tsukimangas-v1.2.21.apk",
     "lang": "pt",
-    "code": 20,
-    "version": "1.2.20",
+    "code": 21,
+    "version": "1.2.21",
     "nsfw": 1
   },
   {

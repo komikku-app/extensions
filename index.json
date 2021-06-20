@@ -738,6 +738,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Utsukushii",
+    "pkg": "eu.kanade.tachiyomi.extension.bg.utsukushii",
+    "apk": "tachiyomi-bg.utsukushii-v1.2.3.apk",
+    "lang": "bg",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Fansubs.cat",
     "pkg": "eu.kanade.tachiyomi.extension.ca.fansubscat",
     "apk": "tachiyomi-ca.fansubscat-v1.2.1.apk",
@@ -1287,6 +1296,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Helvetica Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.helveticascans",
+    "apk": "tachiyomi-en.helveticascans-v1.2.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Hentai20",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentai20",
     "apk": "tachiyomi-en.hentai20-v1.2.7.apk",
@@ -1811,10 +1829,10 @@
   {
     "name": "Tachiyomi: MangaDoom",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadoom",
-    "apk": "tachiyomi-en.mangadoom-v1.2.2.apk",
+    "apk": "tachiyomi-en.mangadoom-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -4401,6 +4419,24 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Comics Valley",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsvalley",
+    "apk": "tachiyomi-hi.comicsvalley-v1.2.7.apk",
+    "lang": "hi",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: ComicsWorld",
+    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsworld",
+    "apk": "tachiyomi-hi.comicsworld-v1.2.7.apk",
+    "lang": "hi",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Bacakomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
     "apk": "tachiyomi-id.bacakomik-v1.2.3.apk",
@@ -4700,10 +4736,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.2.8.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.2.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -5125,6 +5161,15 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
     "apk": "tachiyomi-ko.toonkor-v1.2.3.apk",
     "lang": "ko",
+    "code": 3,
+    "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Phoenix-Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pl.phoenixscans",
+    "apk": "tachiyomi-pl.phoenixscans-v1.2.3.apk",
+    "lang": "pl",
     "code": 3,
     "version": "1.2.3",
     "nsfw": 0
@@ -6572,10 +6617,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.2.4.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.2.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {

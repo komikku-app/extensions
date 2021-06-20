@@ -738,15 +738,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Utsukushii",
-    "pkg": "eu.kanade.tachiyomi.extension.bg.utsukushii",
-    "apk": "tachiyomi-bg.utsukushii-v1.2.3.apk",
-    "lang": "bg",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: Fansubs.cat",
     "pkg": "eu.kanade.tachiyomi.extension.ca.fansubscat",
     "apk": "tachiyomi-ca.fansubscat-v1.2.1.apk",
@@ -4410,24 +4401,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Comics Valley",
-    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsvalley",
-    "apk": "tachiyomi-hi.comicsvalley-v1.2.7.apk",
-    "lang": "hi",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 1
-  },
-  {
-    "name": "Tachiyomi: ComicsWorld",
-    "pkg": "eu.kanade.tachiyomi.extension.hi.comicsworld",
-    "apk": "tachiyomi-hi.comicsworld-v1.2.7.apk",
-    "lang": "hi",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: Bacakomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.bacakomik",
     "apk": "tachiyomi-id.bacakomik-v1.2.3.apk",
@@ -5152,15 +5125,6 @@
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
     "apk": "tachiyomi-ko.toonkor-v1.2.3.apk",
     "lang": "ko",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Phoenix-Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.pl.phoenixscans",
-    "apk": "tachiyomi-pl.phoenixscans-v1.2.3.apk",
-    "lang": "pl",
     "code": 3,
     "version": "1.2.3",
     "nsfw": 0

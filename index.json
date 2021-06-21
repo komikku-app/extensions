@@ -261,15 +261,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: MangaSum",
-    "pkg": "eu.kanade.tachiyomi.extension.all.mangasum",
-    "apk": "tachiyomi-all.mangasum-v1.2.1.apk",
-    "lang": "all",
-    "code": 1,
-    "version": "1.2.1",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: Mangatoon (Limited)",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangatoon",
     "apk": "tachiyomi-all.mangatoon-v1.2.2.apk",
@@ -2099,10 +2090,10 @@
   {
     "name": "Tachiyomi: MangaOwl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaowl",
-    "apk": "tachiyomi-en.mangaowl-v1.2.9.apk",
+    "apk": "tachiyomi-en.mangaowl-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0
   },
   {
@@ -2232,6 +2223,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Manga Sky",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangasky",
+    "apk": "tachiyomi-en.mangasky-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: MangaStream.xyz",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangastreamxyz",
     "apk": "tachiyomi-en.mangastreamxyz-v1.2.1.apk",
@@ -2283,6 +2283,15 @@
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaToro",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangatoro",
+    "apk": "tachiyomi-en.mangatoro-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {
@@ -3903,6 +3912,15 @@
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Ancient Empire Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ancientempirescan",
+    "apk": "tachiyomi-es.ancientempirescan-v1.2.7.apk",
+    "lang": "es",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {

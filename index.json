@@ -3969,6 +3969,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Fusion Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.fusionscanlation",
+    "apk": "tachiyomi-es.fusionscanlation-v1.2.7.apk",
+    "lang": "es",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Hades no Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
     "apk": "tachiyomi-es.hadesnofansub-v1.2.7.apk",
@@ -4363,6 +4372,15 @@
     "code": 3,
     "version": "1.2.3",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Patatescans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.patatescans",
+    "apk": "tachiyomi-fr.patatescans-v1.2.7.apk",
+    "lang": "fr",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Scan FR",

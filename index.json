@@ -2108,10 +2108,10 @@
   {
     "name": "Tachiyomi: MangaOwl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaowl",
-    "apk": "tachiyomi-en.mangaowl-v1.2.12.apk",
+    "apk": "tachiyomi-en.mangaowl-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0
   },
   {
@@ -2244,6 +2244,15 @@
     "name": "Tachiyomi: Manga Sky",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasky",
     "apk": "tachiyomi-en.mangasky-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaStic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangastic",
+    "apk": "tachiyomi-en.mangastic-v1.2.7.apk",
     "lang": "en",
     "code": 7,
     "version": "1.2.7",
@@ -2796,6 +2805,15 @@
     "lang": "en",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 1
+  },
+  {
+    "name": "Tachiyomi: Oh No Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ohnomanga",
+    "apk": "tachiyomi-en.ohnomanga-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 1
   },
   {
@@ -6419,10 +6437,10 @@
   {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
-    "apk": "tachiyomi-vi.saytruyen-v1.2.4.apk",
+    "apk": "tachiyomi-vi.saytruyen-v1.2.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {

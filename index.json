@@ -2009,10 +2009,10 @@
   {
     "name": "Tachiyomi: MangaKitsune",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakitsune",
-    "apk": "tachiyomi-en.mangakitsune-v1.2.9.apk",
+    "apk": "tachiyomi-en.mangakitsune-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1
   },
   {
@@ -5544,6 +5544,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MHentais",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mhentais",
+    "apk": "tachiyomi-pt.mhentais-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Mode Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
     "apk": "tachiyomi-pt.modescanlator-v1.2.8.apk",
@@ -5578,6 +5587,15 @@
     "code": 12,
     "version": "1.2.12",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: NeoXXX Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.neoxxxscans",
+    "apk": "tachiyomi-pt.neoxxxscans-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Off Scan",
@@ -5964,6 +5982,15 @@
     "lang": "ru",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: YagamiProject",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.yagamiproject",
+    "apk": "tachiyomi-ru.yagamiproject-v1.2.1.apk",
+    "lang": "ru",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {

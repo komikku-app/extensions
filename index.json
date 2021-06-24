@@ -1746,6 +1746,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Manga4All",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manga4all",
+    "apk": "tachiyomi-en.manga4all-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Manga68",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga68",
     "apk": "tachiyomi-en.manga68-v1.2.8.apk",
@@ -1757,10 +1766,10 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.2.6.apk",
+    "apk": "tachiyomi-en.mangabat-v1.2.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.2.6",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -1881,6 +1890,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaFoxFull",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangafoxfull",
+    "apk": "tachiyomi-en.mangafoxfull-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Mangafreak",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafreak",
     "apk": "tachiyomi-en.mangafreak-v1.2.2.apk",
@@ -1946,10 +1964,10 @@
   {
     "name": "Tachiyomi: Mangairo",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangairo",
-    "apk": "tachiyomi-en.mangairo-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangairo-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
@@ -1964,19 +1982,19 @@
   {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-    "apk": "tachiyomi-en.mangakakalot-v1.2.5.apk",
+    "apk": "tachiyomi-en.mangakakalot-v1.2.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0
   },
   {
     "name": "Tachiyomi: Mangakakalots (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalots",
-    "apk": "tachiyomi-en.mangakakalots-v1.2.3.apk",
+    "apk": "tachiyomi-en.mangakakalots-v1.2.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -2025,6 +2043,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaLazy",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangalazy",
+    "apk": "tachiyomi-en.mangalazy-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: MangaLife",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangalife",
     "apk": "tachiyomi-en.mangalife-v1.2.20.apk",
@@ -2049,6 +2076,15 @@
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaMe",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangame",
+    "apk": "tachiyomi-en.mangame-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -2081,10 +2117,10 @@
   {
     "name": "Tachiyomi: Manganato",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganelo",
-    "apk": "tachiyomi-en.manganelo-v1.2.4.apk",
+    "apk": "tachiyomi-en.manganelo-v1.2.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.2.4",
+    "code": 5,
+    "version": "1.2.5",
     "nsfw": 0
   },
   {
@@ -2349,12 +2385,30 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaVB",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangavb",
+    "apk": "tachiyomi-en.mangavb-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
     "apk": "tachiyomi-en.mangaweebs-v1.2.8.apk",
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaWise",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangawise",
+    "apk": "tachiyomi-en.mangawise-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -2387,10 +2441,19 @@
   {
     "name": "Tachiyomi: ManhuaBox",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuabox",
-    "apk": "tachiyomi-en.manhuabox-v1.2.8.apk",
+    "apk": "tachiyomi-en.manhuabox-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: ManhuaDex",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuadex",
+    "apk": "tachiyomi-en.manhuadex-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -2547,6 +2610,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: ManhwaWorld",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwaworld",
+    "apk": "tachiyomi-en.manhwaworld-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Man Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.manmanga",
     "apk": "tachiyomi-en.manmanga-v1.2.1.apk",
@@ -2576,11 +2648,11 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.2.8.apk",
+    "apk": "tachiyomi-en.manytoon-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
-    "nsfw": 0
+    "code": 9,
+    "version": "1.2.9",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: ManyToon.me",
@@ -5490,6 +5562,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Lima Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.limascans",
+    "apk": "tachiyomi-pt.limascans-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Little Monster Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.littlemonsterscan",
     "apk": "tachiyomi-pt.littlemonsterscan-v1.2.9.apk",
@@ -5559,6 +5640,15 @@
     "lang": "pt",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Moon Witch In Love",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.moonwitchinlove",
+    "apk": "tachiyomi-pt.moonwitchinlove-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -5897,10 +5987,10 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.2.10.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.2.11.apk",
     "lang": "ru",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {
@@ -6554,10 +6644,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.21.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.22.apk",
     "lang": "zh",
-    "code": 21,
-    "version": "1.2.21",
+    "code": 22,
+    "version": "1.2.22",
     "nsfw": 0
   },
   {

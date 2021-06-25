@@ -2171,10 +2171,10 @@
   {
     "name": "Tachiyomi: MangaPill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapill",
-    "apk": "tachiyomi-en.mangapill-v1.2.2.apk",
+    "apk": "tachiyomi-en.mangapill-v1.2.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.2.2",
+    "code": 3,
+    "version": "1.2.3",
     "nsfw": 0
   },
   {
@@ -2702,10 +2702,10 @@
   {
     "name": "Tachiyomi: Midnight Mess Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.midnightmessscans",
-    "apk": "tachiyomi-en.midnightmessscans-v1.2.10.apk",
+    "apk": "tachiyomi-en.midnightmessscans-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 1
   },
   {
@@ -3962,10 +3962,10 @@
   {
     "name": "Tachiyomi: XuN Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.xunscans",
-    "apk": "tachiyomi-en.xunscans-v1.2.8.apk",
+    "apk": "tachiyomi-en.xunscans-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -5960,10 +5960,10 @@
   {
     "name": "Tachiyomi: MangaLib",
     "pkg": "eu.kanade.tachiyomi.extension.ru.libmanga",
-    "apk": "tachiyomi-ru.libmanga-v1.2.52.apk",
+    "apk": "tachiyomi-ru.libmanga-v1.2.53.apk",
     "lang": "ru",
-    "code": 52,
-    "version": "1.2.52",
+    "code": 53,
+    "version": "1.2.53",
     "nsfw": 0
   },
   {
@@ -6050,10 +6050,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.2.31.apk",
+    "apk": "tachiyomi-ru.remanga-v1.2.32.apk",
     "lang": "ru",
-    "code": 31,
-    "version": "1.2.31",
+    "code": 32,
+    "version": "1.2.32",
     "nsfw": 0
   },
   {
@@ -6644,10 +6644,10 @@
   {
     "name": "Tachiyomi: CopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.zh.copymanga",
-    "apk": "tachiyomi-zh.copymanga-v1.2.9.apk",
+    "apk": "tachiyomi-zh.copymanga-v1.2.10.apk",
     "lang": "zh",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0
   },
   {

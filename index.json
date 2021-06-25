@@ -173,10 +173,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.2.27.apk",
+    "apk": "tachiyomi-all.komga-v1.2.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "1.2.27",
+    "code": 28,
+    "version": "1.2.28",
     "nsfw": 0
   },
   {
@@ -1152,6 +1152,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Exo Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.exoscans",
+    "apk": "tachiyomi-en.exoscans-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Cyanide & Happiness",
     "pkg": "eu.kanade.tachiyomi.extension.en.explosm",
     "apk": "tachiyomi-en.explosm-v1.2.3.apk",
@@ -1748,10 +1757,10 @@
   {
     "name": "Tachiyomi: Manga4All",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga4all",
-    "apk": "tachiyomi-en.manga4all-v1.2.7.apk",
+    "apk": "tachiyomi-en.manga4all-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -2045,10 +2054,10 @@
   {
     "name": "Tachiyomi: MangaLazy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangalazy",
-    "apk": "tachiyomi-en.mangalazy-v1.2.7.apk",
+    "apk": "tachiyomi-en.mangalazy-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {
@@ -2081,10 +2090,10 @@
   {
     "name": "Tachiyomi: MangaMe",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangame",
-    "apk": "tachiyomi-en.mangame-v1.2.7.apk",
+    "apk": "tachiyomi-en.mangame-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -2396,10 +2405,10 @@
   {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
-    "apk": "tachiyomi-en.mangaweebs-v1.2.8.apk",
+    "apk": "tachiyomi-en.mangaweebs-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -2450,10 +2459,10 @@
   {
     "name": "Tachiyomi: ManhuaDex",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuadex",
-    "apk": "tachiyomi-en.manhuadex-v1.2.7.apk",
+    "apk": "tachiyomi-en.manhuadex-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -2693,10 +2702,10 @@
   {
     "name": "Tachiyomi: Midnight Mess Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.midnightmessscans",
-    "apk": "tachiyomi-en.midnightmessscans-v1.2.9.apk",
+    "apk": "tachiyomi-en.midnightmessscans-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1
   },
   {
@@ -4961,10 +4970,10 @@
   {
     "name": "Tachiyomi: World Romance Translation",
     "pkg": "eu.kanade.tachiyomi.extension.id.worldromancetranslation",
-    "apk": "tachiyomi-id.worldromancetranslation-v1.2.8.apk",
+    "apk": "tachiyomi-id.worldromancetranslation-v1.2.9.apk",
     "lang": "id",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -6077,10 +6086,10 @@
   {
     "name": "Tachiyomi: YagamiProject",
     "pkg": "eu.kanade.tachiyomi.extension.ru.yagamiproject",
-    "apk": "tachiyomi-ru.yagamiproject-v1.2.1.apk",
+    "apk": "tachiyomi-ru.yagamiproject-v1.2.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {
@@ -6401,10 +6410,10 @@
   {
     "name": "Tachiyomi: Siyahmelek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.2.8.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.2.9.apk",
     "lang": "tr",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {
@@ -6644,10 +6653,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.22.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.23.apk",
     "lang": "zh",
-    "code": 22,
-    "version": "1.2.22",
+    "code": 23,
+    "version": "1.2.23",
     "nsfw": 0
   },
   {

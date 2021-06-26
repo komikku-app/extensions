@@ -4340,10 +4340,10 @@
   {
     "name": "Tachiyomi: Fukushuu no Yuusha",
     "pkg": "eu.kanade.tachiyomi.extension.fr.fukushuunoyuusha",
-    "apk": "tachiyomi-fr.fukushuunoyuusha-v1.2.8.apk",
+    "apk": "tachiyomi-fr.fukushuunoyuusha-v1.2.9.apk",
     "lang": "fr",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

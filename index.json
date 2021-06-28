@@ -1827,6 +1827,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaDNA",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangadna",
+    "apk": "tachiyomi-en.mangadna-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: MangaDods",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
     "apk": "tachiyomi-en.mangadods-v1.2.9.apk",
@@ -1896,6 +1905,15 @@
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaFort",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangafort",
+    "apk": "tachiyomi-en.mangafort-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -3931,6 +3949,15 @@
     "code": 10,
     "version": "1.2.10",
     "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: XManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.xmanga",
+    "apk": "tachiyomi-en.xmanga-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: XOXO Comics",

@@ -6662,10 +6662,10 @@
   {
     "name": "Tachiyomi: Dmzj",
     "pkg": "eu.kanade.tachiyomi.extension.zh.dmzj",
-    "apk": "tachiyomi-zh.dmzj-v1.2.23.apk",
+    "apk": "tachiyomi-zh.dmzj-v1.2.24.apk",
     "lang": "zh",
-    "code": 23,
-    "version": "1.2.23",
+    "code": 24,
+    "version": "1.2.24",
     "nsfw": 0
   },
   {

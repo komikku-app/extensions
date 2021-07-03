@@ -225,6 +225,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Magical Translators",
+    "pkg": "eu.kanade.tachiyomi.extension.all.magicaltranslators",
+    "apk": "tachiyomi-all.magicaltranslators-v1.2.2.apk",
+    "lang": "all",
+    "code": 2,
+    "version": "1.2.2",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
     "apk": "tachiyomi-all.mangadex-v1.2.121.apk",
@@ -785,10 +794,10 @@
   {
     "name": "Tachiyomi: Ace Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.acescans",
-    "apk": "tachiyomi-en.acescans-v1.2.7.apk",
+    "apk": "tachiyomi-en.acescans-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -1217,10 +1226,10 @@
   {
     "name": "Tachiyomi: Flame Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamescans",
-    "apk": "tachiyomi-en.flamescans-v1.2.12.apk",
+    "apk": "tachiyomi-en.flamescans-v1.2.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.2.12",
+    "code": 13,
+    "version": "1.2.13",
     "nsfw": 0
   },
   {
@@ -6077,10 +6086,10 @@
   {
     "name": "Tachiyomi: Mintmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.2.30.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.2.31.apk",
     "lang": "ru",
-    "code": 30,
-    "version": "1.2.30",
+    "code": 31,
+    "version": "1.2.31",
     "nsfw": 0
   },
   {
@@ -6095,10 +6104,10 @@
   {
     "name": "Tachiyomi: Readmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.2.29.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.2.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.2.29",
+    "code": 30,
+    "version": "1.2.30",
     "nsfw": 0
   },
   {
@@ -6131,10 +6140,10 @@
   {
     "name": "Tachiyomi: Selfmanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.2.8.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.2.9.apk",
     "lang": "ru",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

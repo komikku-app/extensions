@@ -5580,6 +5580,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Diskus Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.diskusscan",
+    "apk": "tachiyomi-pt.diskusscan-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Drope Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dropescan",
     "apk": "tachiyomi-pt.dropescan-v1.2.9.apk",
@@ -5829,6 +5838,15 @@
     "lang": "pt",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: NekoBreaker Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nekobreakerscan",
+    "apk": "tachiyomi-pt.nekobreakerscan-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {

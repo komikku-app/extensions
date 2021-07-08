@@ -4250,10 +4250,10 @@
   {
     "name": "Tachiyomi: Fusion Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.fusionscanlation",
-    "apk": "tachiyomi-es.fusionscanlation-v1.2.8.apk",
+    "apk": "tachiyomi-es.fusionscanlation-v1.2.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {

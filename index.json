@@ -846,6 +846,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Aqua Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aquamanga",
+    "apk": "tachiyomi-en.aquamanga-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Arang Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arangscans",
     "apk": "tachiyomi-en.arangscans-v1.2.11.apk",
@@ -1890,15 +1899,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: MangaDNA",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangadna",
-    "apk": "tachiyomi-en.mangadna-v1.2.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: MangaDods",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
     "apk": "tachiyomi-en.mangadods-v1.2.9.apk",
@@ -2140,15 +2140,6 @@
     "code": 11,
     "version": "1.2.11",
     "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: MangaLazy",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangalazy",
-    "apk": "tachiyomi-en.mangalazy-v1.2.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
-    "nsfw": 1
   },
   {
     "name": "Tachiyomi: MangaLife",
@@ -2442,6 +2433,15 @@
     "name": "Tachiyomi: MangaTK",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatk",
     "apk": "tachiyomi-en.mangatk-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaTone",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangatone",
+    "apk": "tachiyomi-en.mangatone-v1.2.7.apk",
     "lang": "en",
     "code": 7,
     "version": "1.2.7",
@@ -3606,6 +3606,15 @@
     "lang": "en",
     "code": 8,
     "version": "1.2.8",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Scans Raw",
+    "pkg": "eu.kanade.tachiyomi.extension.en.scansraw",
+    "apk": "tachiyomi-en.scansraw-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {

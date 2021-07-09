@@ -2504,10 +2504,10 @@
   {
     "name": "Tachiyomi: Manga Weebs",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaweebs",
-    "apk": "tachiyomi-en.mangaweebs-v1.2.9.apk",
+    "apk": "tachiyomi-en.mangaweebs-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0
   },
   {
@@ -3773,10 +3773,10 @@
   {
     "name": "Tachiyomi: Swords Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.swordscomic",
-    "apk": "tachiyomi-en.swordscomic-v1.2.1.apk",
+    "apk": "tachiyomi-en.swordscomic-v1.2.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 2,
+    "version": "1.2.2",
     "nsfw": 0
   },
   {

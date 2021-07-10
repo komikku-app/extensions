@@ -837,6 +837,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Anitation Arts",
+    "pkg": "eu.kanade.tachiyomi.extension.en.anitationarts",
+    "apk": "tachiyomi-en.anitationarts-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: A Pair of 2+",
     "pkg": "eu.kanade.tachiyomi.extension.en.apairof2",
     "apk": "tachiyomi-en.apairof2-v1.2.8.apk",
@@ -1215,12 +1224,12 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: 1st Kiss",
+    "name": "Tachiyomi: 1st Kiss Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanga",
-    "apk": "tachiyomi-en.firstkissmanga-v1.2.10.apk",
+    "apk": "tachiyomi-en.firstkissmanga-v1.2.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.2.10",
+    "code": 11,
+    "version": "1.2.11",
     "nsfw": 0
   },
   {
@@ -1737,6 +1746,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Lolicon",
+    "pkg": "eu.kanade.tachiyomi.extension.en.lolicon",
+    "apk": "tachiyomi-en.lolicon-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
     "apk": "tachiyomi-en.luminousscans-v1.2.8.apk",
@@ -1820,10 +1838,10 @@
   {
     "name": "Tachiyomi: Manga4All",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga4all",
-    "apk": "tachiyomi-en.manga4all-v1.2.8.apk",
+    "apk": "tachiyomi-en.manga4all-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -1962,6 +1980,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Manga-fast.com",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangafastcom",
+    "apk": "tachiyomi-en.mangafastcom-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Manga1st.online",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafirstonline",
     "apk": "tachiyomi-en.mangafirstonline-v1.2.8.apk",
@@ -1995,6 +2022,15 @@
     "lang": "en",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Manga Funny",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangafunny",
+    "apk": "tachiyomi-en.mangafunny-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -2457,6 +2493,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaToRead",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangatoread",
+    "apk": "tachiyomi-en.mangatoread-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Mangatown",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatown",
     "apk": "tachiyomi-en.mangatown-v1.2.4.apk",
@@ -2514,6 +2559,15 @@
     "name": "Tachiyomi: MangaWise",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangawise",
     "apk": "tachiyomi-en.mangawise-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: MangaXP",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangaxp",
+    "apk": "tachiyomi-en.mangaxp-v1.2.7.apk",
     "lang": "en",
     "code": 7,
     "version": "1.2.7",
@@ -2682,6 +2736,15 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Manhwa68",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwa68",
+    "apk": "tachiyomi-en.manhwa68-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: ManhwaBookShelf",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwabookshelf",
     "apk": "tachiyomi-en.manhwabookshelf-v1.2.7.apk",
@@ -2721,6 +2784,15 @@
     "name": "Tachiyomi: ManhwaNelo",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwanelo",
     "apk": "tachiyomi-en.manhwanelo-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Manhwaraw.net",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwarawnet",
+    "apk": "tachiyomi-en.manhwarawnet-v1.2.7.apk",
     "lang": "en",
     "code": 7,
     "version": "1.2.7",

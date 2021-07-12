@@ -6057,6 +6057,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Red Ribbon Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.redribbonscanlator",
+    "apk": "tachiyomi-pt.redribbonscanlator-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Remangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
     "apk": "tachiyomi-pt.remangas-v1.2.5.apk",

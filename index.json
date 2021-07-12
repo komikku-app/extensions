@@ -902,10 +902,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.2.8.apk",
+    "apk": "tachiyomi-en.asurascans-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -1838,10 +1838,10 @@
   {
     "name": "Tachiyomi: Manga4All",
     "pkg": "eu.kanade.tachiyomi.extension.en.manga4all",
-    "apk": "tachiyomi-en.manga4all-v1.2.9.apk",
+    "apk": "tachiyomi-en.manga4all-v1.2.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 0
   },
   {
@@ -1917,6 +1917,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: MangaCV",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangacv",
+    "apk": "tachiyomi-en.mangacv-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: MangaDods",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadods",
     "apk": "tachiyomi-en.mangadods-v1.2.9.apk",
@@ -1982,10 +1991,10 @@
   {
     "name": "Tachiyomi: Manga-fast.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafastcom",
-    "apk": "tachiyomi-en.mangafastcom-v1.2.7.apk",
+    "apk": "tachiyomi-en.mangafastcom-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {
@@ -2738,10 +2747,10 @@
   {
     "name": "Tachiyomi: Manhwa68",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwa68",
-    "apk": "tachiyomi-en.manhwa68-v1.2.7.apk",
+    "apk": "tachiyomi-en.manhwa68-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {
@@ -2955,6 +2964,15 @@
     "name": "Tachiyomi: Mortals Groove",
     "pkg": "eu.kanade.tachiyomi.extension.en.mortalsgroove",
     "apk": "tachiyomi-en.mortalsgroove-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Muctau",
+    "pkg": "eu.kanade.tachiyomi.extension.en.muctau",
+    "apk": "tachiyomi-en.muctau-v1.2.7.apk",
     "lang": "en",
     "code": 7,
     "version": "1.2.7",
@@ -4257,12 +4275,21 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Zin Translator",
-    "pkg": "eu.kanade.tachiyomi.extension.en.zintranslator",
-    "apk": "tachiyomi-en.zintranslator-v1.2.8.apk",
+    "name": "Tachiyomi: Zinmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.zinmanga",
+    "apk": "tachiyomi-en.zinmanga-v1.2.7.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Zinmanhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
+    "apk": "tachiyomi-en.zinmanhwa-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {

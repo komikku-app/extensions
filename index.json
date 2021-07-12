@@ -3665,10 +3665,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.2.1.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.2.7.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {

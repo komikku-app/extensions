@@ -1892,10 +1892,10 @@
   {
     "name": "Tachiyomi: Manga Chill",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangachill",
-    "apk": "tachiyomi-en.mangachill-v1.2.8.apk",
+    "apk": "tachiyomi-en.mangachill-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -3933,6 +3933,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: TeenManhua",
+    "pkg": "eu.kanade.tachiyomi.extension.en.teenmanhua",
+    "apk": "tachiyomi-en.teenmanhua-v1.2.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: The Apollo Team",
     "pkg": "eu.kanade.tachiyomi.extension.en.theapolloteam",
     "apk": "tachiyomi-en.theapolloteam-v1.2.7.apk",
@@ -4007,11 +4016,11 @@
   {
     "name": "Tachiyomi: ToonGod",
     "pkg": "eu.kanade.tachiyomi.extension.en.toongod",
-    "apk": "tachiyomi-en.toongod-v1.2.8.apk",
+    "apk": "tachiyomi-en.toongod-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
-    "nsfw": 0
+    "code": 9,
+    "version": "1.2.9",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Toonily",
@@ -4160,19 +4169,19 @@
   {
     "name": "Tachiyomi: WebToonily",
     "pkg": "eu.kanade.tachiyomi.extension.en.webtoonily",
-    "apk": "tachiyomi-en.webtoonily-v1.2.7.apk",
+    "apk": "tachiyomi-en.webtoonily-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 0
+    "code": 8,
+    "version": "1.2.8",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: WebtoonUK",
     "pkg": "eu.kanade.tachiyomi.extension.en.webtoonuk",
-    "apk": "tachiyomi-en.webtoonuk-v1.2.8.apk",
+    "apk": "tachiyomi-en.webtoonuk-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -6896,10 +6905,10 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.2.3.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.2.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {
@@ -6914,10 +6923,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.2.3.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.2.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.2.3",
+    "code": 4,
+    "version": "1.2.4",
     "nsfw": 0
   },
   {

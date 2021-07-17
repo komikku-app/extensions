@@ -6059,11 +6059,11 @@
   {
     "name": "Tachiyomi: Mundo Mangá-Kun",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mundomangakun",
-    "apk": "tachiyomi-pt.mundomangakun-v1.2.3.apk",
+    "apk": "tachiyomi-pt.mundomangakun-v1.2.4.apk",
     "lang": "pt",
-    "code": 3,
-    "version": "1.2.3",
-    "nsfw": 0
+    "code": 4,
+    "version": "1.2.4",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: NekoBreaker Scan",

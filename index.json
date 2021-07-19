@@ -5985,6 +5985,15 @@
     "nsfw": 0
   },
   {
+    "name": "Tachiyomi: Dream Union Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.dreamunionscan",
+    "apk": "tachiyomi-pt.dreamunionscan-v1.2.7.apk",
+    "lang": "pt",
+    "code": 7,
+    "version": "1.2.7",
+    "nsfw": 0
+  },
+  {
     "name": "Tachiyomi: Drope Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dropescan",
     "apk": "tachiyomi-pt.dropescan-v1.2.9.apk",

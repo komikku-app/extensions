@@ -4709,10 +4709,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.2.16.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.2.17.apk",
     "lang": "es",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0
   },
   {

@@ -4320,12 +4320,21 @@
     "nsfw": 1
   },
   {
+    "name": "Tachiyomi: Toonily",
+    "pkg": "eu.kanade.tachiyomi.extension.en.toonily",
+    "apk": "tachiyomi-en.toonily-v1.2.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.2.11",
+    "nsfw": 1
+  },
+  {
     "name": "Tachiyomi: Toonily.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonilynet",
-    "apk": "tachiyomi-en.toonilynet-v1.2.8.apk",
+    "apk": "tachiyomi-en.toonilynet-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 1
   },
   {

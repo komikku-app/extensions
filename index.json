@@ -542,10 +542,19 @@
   {
     "name": "Tachiyomi: شبكة كونان العربية",
     "pkg": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
-    "apk": "tachiyomi-ar.detectiveconanar-v1.2.8.apk",
+    "apk": "tachiyomi-ar.detectiveconanar-v1.2.9.apk",
     "lang": "ar",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Fug Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.fugmanga",
+    "apk": "tachiyomi-ar.fugmanga-v1.2.7.apk",
+    "lang": "ar",
+    "code": 7,
+    "version": "1.2.7",
     "nsfw": 0
   },
   {
@@ -587,10 +596,10 @@
   {
     "name": "Tachiyomi: مانجا عرب تيم Manga Arab Team",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaarabteam",
-    "apk": "tachiyomi-ar.mangaarabteam-v1.2.7.apk",
+    "apk": "tachiyomi-ar.mangaarabteam-v1.2.8.apk",
     "lang": "ar",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 0
   },
   {

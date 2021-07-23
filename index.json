@@ -6653,10 +6653,10 @@
   {
     "name": "Tachiyomi: Henchan",
     "pkg": "eu.kanade.tachiyomi.extension.ru.henchan",
-    "apk": "tachiyomi-ru.henchan-v1.2.22.apk",
+    "apk": "tachiyomi-ru.henchan-v1.2.23.apk",
     "lang": "ru",
-    "code": 22,
-    "version": "1.2.22",
+    "code": 23,
+    "version": "1.2.23",
     "nsfw": 1
   },
   {

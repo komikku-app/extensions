@@ -6356,19 +6356,19 @@
   {
     "name": "Tachiyomi: Neox Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxscanlator",
-    "apk": "tachiyomi-pt.neoxscanlator-v1.2.14.apk",
+    "apk": "tachiyomi-pt.neoxscanlator-v1.2.15.apk",
     "lang": "pt",
-    "code": 14,
-    "version": "1.2.14",
+    "code": 15,
+    "version": "1.2.15",
     "nsfw": 0
   },
   {
     "name": "Tachiyomi: NeoXXX Scans",
     "pkg": "eu.kanade.tachiyomi.extension.pt.neoxxxscans",
-    "apk": "tachiyomi-pt.neoxxxscans-v1.2.9.apk",
+    "apk": "tachiyomi-pt.neoxxxscans-v1.2.10.apk",
     "lang": "pt",
-    "code": 9,
-    "version": "1.2.9",
+    "code": 10,
+    "version": "1.2.10",
     "nsfw": 1
   },
   {

@@ -812,11 +812,11 @@
   {
     "name": "Tachiyomi: Ace Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.acescans",
-    "apk": "tachiyomi-en.acescans-v1.2.8.apk",
+    "apk": "tachiyomi-en.acescans-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
-    "nsfw": 0
+    "code": 9,
+    "version": "1.2.9",
+    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Agent of Change Translations",

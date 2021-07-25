@@ -1305,15 +1305,6 @@
     "nsfw": 0
   },
   {
-    "name": "Tachiyomi: Flame Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.flamescans",
-    "apk": "tachiyomi-en.flamescans-v1.2.16.apk",
-    "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
-    "nsfw": 0
-  },
-  {
     "name": "Tachiyomi: Free Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.freemanga",
     "apk": "tachiyomi-en.freemanga-v1.2.9.apk",

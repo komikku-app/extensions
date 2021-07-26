@@ -326,10 +326,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.2.28.apk",
+    "apk": "tachiyomi-all.nhentai-v1.2.29.apk",
     "lang": "all",
-    "code": 28,
-    "version": "1.2.28",
+    "code": 29,
+    "version": "1.2.29",
     "nsfw": 1
   },
   {
@@ -2216,10 +2216,10 @@
   {
     "name": "Tachiyomi: Manga Hero",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahero",
-    "apk": "tachiyomi-en.mangahero-v1.2.8.apk",
+    "apk": "tachiyomi-en.mangahero-v1.2.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -4430,10 +4430,10 @@
   {
     "name": "Tachiyomi: WebToon18",
     "pkg": "eu.kanade.tachiyomi.extension.en.webtoon18",
-    "apk": "tachiyomi-en.webtoon18-v1.2.7.apk",
+    "apk": "tachiyomi-en.webtoon18-v1.2.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.2.7",
+    "code": 8,
+    "version": "1.2.8",
     "nsfw": 1
   },
   {

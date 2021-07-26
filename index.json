@@ -236,10 +236,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.2.126.apk",
+    "apk": "tachiyomi-all.mangadex-v1.2.127.apk",
     "lang": "all",
-    "code": 126,
-    "version": "1.2.126",
+    "code": 127,
+    "version": "1.2.127",
     "nsfw": 1
   },
   {
@@ -704,10 +704,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.2.8.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.2.9.apk",
     "lang": "ar",
-    "code": 8,
-    "version": "1.2.8",
+    "code": 9,
+    "version": "1.2.9",
     "nsfw": 0
   },
   {
@@ -1104,6 +1104,15 @@
     "lang": "en",
     "code": 3,
     "version": "1.2.3",
+    "nsfw": 0
+  },
+  {
+    "name": "Tachiyomi: Comikey",
+    "pkg": "eu.kanade.tachiyomi.extension.en.comikey",
+    "apk": "tachiyomi-en.comikey-v1.2.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.2.1",
     "nsfw": 0
   },
   {
@@ -2459,10 +2468,10 @@
   {
     "name": "Tachiyomi: MangaOwl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaowl",
-    "apk": "tachiyomi-en.mangaowl-v1.2.16.apk",
+    "apk": "tachiyomi-en.mangaowl-v1.2.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.2.16",
+    "code": 17,
+    "version": "1.2.17",
     "nsfw": 0
   },
   {
@@ -3678,15 +3687,6 @@
     "lang": "en",
     "code": 3,
     "version": "1.2.3",
-    "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Readjump",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readjump",
-    "apk": "tachiyomi-en.readjump-v1.2.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.2.1",
     "nsfw": 0
   },
   {
@@ -6496,15 +6496,6 @@
     "code": 10,
     "version": "1.2.10",
     "nsfw": 0
-  },
-  {
-    "name": "Tachiyomi: Toonei",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.toonei",
-    "apk": "tachiyomi-pt.toonei-v1.2.7.apk",
-    "lang": "pt",
-    "code": 7,
-    "version": "1.2.7",
-    "nsfw": 1
   },
   {
     "name": "Tachiyomi: Tsuki Mangás",

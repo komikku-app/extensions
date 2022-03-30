@@ -8647,6 +8647,25 @@
     ]
   },
   {
+    "name": "Tachiyomi: Luminous Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
+    "apk": "tachiyomi-en.luminousscans-v1.2.13.apk",
+    "lang": "en",
+    "code": 13,
+    "version": "1.2.13",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Luminous Scans",
+        "lang": "en",
+        "id": "1019556752273106311",
+        "baseUrl": "https://www.luminousscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LynxScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.lynxscans",
     "apk": "tachiyomi-en.lynxscans-v1.2.6.apk",

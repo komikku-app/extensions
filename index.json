@@ -7169,10 +7169,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.2.5.apk",
+    "apk": "tachiyomi-ar.teamx-v1.2.6.apk",
     "lang": "ar",
-    "code": 5,
-    "version": "1.2.5",
+    "code": 6,
+    "version": "1.2.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

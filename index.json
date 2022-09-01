@@ -7078,10 +7078,10 @@
   {
     "name": "Tachiyomi: TeamX",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.3.13.apk",
+    "apk": "tachiyomi-ar.teamx-v1.3.14.apk",
     "lang": "ar",
-    "code": 13,
-    "version": "1.3.13",
+    "code": 14,
+    "version": "1.3.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

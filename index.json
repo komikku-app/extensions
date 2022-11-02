@@ -6847,10 +6847,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.3.31.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.3.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.3.31",
+    "code": 32,
+    "version": "1.3.32",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,

@@ -6507,10 +6507,10 @@
   {
     "name": "Tachiyomi: Azora",
     "pkg": "eu.kanade.tachiyomi.extension.ar.azora",
-    "apk": "tachiyomi-ar.azora-v1.3.31.apk",
+    "apk": "tachiyomi-ar.azora-v1.3.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.3.31",
+    "code": 32,
+    "version": "1.3.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6519,7 +6519,7 @@
         "name": "Azora",
         "lang": "ar",
         "id": "3544999809861403189",
-        "baseUrl": "https://azoraworlds.net",
+        "baseUrl": "https://azoranov.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -6969,10 +6969,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.3.28.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.3.29.apk",
     "lang": "ar",
-    "code": 28,
-    "version": "1.3.28",
+    "code": 29,
+    "version": "1.3.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -6981,7 +6981,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatmanga.me",
+        "baseUrl": "https://swatmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21028,7 +21028,7 @@
         "name": "MangaRaw",
         "lang": "ja",
         "id": "4572869149806246133",
-        "baseUrl": "https://mangaraw.io",
+        "baseUrl": "https://mangarawjp.io",
         "versionId": 2,
         "hasCloudflare": 1
       }
@@ -21548,7 +21548,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki166.net",
+        "baseUrl": "https://manatoki167.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21556,7 +21556,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki166.com",
+        "baseUrl": "https://newtoki167.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27121,7 +27121,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://6mh66.com",
+        "baseUrl": "http://qiximh3.com",
         "versionId": 1,
         "hasCloudflare": 0
       }

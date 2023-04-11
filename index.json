@@ -6969,10 +6969,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.3.29.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.3.30.apk",
     "lang": "ar",
-    "code": 29,
-    "version": "1.3.29",
+    "code": 30,
+    "version": "1.3.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -6981,7 +6981,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://swatmanga.net",
+        "baseUrl": "https://swatmanga.me",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -21548,7 +21548,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki167.net",
+        "baseUrl": "https://manatoki176.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -21556,7 +21556,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki167.com",
+        "baseUrl": "https://newtoki176.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -27121,7 +27121,7 @@
         "name": "6漫画",
         "lang": "zh",
         "id": "7259486566651312186",
-        "baseUrl": "http://qiximh3.com",
+        "baseUrl": "http://6mh66.com",
         "versionId": 1,
         "hasCloudflare": 0
       }

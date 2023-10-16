@@ -7608,10 +7608,10 @@
   {
     "name": "Tachiyomi: Ozul Scans",
     "pkg": "eu.kanade.tachiyomi.extension.ar.ozulscans",
-    "apk": "tachiyomi-ar.ozulscans-v1.4.27.apk",
+    "apk": "tachiyomi-ar.ozulscans-v1.4.28.apk",
     "lang": "ar",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -7620,7 +7620,7 @@
         "name": "Ozul Scans",
         "lang": "ar",
         "id": "3453769904666687440",
-        "baseUrl": "https://ozulscans.xyz",
+        "baseUrl": "https://ar-ozulscans.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24001,7 +24001,7 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki309.net",
+        "baseUrl": "https://manatoki311.net",
         "versionId": 1,
         "hasCloudflare": 1
       },
@@ -24009,7 +24009,7 @@
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki309.com",
+        "baseUrl": "https://newtoki311.com",
         "versionId": 1,
         "hasCloudflare": 1
       }

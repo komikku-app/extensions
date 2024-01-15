@@ -28797,10 +28797,10 @@
   {
     "name": "Tachiyomi: O Cu Meo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.4.apk",
+    "apk": "tachiyomi-vi.ocumeo-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28809,7 +28809,7 @@
         "name": "Ổ Cú Mèo",
         "lang": "vi",
         "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumoe.com",
+        "baseUrl": "https://www.ocumeo.online",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28818,10 +28818,10 @@
   {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
-    "apk": "tachiyomi-vi.saytruyen-v1.4.11.apk",
+    "apk": "tachiyomi-vi.saytruyen-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28830,7 +28830,7 @@
         "name": "Say Truyen",
         "lang": "vi",
         "id": "427405262130276885",
-        "baseUrl": "https://saytruyenvip.com",
+        "baseUrl": "https://saytruyenmoi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28860,10 +28860,10 @@
   {
     "name": "Tachiyomi: TruyenGiHot",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengihot",
-    "apk": "tachiyomi-vi.truyengihot-v1.4.3.apk",
+    "apk": "tachiyomi-vi.truyengihot-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28872,7 +28872,7 @@
         "name": "TruyenGiHot",
         "lang": "vi",
         "id": "5660308466992750861",
-        "baseUrl": "https://truyengihotne.com",
+        "baseUrl": "https://truyengihotqua.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28881,10 +28881,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.12.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28893,7 +28893,7 @@
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqne.com/",
+        "baseUrl": "https://truyenqqvn.com/",
         "versionId": 1,
         "hasCloudflare": 1
       }

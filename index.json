@@ -11138,11 +11138,11 @@
   {
     "name": "Tachiyomi: LuxManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.luxmanga",
-    "apk": "tachiyomi-en.luxmanga-v1.4.32.apk",
+    "apk": "tachiyomi-en.luxmanga-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11150,7 +11150,7 @@
         "name": "LuxManga",
         "lang": "en",
         "id": "3831997062665742721",
-        "baseUrl": "https://luxmanga.com",
+        "baseUrl": "https://luxmanga.net",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -26023,6 +26023,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Nexo Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.nexoscans",
+    "apk": "tachiyomi-pt.nexoscans-v1.4.32.apk",
+    "lang": "pt-BR",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Nexo Scans",
+        "lang": "pt-BR",
+        "id": "3589167245092122415",
+        "baseUrl": "https://nexoscans.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nocturne Summer",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
     "apk": "tachiyomi-pt.nocturnesummer-v1.4.32.apk",
@@ -29467,18 +29488,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: ColaManhua (OhManhua)",
+    "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.12.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "COLA漫画 (OH漫画)",
+        "name": "COLAMANGA",
         "lang": "zh",
         "id": "8252565807829914103",
         "baseUrl": "https://www.colamanga.com",

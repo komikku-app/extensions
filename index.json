@@ -1540,10 +1540,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.8.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1552,7 +1552,7 @@
         "name": "Coomer",
         "lang": "all",
         "id": "8715899195746116471",
-        "baseUrl": "https://coomer.party",
+        "baseUrl": "https://coomer.su",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -2681,10 +2681,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.8.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2693,7 +2693,7 @@
         "name": "Kemono",
         "lang": "all",
         "id": "2011050813940802605",
-        "baseUrl": "https://kemono.party",
+        "baseUrl": "https://kemono.su",
         "versionId": 1,
         "hasCloudflare": 0
       }
@@ -8122,7 +8122,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Asura Scans.us (unoriginal)",
+    "name": "Tachiyomi: Asura Scans.us",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascansus",
     "apk": "tachiyomi-en.asurascansus-v1.4.32.apk",
     "lang": "en",
@@ -8133,9 +8133,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Asura Scans.us (unoriginal)",
+        "name": "Asura Scans.us",
         "lang": "en",
-        "id": "5972356691480259456",
+        "id": "2621525712489581681",
         "baseUrl": "https://asurascans.us",
         "versionId": 1,
         "hasCloudflare": 1
@@ -12138,27 +12138,6 @@
         "lang": "en",
         "id": "2470059397662084186",
         "baseUrl": "https://www.mangago.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: MangaGo Yaoi",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangagoyaoi",
-    "apk": "tachiyomi-en.mangagoyaoi-v1.4.32.apk",
-    "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaGo Yaoi",
-        "lang": "en",
-        "id": "5308594741304208652",
-        "baseUrl": "https://mangagoyaoi.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28797,10 +28776,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.17.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28809,7 +28788,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyento.com",
+        "baseUrl": "https://nhattruyens.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -28873,27 +28852,6 @@
         "lang": "vi",
         "id": "1832370231745386795",
         "baseUrl": "https://teamlanhlung.me",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: TruyenChon",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenchon",
-    "apk": "tachiyomi-vi.truyenchon-v1.4.6.apk",
-    "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "TruyenChon",
-        "lang": "vi",
-        "id": "2435875162158706544",
-        "baseUrl": "http://truyenchon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }

@@ -18475,10 +18475,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.6.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28734,11 +28734,11 @@
   {
     "name": "Tachiyomi: NetTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
-    "apk": "tachiyomi-vi.nettruyen-v1.4.24.apk",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.25.apk",
     "lang": "vi",
-    "code": 24,
-    "version": "1.4.24",
-    "nsfw": 0,
+    "code": 25,
+    "version": "1.4.25",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28776,11 +28776,11 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.18.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.19.apk",
     "lang": "vi",
-    "code": 18,
-    "version": "1.4.18",
-    "nsfw": 0,
+    "code": 19,
+    "version": "1.4.19",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28788,6 +28788,27 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
+        "baseUrl": "https://nhattruyento.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NhatTruyenS",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyens",
+    "apk": "tachiyomi-vi.nhattruyens-v1.4.5.apk",
+    "lang": "vi",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NhatTruyenS",
+        "lang": "vi",
+        "id": "3536794913157886874",
         "baseUrl": "https://nhattruyens.com",
         "versionId": 1,
         "hasCloudflare": 1

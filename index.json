@@ -1619,10 +1619,10 @@
   {
     "name": "Tachiyomi: Dragon Ball Multiverse",
     "pkg": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
-    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.5.apk",
+    "apk": "tachiyomi-all.dragonballmultiverse-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2660,10 +2660,10 @@
   {
     "name": "Tachiyomi: Junmeitu",
     "pkg": "eu.kanade.tachiyomi.extension.all.junmeitu",
-    "apk": "tachiyomi-all.junmeitu-v1.4.5.apk",
+    "apk": "tachiyomi-all.junmeitu-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5663,27 +5663,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: OPSCANS",
-    "pkg": "eu.kanade.tachiyomi.extension.all.opscans",
-    "apk": "tachiyomi-all.opscans-v1.4.27.apk",
-    "lang": "all",
-    "code": 27,
-    "version": "1.4.27",
-    "nsfw": 0,
-    "hasReadme": 1,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "OPSCANS",
-        "lang": "all",
-        "id": "4232341563713206103",
-        "baseUrl": "https://opscans.com",
-        "versionId": 1,
-        "hasCloudflare": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Otaku Sanctuary",
     "pkg": "eu.kanade.tachiyomi.extension.all.otakusanctuary",
     "apk": "tachiyomi-all.otakusanctuary-v1.4.4.apk",
@@ -6906,10 +6885,10 @@
   {
     "name": "Tachiyomi: جالاكسي مانجا",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.29.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.30.apk",
     "lang": "ar",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9521,10 +9500,10 @@
   {
     "name": "Tachiyomi: Flix Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
-    "apk": "tachiyomi-en.flixscans-v1.4.3.apk",
+    "apk": "tachiyomi-en.flixscans-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9723,6 +9702,27 @@
         "lang": "en",
         "id": "7767373857094891353",
         "baseUrl": "https://goodgirls.moe",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gourmet Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.gourmetscans",
+    "apk": "tachiyomi-en.gourmetscans-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Gourmet Scans",
+        "lang": "en",
+        "id": "3694940277826033657",
+        "baseUrl": "https://gourmetsupremacy.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -15504,6 +15504,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: OPSCANS",
+    "pkg": "eu.kanade.tachiyomi.extension.en.opscans",
+    "apk": "tachiyomi-en.opscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "OPSCANS",
+        "lang": "en",
+        "id": "3943453485882448285",
+        "baseUrl": "https://opchapters.com",
+        "versionId": 2,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Paragon Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.paragonscans",
     "apk": "tachiyomi-en.paragonscans-v1.4.32.apk",
@@ -21171,10 +21192,10 @@
   {
     "name": "Tachiyomi: Manga-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangascan",
-    "apk": "tachiyomi-fr.mangascan-v1.4.9.apk",
+    "apk": "tachiyomi-fr.mangascan-v1.4.10.apk",
     "lang": "fr",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21183,7 +21204,7 @@
         "name": "Manga-Scan",
         "lang": "fr",
         "id": "5152484884536000046",
-        "baseUrl": "https://mangascan.cc",
+        "baseUrl": "https://mangascan-fr.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -22641,10 +22662,10 @@
   {
     "name": "Tachiyomi: Mangaku",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaku",
-    "apk": "tachiyomi-id.mangaku-v1.4.7.apk",
+    "apk": "tachiyomi-id.mangaku-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23397,10 +23418,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.43.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25534,6 +25555,27 @@
         "lang": "pt-BR",
         "id": "7059984733794571635",
         "baseUrl": "https://hentaitokyo.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Hikari Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.hikariscan",
+    "apk": "tachiyomi-pt.hikariscan-v1.4.27.apk",
+    "lang": "pt-BR",
+    "code": 27,
+    "version": "1.4.27",
+    "nsfw": 1,
+    "hasReadme": 1,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hikari Scan",
+        "lang": "pt-BR",
+        "id": "1733642102689076122",
+        "baseUrl": "https://hikariscan.org",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -29679,10 +29721,10 @@
   {
     "name": "Tachiyomi: Picacomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.picacomic",
-    "apk": "tachiyomi-zh.picacomic-v1.4.4.apk",
+    "apk": "tachiyomi-zh.picacomic-v1.4.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

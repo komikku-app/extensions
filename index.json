@@ -9288,6 +9288,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: EZmanga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
+    "apk": "tachiyomi-en.ezmanga-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EZmanga",
+        "lang": "en",
+        "id": "3558795161298058489",
+        "baseUrl": "https://ezmanga.net",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: FactManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.factmanga",
     "apk": "tachiyomi-en.factmanga-v1.4.32.apk",
@@ -19756,10 +19777,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.34.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25561,6 +25582,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hunters Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.huntersscans",
+    "apk": "tachiyomi-pt.huntersscans-v1.4.32.apk",
+    "lang": "pt-BR",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hunters Scan",
+        "lang": "pt-BR",
+        "id": "7310576253330700902",
+        "baseUrl": "https://huntersscan.xyz/",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Illusion Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.illusionscan",
     "apk": "tachiyomi-pt.illusionscan-v1.4.32.apk",
@@ -26487,10 +26529,10 @@
   {
     "name": "Tachiyomi: SSSScanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.28.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.29.apk",
     "lang": "pt-BR",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -26499,7 +26541,7 @@
         "name": "SSSScanlator",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://sssscanlator.com",
+        "baseUrl": "https://sssscanlator.com.br",
         "versionId": 1,
         "hasCloudflare": 1
       }

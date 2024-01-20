@@ -979,10 +979,10 @@
   {
     "name": "Tachiyomi: Comic Fury",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicfury",
-    "apk": "tachiyomi-all.comicfury-v1.4.2.apk",
+    "apk": "tachiyomi-all.comicfury-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8794,6 +8794,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dark-scan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.darkscan",
+    "apk": "tachiyomi-en.darkscan-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dark-scan",
+        "lang": "en",
+        "id": "7467592837760360366",
+        "baseUrl": "https://dark-scan.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dark Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.darkscans",
     "apk": "tachiyomi-en.darkscans-v1.4.33.apk",
@@ -11592,6 +11613,27 @@
         "lang": "en",
         "id": "3476960503147001781",
         "baseUrl": "https://mangavisa.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaBTT",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangabtt",
+    "apk": "tachiyomi-en.mangabtt-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaBTT",
+        "lang": "en",
+        "id": "7799858357008625131",
+        "baseUrl": "https://mangabtt.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -18410,6 +18452,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: Whale Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.whalemanga",
+    "apk": "tachiyomi-en.whalemanga-v1.4.32.apk",
+    "lang": "en",
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "WhaleManga",
+        "lang": "en",
+        "id": "5662367258369038433",
+        "baseUrl": "https://whalemanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WoopRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.woopread",
     "apk": "tachiyomi-en.woopread-v1.4.33.apk",
@@ -21192,10 +21255,10 @@
   {
     "name": "Tachiyomi: Manga-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangascan",
-    "apk": "tachiyomi-fr.mangascan-v1.4.10.apk",
+    "apk": "tachiyomi-fr.mangascan-v1.4.11.apk",
     "lang": "fr",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22977,10 +23040,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.43.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.44.apk",
     "lang": "id",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27369,10 +27432,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.82.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.83.apk",
     "lang": "ru",
-    "code": 82,
-    "version": "1.4.82",
+    "code": 83,
+    "version": "1.4.83",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

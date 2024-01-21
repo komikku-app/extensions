@@ -17522,10 +17522,10 @@
   {
     "name": "Tachiyomi: Surya Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.suryascans",
-    "apk": "tachiyomi-en.suryascans-v1.4.29.apk",
+    "apk": "tachiyomi-en.suryascans-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 1,
     "hasChangelog": 0,
@@ -17534,7 +17534,7 @@
         "name": "Surya Scans",
         "lang": "en",
         "id": "2909429739457928148",
-        "baseUrl": "https://suryacomics.com",
+        "baseUrl": "https://suryatoon.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -24529,6 +24529,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: RawZ",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawz",
+    "apk": "tachiyomi-ja.rawz-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawZ",
+        "lang": "ja",
+        "id": "6371104137263721065",
+        "baseUrl": "https://stmanga.com",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sen Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
     "apk": "tachiyomi-ja.senmanga-v1.4.6.apk",
@@ -26592,10 +26613,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.1.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29068,6 +29089,27 @@
     ]
   },
   {
+    "name": "Tachiyomi: SayHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SayHentai",
+        "lang": "vi",
+        "id": "4370817879994829481",
+        "baseUrl": "https://sayhentai.fun",
+        "versionId": 1,
+        "hasCloudflare": 0
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
     "apk": "tachiyomi-vi.saytruyen-v1.4.12.apk",
@@ -29169,6 +29211,27 @@
         "baseUrl": "https://truyenlh.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: XXManhwa",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.xxmanhwa",
+    "apk": "tachiyomi-vi.xxmanhwa-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "XXManhwa",
+        "lang": "vi",
+        "id": "1922561574226594511",
+        "baseUrl": "https://xxmanhwa.net",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },

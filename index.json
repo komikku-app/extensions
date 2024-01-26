@@ -8543,7 +8543,7 @@
     "lang": "en",
     "code": 35,
     "version": "1.4.35",
-    "nsfw": 0,
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -12255,9 +12255,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaGo Yaoi",
+        "name": "MangaGo Yaoi (Moved)",
         "lang": "en",
-        "id": "5308594741304208652",
+        "id": "2136089209761212701",
         "baseUrl": "https://mangagoyaoi.com",
         "versionId": 1,
         "hasCloudflare": 1
@@ -28909,7 +28909,7 @@
         "name": "NetTruyenX",
         "lang": "vi",
         "id": "6822053616296819067",
-        "baseUrl": "https://www.nettruyenx.com",
+        "baseUrl": "https://nettruyenx.com",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -29074,9 +29074,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "TruyenChon",
+        "name": "TruyenChon (Dead)",
         "lang": "vi",
-        "id": "2435875162158706544",
+        "id": "4211037522523518752",
         "baseUrl": "http://truyenchon.com",
         "versionId": 1,
         "hasCloudflare": 1

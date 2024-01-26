@@ -9683,9 +9683,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "1stKissManga.blog",
+        "name": "1stKissManga.blog (Dead)",
         "lang": "en",
-        "id": "2181142110198171587",
+        "id": "8143089123312111560",
         "baseUrl": "https://1stkissmanga.blog",
         "versionId": 1,
         "hasCloudflare": 1
@@ -9704,9 +9704,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "1stKissManga.Club",
+        "name": "1stKissManga.Club (Dead)",
         "lang": "en",
-        "id": "7060936735894908873",
+        "id": "1691240088297523027",
         "baseUrl": "https://1stkissmanga.club",
         "versionId": 1,
         "hasCloudflare": 1
@@ -9725,9 +9725,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "1stKissManga.tv",
+        "name": "1stKissManga.tv (Dead)",
         "lang": "en",
-        "id": "606823645877556850",
+        "id": "9061183657092708662",
         "baseUrl": "https://1stkissmanga.tv",
         "versionId": 1,
         "hasCloudflare": 1
@@ -12486,7 +12486,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaGo Yaoi (Moved)",
+    "name": "Tachiyomi: MangaGo Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagoyaoi",
     "apk": "tachiyomi-en.mangagoyaoi-v1.4.33.apk",
     "lang": "en",
@@ -16266,7 +16266,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadAdult (Dead)",
+    "name": "Tachiyomi: ReadAdult",
     "pkg": "eu.kanade.tachiyomi.extension.en.readadult",
     "apk": "tachiyomi-en.readadult-v1.4.34.apk",
     "lang": "en",
@@ -17106,7 +17106,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Read Solo Leveling (Dead)",
+    "name": "Tachiyomi: Read Solo Leveling",
     "pkg": "eu.kanade.tachiyomi.extension.en.readsololeveling",
     "apk": "tachiyomi-en.readsololeveling-v1.4.2.apk",
     "lang": "en",
@@ -17117,9 +17117,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Read Solo Leveling (Dead)",
+        "name": "ReadSoloLeveling (Dead)",
         "lang": "en",
-        "id": "7644740735431390724",
+        "id": "3537586601209121326",
         "baseUrl": "https://mysololeveling.com/",
         "versionId": 1,
         "hasCloudflare": 1
@@ -19036,9 +19036,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "ZinManga.top (unoriginal)",
+        "name": "ZinManga.top (Dead) (unoriginal)",
         "lang": "en",
-        "id": "7912162099113414298",
+        "id": "3974087516592269204",
         "baseUrl": "https://zinmanga.top",
         "versionId": 1,
         "hasCloudflare": 1
@@ -19046,7 +19046,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Zinmanhwa",
+    "name": "Tachiyomi: Zinmanga.io",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
     "apk": "tachiyomi-en.zinmanhwa-v1.4.33.apk",
     "lang": "en",
@@ -19057,10 +19057,10 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Zinmanhwa",
+        "name": "Zinmanga.io",
         "lang": "en",
         "id": "1971029352586269399",
-        "baseUrl": "https://zinmanhwa.com",
+        "baseUrl": "https://zinmanhwa.io",
         "versionId": 1,
         "hasCloudflare": 1
       }
@@ -29284,7 +29284,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Say Truyen (Dead)",
+    "name": "Tachiyomi: Say Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.saytruyen",
     "apk": "tachiyomi-vi.saytruyen-v1.4.12.apk",
     "lang": "vi",
@@ -29326,7 +29326,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: TruyenChon (Dead)",
+    "name": "Tachiyomi: TruyenChon",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenchon",
     "apk": "tachiyomi-vi.truyenchon-v1.4.7.apk",
     "lang": "vi",
@@ -29767,7 +29767,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Imitui Manhua (Dead)",
+    "name": "Tachiyomi: Imitui Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.imitui",
     "apk": "tachiyomi-zh.imitui-v1.4.13.apk",
     "lang": "zh",

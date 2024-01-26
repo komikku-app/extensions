@@ -12497,9 +12497,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaGo Yaoi",
+        "name": "MangaGo Yaoi (Moved)",
         "lang": "en",
-        "id": "5308594741304208652",
+        "id": "2136089209761212701",
         "baseUrl": "https://mangagoyaoi.com",
         "versionId": 1,
         "hasCloudflare": 1
@@ -29295,9 +29295,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Say Truyen",
+        "name": "Say Truyen (Dead)",
         "lang": "vi",
-        "id": "427405262130276885",
+        "id": "5542535318396989938",
         "baseUrl": "https://saytruyenmoi.com",
         "versionId": 1,
         "hasCloudflare": 1
@@ -29337,9 +29337,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "TruyenChon",
+        "name": "TruyenChon (Dead)",
         "lang": "vi",
-        "id": "2435875162158706544",
+        "id": "4211037522523518752",
         "baseUrl": "http://truyenchon.com",
         "versionId": 1,
         "hasCloudflare": 1
@@ -29778,9 +29778,9 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "爱米推漫画",
+        "name": "爱米推漫画 (Dead)",
         "lang": "zh",
-        "id": "5157380471854010675",
+        "id": "1030323026029733050",
         "baseUrl": "https://www.imitui.com",
         "versionId": 1,
         "hasCloudflare": 0

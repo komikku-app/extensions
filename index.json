@@ -13966,10 +13966,10 @@
   {
     "name": "Tachiyomi: Mangatown",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatown",
-    "apk": "tachiyomi-en.mangatown-v1.4.6.apk",
+    "apk": "tachiyomi-en.mangatown-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29540,6 +29540,27 @@
         "baseUrl": "https://www.kuaikanmanhua.com",
         "versionId": 1,
         "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Kuaikuai Manhua 3",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.kuaikuai3",
+    "apk": "tachiyomi-zh.kuaikuai3-v1.4.6.apk",
+    "lang": "zh",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "快快漫画3",
+        "lang": "zh",
+        "id": "800584643949479296",
+        "baseUrl": "https://mobile3.manhuaorg.com",
+        "versionId": 1,
+        "hasCloudflare": 0
       }
     ]
   },

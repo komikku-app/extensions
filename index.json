@@ -6655,10 +6655,10 @@
   {
     "name": "Tachiyomi: Hizomanga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hizomanga",
-    "apk": "tachiyomi-ar.hizomanga-v1.4.34.apk",
+    "apk": "tachiyomi-ar.hizomanga-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6667,7 +6667,7 @@
         "name": "Hizomanga",
         "lang": "ar",
         "id": "3299958336217533379",
-        "baseUrl": "https://hizomanga.com",
+        "baseUrl": "https://hizomanga.me",
         "versionId": 1
       }
     ]
@@ -17228,21 +17228,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Zinmanga.io",
+    "name": "Tachiyomi: Zinmanhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.zinmanhwa",
-    "apk": "tachiyomi-en.zinmanhwa-v1.4.33.apk",
+    "apk": "tachiyomi-en.zinmanhwa-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Zinmanga.io",
+        "name": "Zinmanhwa",
         "lang": "en",
         "id": "1971029352586269399",
-        "baseUrl": "https://zinmanhwa.io",
+        "baseUrl": "https://zinmanga.io",
         "versionId": 1
       }
     ]

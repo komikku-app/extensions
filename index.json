@@ -1813,6 +1813,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Elite Babes",
+    "pkg": "eu.kanade.tachiyomi.extension.all.elitebabes",
+    "apk": "tachiyomi-all.elitebabes-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Elite Babes",
+        "lang": "all",
+        "id": "6842598531101194683",
+        "baseUrl": "https://www.elitebabes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Everia.club",
     "pkg": "eu.kanade.tachiyomi.extension.all.everiaclub",
     "apk": "tachiyomi-all.everiaclub-v1.4.9.apk",
@@ -1828,6 +1848,26 @@
         "lang": "all",
         "id": "7698513740234984368",
         "baseUrl": "https://everia.club",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Femjoy Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
+    "apk": "tachiyomi-all.femjoyhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Femjoy Hunter",
+        "lang": "all",
+        "id": "9185590742756804817",
+        "baseUrl": "https://www.femjoyhunter.com",
         "versionId": 1
       }
     ]
@@ -1868,6 +1908,26 @@
         "lang": "all",
         "id": "6187349985569291135",
         "baseUrl": "https://books.frelein.my.id",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FTV Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.ftvhunter",
+    "apk": "tachiyomi-all.ftvhunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "FTV Hunter",
+        "lang": "all",
+        "id": "2424130356866336342",
+        "baseUrl": "https://www.ftvhunter.com",
         "versionId": 1
       }
     ]
@@ -1942,10 +2002,10 @@
   {
     "name": "Tachiyomi: Hentai Cosplay",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
-    "apk": "tachiyomi-all.hentaicosplay-v1.4.1.apk",
+    "apk": "tachiyomi-all.hentaicosplay-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2552,6 +2612,26 @@
         "id": "1002111777562806129",
         "baseUrl": "https://www.izneo.com/fr/webtoon",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Joymii Hub",
+    "pkg": "eu.kanade.tachiyomi.extension.all.joymiihub",
+    "apk": "tachiyomi-all.joymiihub-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Joymii Hub",
+        "lang": "all",
+        "id": "8421979328901634475",
+        "baseUrl": "https://www.joymiihub.com",
+        "versionId": 1
       }
     ]
   },
@@ -4513,6 +4593,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Metart Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.metarthunter",
+    "apk": "tachiyomi-all.metarthunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Metart Hunter",
+        "lang": "all",
+        "id": "3567512546321944475",
+        "baseUrl": "https://www.metarthunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Miau Scan",
     "pkg": "eu.kanade.tachiyomi.extension.all.miauscan",
     "apk": "tachiyomi-all.miauscan-v1.4.30.apk",
@@ -5436,6 +5536,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Playmate Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.playmatehunter",
+    "apk": "tachiyomi-all.playmatehunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Playmate Hunter",
+        "lang": "all",
+        "id": "1082062847119890629",
+        "baseUrl": "https://pmatehunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Project Suki",
     "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
     "apk": "tachiyomi-all.projectsuki-v1.4.3.apk",
@@ -5566,10 +5686,10 @@
   {
     "name": "Tachiyomi: Simply Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.simplyhentai",
-    "apk": "tachiyomi-all.simplyhentai-v1.4.6.apk",
+    "apk": "tachiyomi-all.simplyhentai-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5627,13 +5747,6 @@
         "name": "Simply Hentai",
         "lang": "de",
         "id": "5791709100642569951",
-        "baseUrl": "https://www.simply-hentai.com",
-        "versionId": 2
-      },
-      {
-        "name": "Simply Hentai",
-        "lang": "pt-BR",
-        "id": "23032005200449651",
         "baseUrl": "https://www.simply-hentai.com",
         "versionId": 2
       },
@@ -6185,6 +6298,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: XArt Hunter",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xarthunter",
+    "apk": "tachiyomi-all.xarthunter-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "XArt Hunter",
+        "lang": "all",
+        "id": "7425515716363969566",
+        "baseUrl": "https://www.xarthunter.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Xinmeitulu",
     "pkg": "eu.kanade.tachiyomi.extension.all.xinmeitulu",
     "apk": "tachiyomi-all.xinmeitulu-v1.4.5.apk",
@@ -6442,10 +6575,10 @@
   {
     "name": "Tachiyomi: Galaxy Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.galaxymanga",
-    "apk": "tachiyomi-ar.galaxymanga-v1.4.30.apk",
+    "apk": "tachiyomi-ar.galaxymanga-v1.4.31.apk",
     "lang": "ar",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8790,10 +8923,10 @@
   {
     "name": "Tachiyomi: Flix Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.flixscans",
-    "apk": "tachiyomi-en.flixscans-v1.4.4.apk",
+    "apk": "tachiyomi-en.flixscans-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15608,6 +15741,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: SectScans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.sectscans",
+    "apk": "tachiyomi-en.sectscans-v1.4.33.apk",
+    "lang": "en",
+    "code": 33,
+    "version": "1.4.33",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "SectScans",
+        "lang": "en",
+        "id": "2652802679518332659",
+        "baseUrl": "https://sectscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Setsu Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.setsuscans",
     "apk": "tachiyomi-en.setsuscans-v1.4.35.apk",
@@ -17857,10 +18010,10 @@
   {
     "name": "Tachiyomi: LectorManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectormanga",
-    "apk": "tachiyomi-es.lectormanga-v1.4.34.apk",
+    "apk": "tachiyomi-es.lectormanga-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18817,10 +18970,10 @@
   {
     "name": "Tachiyomi: TuMangaOnline",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumangaonline",
-    "apk": "tachiyomi-es.tumangaonline-v1.4.49.apk",
+    "apk": "tachiyomi-es.tumangaonline-v1.4.50.apk",
     "lang": "es",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19717,6 +19870,26 @@
         "lang": "fr",
         "id": "2455131357585282669",
         "baseUrl": "https://www.scan-vf.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: scanvf.org",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.scanvforg",
+    "apk": "tachiyomi-fr.scanvforg-v1.4.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "scanvf.org",
+        "lang": "fr",
+        "id": "7240352225708017009",
+        "baseUrl": "https://scanvf.org",
         "versionId": 1
       }
     ]
@@ -26325,10 +26498,10 @@
   {
     "name": "Tachiyomi: A3 Manga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.a3manga",
-    "apk": "tachiyomi-vi.a3manga-v1.4.4.apk",
+    "apk": "tachiyomi-vi.a3manga-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26337,7 +26510,7 @@
         "name": "A3 Manga",
         "lang": "vi",
         "id": "7038613508327290426",
-        "baseUrl": "https://www.a3manga.online",
+        "baseUrl": "https://www.a3manga.store",
         "versionId": 1
       }
     ]
@@ -26583,26 +26756,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: O Cu Meo",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.ocumeo",
-    "apk": "tachiyomi-vi.ocumeo-v1.4.5.apk",
-    "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ổ Cú Mèo",
-        "lang": "vi",
-        "id": "8330490015365279279",
-        "baseUrl": "https://www.ocumeo.online",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
     "apk": "tachiyomi-vi.sayhentai-v1.4.2.apk",
@@ -26625,10 +26778,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.4.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26637,7 +26790,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.me",
+        "baseUrl": "https://teamlanhlung.live",
         "versionId": 1
       }
     ]

@@ -32,7 +32,7 @@
     }
 
     document.addEventListener("alpine:init", () => {
-        Alpine.store("repoUrl", "https://raw.githubusercontent.com/cuong-tran/tachiyomi-extensions/repo");
+        Alpine.store("repoUrl", "https://raw.githubusercontent.com/cuong-tran/komikku-extensions/repo");
 
         Alpine.data("extensionList", () => ({
             LoadingStatus,

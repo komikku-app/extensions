@@ -1351,10 +1351,10 @@
   {
     "name": "Tachiyomi: Comikey",
     "pkg": "eu.kanade.tachiyomi.extension.all.comikey",
-    "apk": "tachiyomi-all.comikey-v1.4.1.apk",
+    "apk": "tachiyomi-all.comikey-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10479,10 +10479,10 @@
   {
     "name": "Tachiyomi: Luminous Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luminousscans",
-    "apk": "tachiyomi-en.luminousscans-v1.4.30.apk",
+    "apk": "tachiyomi-en.luminousscans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10491,7 +10491,7 @@
         "name": "Luminous Scans",
         "lang": "en",
         "id": "1019556752273106311",
-        "baseUrl": "https://luminousscans.gg",
+        "baseUrl": "https://lumitoon.com",
         "versionId": 1
       }
     ]
@@ -11092,6 +11092,26 @@
         "lang": "en",
         "id": "8089306398534489202",
         "baseUrl": "https://demoncomics.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaDig",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangadig",
+    "apk": "tachiyomi-en.mangadig-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaDig",
+        "lang": "en",
+        "id": "3963516991936737407",
+        "baseUrl": "https://mangadig.com",
         "versionId": 1
       }
     ]
@@ -28114,10 +28134,10 @@
   {
     "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.15.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.16.apk",
     "lang": "zh",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

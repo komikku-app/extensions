@@ -15819,10 +15819,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.1.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17144,6 +17144,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Wicked Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
+    "apk": "tachiyomi-en.wickedscans-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Wicked Scans",
+        "lang": "en",
+        "id": "519542652861335901",
+        "baseUrl": "https://wickedscans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: WoopRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.woopread",
     "apk": "tachiyomi-en.woopread-v1.4.34.apk",
@@ -17686,10 +17706,10 @@
   {
     "name": "Tachiyomi: CopyPasteScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.copypastescan",
-    "apk": "tachiyomi-es.copypastescan-v1.4.34.apk",
+    "apk": "tachiyomi-es.copypastescan-v1.4.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17698,7 +17718,7 @@
         "name": "CopyPasteScan",
         "lang": "es",
         "id": "2740038551946791506",
-        "baseUrl": "https://copypastescan.xyz",
+        "baseUrl": "https://www.cpscan.xyz",
         "versionId": 1
       }
     ]
@@ -27167,6 +27187,26 @@
         "lang": "vi",
         "id": "7595811359698226104",
         "baseUrl": "https://manga.io.vn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Dua Leo Truyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Dưa Leo Truyện",
+        "lang": "vi",
+        "id": "1039830224122325226",
+        "baseUrl": "https://dualeotruyenme.com",
         "versionId": 1
       }
     ]

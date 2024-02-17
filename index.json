@@ -7251,10 +7251,10 @@
   {
     "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
-    "apk": "tachiyomi-ar.onma-v1.4.10.apk",
+    "apk": "tachiyomi-ar.onma-v1.4.11.apk",
     "lang": "ar",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7431,10 +7431,10 @@
   {
     "name": "Tachiyomi: Utsukushii",
     "pkg": "eu.kanade.tachiyomi.extension.bg.utsukushii",
-    "apk": "tachiyomi-bg.utsukushii-v1.4.11.apk",
+    "apk": "tachiyomi-bg.utsukushii-v1.4.12.apk",
     "lang": "bg",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11099,10 +11099,10 @@
   {
     "name": "Tachiyomi: MangaDig",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangadig",
-    "apk": "tachiyomi-en.mangadig-v1.4.2.apk",
+    "apk": "tachiyomi-en.mangadig-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12192,6 +12192,26 @@
         "lang": "en",
         "id": "8448310129093543312",
         "baseUrl": "https://mangapill.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Planet",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangaplanet",
+    "apk": "tachiyomi-en.mangaplanet-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Planet",
+        "lang": "en",
+        "id": "2733665156702925397",
+        "baseUrl": "https://mangaplanet.com",
         "versionId": 1
       }
     ]
@@ -15179,10 +15199,10 @@
   {
     "name": "Tachiyomi: Read Comics Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsonline",
-    "apk": "tachiyomi-en.readcomicsonline-v1.4.10.apk",
+    "apk": "tachiyomi-en.readcomicsonline-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16512,6 +16532,26 @@
         "lang": "en",
         "id": "7307224992915342074",
         "baseUrl": "https://jolleycomics.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TodayManga",
+    "pkg": "eu.kanade.tachiyomi.extension.en.todaymanga",
+    "apk": "tachiyomi-en.todaymanga-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TodayManga",
+        "lang": "en",
+        "id": "1147556681248758139",
+        "baseUrl": "https://todaymanga.com",
         "versionId": 1
       }
     ]
@@ -18386,10 +18426,10 @@
   {
     "name": "Tachiyomi: Mangadoor",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangadoor",
-    "apk": "tachiyomi-es.mangadoor-v1.4.11.apk",
+    "apk": "tachiyomi-es.mangadoor-v1.4.12.apk",
     "lang": "es",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18546,10 +18586,10 @@
   {
     "name": "Tachiyomi: Mangas.in",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasin",
-    "apk": "tachiyomi-es.mangasin-v1.4.12.apk",
+    "apk": "tachiyomi-es.mangasin-v1.4.13.apk",
     "lang": "es",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19473,10 +19513,10 @@
   {
     "name": "Tachiyomi: Bentoscan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.bentoscan",
-    "apk": "tachiyomi-fr.bentoscan-v1.4.10.apk",
+    "apk": "tachiyomi-fr.bentoscan-v1.4.11.apk",
     "lang": "fr",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19713,10 +19753,10 @@
   {
     "name": "Tachiyomi: Jpmangas",
     "pkg": "eu.kanade.tachiyomi.extension.fr.jpmangas",
-    "apk": "tachiyomi-fr.jpmangas-v1.4.12.apk",
+    "apk": "tachiyomi-fr.jpmangas-v1.4.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19753,10 +19793,10 @@
   {
     "name": "Tachiyomi: Lelscan-VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
-    "apk": "tachiyomi-fr.lelscanvf-v1.4.12.apk",
+    "apk": "tachiyomi-fr.lelscanvf-v1.4.13.apk",
     "lang": "fr",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19813,10 +19853,10 @@
   {
     "name": "Tachiyomi: Manga-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.mangascan",
-    "apk": "tachiyomi-fr.mangascan-v1.4.14.apk",
+    "apk": "tachiyomi-fr.mangascan-v1.4.15.apk",
     "lang": "fr",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20113,10 +20153,10 @@
   {
     "name": "Tachiyomi: Scan VF",
     "pkg": "eu.kanade.tachiyomi.extension.fr.scanvf",
-    "apk": "tachiyomi-fr.scanvf-v1.4.11.apk",
+    "apk": "tachiyomi-fr.scanvf-v1.4.12.apk",
     "lang": "fr",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20773,10 +20813,10 @@
   {
     "name": "Tachiyomi: Komikid",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikid",
-    "apk": "tachiyomi-id.komikid-v1.4.10.apk",
+    "apk": "tachiyomi-id.komikid-v1.4.11.apk",
     "lang": "id",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21113,10 +21153,10 @@
   {
     "name": "Tachiyomi: MangaID",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangaid",
-    "apk": "tachiyomi-id.mangaid-v1.4.11.apk",
+    "apk": "tachiyomi-id.mangaid-v1.4.12.apk",
     "lang": "id",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22351,6 +22391,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Comic Meteor",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comicmeteor",
+    "apk": "tachiyomi-ja.comicmeteor-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "COMICメテオ",
+        "lang": "ja",
+        "id": "2570939302915696973",
+        "baseUrl": "https://comic-meteor.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comic Newtype",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comicnewtype",
     "apk": "tachiyomi-ja.comicnewtype-v1.4.2.apk",
@@ -22426,6 +22486,26 @@
         "lang": "ja",
         "id": "8045942616403978870",
         "baseUrl": "https://ganma.jp",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Gaugau Monster Plus",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.gaugaumonsterplus",
+    "apk": "tachiyomi-ja.gaugaumonsterplus-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "がうがうモンスター＋",
+        "lang": "ja",
+        "id": "9220365500598403749",
+        "baseUrl": "https://gaugau.futabanet.jp",
         "versionId": 1
       }
     ]
@@ -22731,6 +22811,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ohta Web Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.ohtawebcomic",
+    "apk": "tachiyomi-ja.ohtawebcomic-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ohta Web Comic",
+        "lang": "ja",
+        "id": "1056568527385317039",
+        "baseUrl": "https://webcomic.ohtabooks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rawdevart.art",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
     "apk": "tachiyomi-ja.rawdevartart-v1.4.2.apk",
@@ -22973,10 +23073,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgamma",
-    "apk": "tachiyomi-ja.webcomicgamma-v1.4.6.apk",
+    "apk": "tachiyomi-ja.webcomicgamma-v1.4.7.apk",
     "lang": "ja",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22993,10 +23093,10 @@
   {
     "name": "Tachiyomi: Web Comic Gamma Plus",
     "pkg": "eu.kanade.tachiyomi.extension.ja.webcomicgammaplus",
-    "apk": "tachiyomi-ja.webcomicgammaplus-v1.4.6.apk",
+    "apk": "tachiyomi-ja.webcomicgammaplus-v1.4.7.apk",
     "lang": "ja",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23026,6 +23126,33 @@
         "lang": "ja",
         "id": "1647179844716143786",
         "baseUrl": "https://welovemanga.one",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Weekly Young Magazine",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.yanmaga",
+    "apk": "tachiyomi-ja.yanmaga-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ヤンマガ（マンガ）",
+        "lang": "ja",
+        "id": "2126618372106431410",
+        "baseUrl": "https://yanmaga.jp",
+        "versionId": 1
+      },
+      {
+        "name": "ヤンマガ（グラビア）",
+        "lang": "ja",
+        "id": "2227240489801599645",
+        "baseUrl": "https://yanmaga.jp",
         "versionId": 1
       }
     ]
@@ -24854,10 +24981,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.2.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28234,10 +28361,10 @@
   {
     "name": "Tachiyomi: COLAMANGA",
     "pkg": "eu.kanade.tachiyomi.extension.zh.onemanhua",
-    "apk": "tachiyomi-zh.onemanhua-v1.4.17.apk",
+    "apk": "tachiyomi-zh.onemanhua-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

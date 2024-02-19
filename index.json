@@ -7291,10 +7291,10 @@
   {
     "name": "Tachiyomi: PotatoManga",
     "pkg": "eu.kanade.tachiyomi.extension.ar.potatomanga",
-    "apk": "tachiyomi-ar.potatomanga-v1.4.29.apk",
+    "apk": "tachiyomi-ar.potatomanga-v1.4.30.apk",
     "lang": "ar",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7303,7 +7303,7 @@
         "name": "PotatoManga",
         "lang": "ar",
         "id": "5991269639191456094",
-        "baseUrl": "https://potatomanga.xyz",
+        "baseUrl": "https://ar.potatomanga.xyz",
         "versionId": 1
       }
     ]
@@ -8044,6 +8044,26 @@
         "lang": "en",
         "id": "7351841944792308292",
         "baseUrl": "https://birdmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Blackout Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.blackoutscans",
+    "apk": "tachiyomi-en.blackoutscans-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Blackout Scans",
+        "lang": "en",
+        "id": "5490096080408009831",
+        "baseUrl": "https://blackoutscans.com",
         "versionId": 1
       }
     ]
@@ -9759,10 +9779,10 @@
   {
     "name": "Tachiyomi: HM2D",
     "pkg": "eu.kanade.tachiyomi.extension.en.hm2d",
-    "apk": "tachiyomi-en.hm2d-v1.4.35.apk",
+    "apk": "tachiyomi-en.hm2d-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9771,7 +9791,7 @@
         "name": "HM2D",
         "lang": "en",
         "id": "7329798563365402763",
-        "baseUrl": "https://mangadistrict.com/hdoujin/",
+        "baseUrl": "https://doujindistrict.com",
         "versionId": 1
       }
     ]
@@ -15879,10 +15899,10 @@
   {
     "name": "Tachiyomi: Rudra Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rudrascans",
-    "apk": "tachiyomi-en.rudrascans-v1.4.2.apk",
+    "apk": "tachiyomi-en.rudrascans-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17226,10 +17246,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.1.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18626,10 +18646,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.38.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

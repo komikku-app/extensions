@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="robots" content="noindex">
-    <title>Tachiyomi Extensions</title>
+    <title>Mihon / Tachiyomi / Komikku's Extensions</title>
     <meta name="description" content="A repository of unofficial Tachiyomi extensions.">
-    <meta property="og:title" content="Tachiyomi Extensions">
+    <meta property="og:title" content="Mihon / Tachiyomi / Komikku's Extensions">
     <meta property="og:description" content="A repository of unofficial Tachiyomi extensions.">
     <meta property="og:image" content="https://avatars.githubusercontent.com/u/113362897?v=4">
     <meta property="og:url" content="https://komikku-app.github.io/extensions/">
@@ -62,11 +62,11 @@
 
 <body>
     <header class="header">
-        <p class="header__title" href="../">Tachiyomi Extensions</p>
+        <p class="header__title" href="../">Mihon / Tachiyomi / Komikku's Extensions</p>
     </header>
     
     <div class="sources" x-data="extensionList">
-        <h1 class="sources__title">Tachiyomi Extensions</h1>
+        <h1 class="sources__title">Mihon / Tachiyomi / Komikku's Extensions</h1>
 
         <template x-if="loading === LoadingStatus.Loading">
             <sl-spinner class="sources__status" style="font-size:3rem"></sl-spinner>
@@ -141,7 +141,7 @@
                             size="small" 
                             download
                             :href="`${$store.repoUrl}/apk/${extension.apk}`"
-                            @click="window.goatcounter?.count({ path: `/extensions/repo/apk/${extension.apk}` })">
+                            @click="window.goatcounter?.count({ path: `/extensions/apk/${extension.apk}` })">
                             <sl-icon name="download"></sl-icon>
                         </sl-button>
                     </div>

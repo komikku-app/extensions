@@ -1,0 +1,53 @@
+name: Merge keiyoushi's pages
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch: # Manual dispatch
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  auto-merge:
+    name: Merge keiyoushi
+    if: github.repository == 'komikku-app/extensions'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+          token: ${{ secrets.BOT_PAT }}
+
+      - name: Import GPG key
+        id: import-gpg
+        uses: crazy-max/ghaction-import-gpg@v4
+        with:
+          workdir: merge-keiyoushi
+          gpg_private_key: ${{ secrets.GPG_PRIVATE_KEY }}
+          passphrase: ${{ secrets.PASSPHRASE }}
+          git_user_signingkey: true
+          git_commit_gpgsign: true
+
+      - name: GPG user IDs
+        run: |
+          echo "fingerprint: ${{ steps.import-gpg.outputs.fingerprint }}"
+          echo "keyid:       ${{ steps.import-gpg.outputs.keyid }}"
+          echo "name:        ${{ steps.import-gpg.outputs.name }}"
+          echo "email:       ${{ steps.import-gpg.outputs.email }}"
+
+      - name: Merging
+        run: |
+          git remote add keiyoushi https://github.com/keiyoushi/extensions -b gh-pages
+          git fetch keiyoushi
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git merge -S --no-edit keiyoushi/gh-pages
+
+      - name: Push to repo
+        run: |
+          git push

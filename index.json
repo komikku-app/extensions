@@ -5000,10 +5000,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.39.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.40.apk",
     "lang": "all",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7151,10 +7151,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.43.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.44.apk",
     "lang": "ar",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7163,7 +7163,7 @@
         "name": "MangaSwat",
         "lang": "ar",
         "id": "264168699090292138",
-        "baseUrl": "https://goldragon.me",
+        "baseUrl": "https://swatmanhua.com",
         "versionId": 1
       }
     ]
@@ -18646,10 +18646,10 @@
   {
     "name": "Tachiyomi: Mangas No Sekai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
-    "apk": "tachiyomi-es.mangasnosekai-v1.4.41.apk",
+    "apk": "tachiyomi-es.mangasnosekai-v1.4.43.apk",
     "lang": "es",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23326,14 +23326,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki325.net",
+        "baseUrl": "https://manatoki326.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki325.com",
+        "baseUrl": "https://newtoki326.com",
         "versionId": 1
       }
     ]
@@ -24461,10 +24461,10 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.36.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24901,10 +24901,10 @@
   {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.39.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.40.apk",
     "lang": "pt-BR",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25541,10 +25541,10 @@
   {
     "name": "Tachiyomi: Com-X",
     "pkg": "eu.kanade.tachiyomi.extension.ru.comx",
-    "apk": "tachiyomi-ru.comx-v1.4.28.apk",
+    "apk": "tachiyomi-ru.comx-v1.4.29.apk",
     "lang": "ru",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

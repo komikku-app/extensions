@@ -24399,6 +24399,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lunar Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.lunarscan",
+    "apk": "tachiyomi-pt.lunarscan-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lunar Scan",
+        "lang": "pt-BR",
+        "id": "5914813814432882097",
+        "baseUrl": "https://lunarscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
     "apk": "tachiyomi-pt.maidscan-v1.4.35.apk",

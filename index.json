@@ -25921,10 +25921,10 @@
   {
     "name": "Tachiyomi: Remanga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.85.apk",
+    "apk": "tachiyomi-ru.remanga-v1.4.86.apk",
     "lang": "ru",
-    "code": 85,
-    "version": "1.4.85",
+    "code": 86,
+    "version": "1.4.86",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26721,10 +26721,10 @@
   {
     "name": "Tachiyomi: Hayalistic",
     "pkg": "eu.kanade.tachiyomi.extension.tr.hayalistic",
-    "apk": "tachiyomi-tr.hayalistic-v1.4.35.apk",
+    "apk": "tachiyomi-tr.hayalistic-v1.4.36.apk",
     "lang": "tr",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26733,7 +26733,7 @@
         "name": "Hayalistic",
         "lang": "tr",
         "id": "546920749196078093",
-        "baseUrl": "https://hayalistic.com",
+        "baseUrl": "https://hayalistic.com.tr",
         "versionId": 1
       }
     ]
@@ -27201,10 +27201,10 @@
   {
     "name": "Tachiyomi: SummerToon",
     "pkg": "eu.kanade.tachiyomi.extension.tr.summertoon",
-    "apk": "tachiyomi-tr.summertoon-v1.4.28.apk",
+    "apk": "tachiyomi-tr.summertoon-v1.4.29.apk",
     "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27213,7 +27213,7 @@
         "name": "SummerToon",
         "lang": "tr",
         "id": "1346985078461508977",
-        "baseUrl": "https://summertoon.com",
+        "baseUrl": "https://summertoon.net",
         "versionId": 1
       }
     ]
@@ -28673,7 +28673,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywgbo2.com",
+        "baseUrl": "http://www.zerobywns.com",
         "versionId": 1
       }
     ]

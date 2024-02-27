@@ -18744,6 +18744,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ManhwaWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ManhwaWeb",
+        "lang": "es",
+        "id": "5943212552955476721",
+        "baseUrl": "https://manhwaweb.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Mantraz Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.mantrazscan",
     "apk": "tachiyomi-es.mantrazscan-v1.4.35.apk",
@@ -19326,10 +19346,10 @@
   {
     "name": "Tachiyomi: Tres Daos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosscan",
-    "apk": "tachiyomi-es.tresdaosscan-v1.4.28.apk",
+    "apk": "tachiyomi-es.tresdaosscan-v1.4.35.apk",
     "lang": "es",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19337,9 +19357,9 @@
       {
         "name": "Tres Daos Scan",
         "lang": "es",
-        "id": "7518531764820524940",
+        "id": "2325181548739638102",
         "baseUrl": "https://tresdaos.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -19593,10 +19613,10 @@
   {
     "name": "Tachiyomi: Epsilon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
-    "apk": "tachiyomi-fr.epsilonscan-v1.4.28.apk",
+    "apk": "tachiyomi-fr.epsilonscan-v1.4.35.apk",
     "lang": "fr",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19604,9 +19624,9 @@
       {
         "name": "Epsilon Scan",
         "lang": "fr",
-        "id": "2265017486418728438",
+        "id": "2577248042661857530",
         "baseUrl": "https://epsilonscan.fr",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -23414,6 +23434,26 @@
         "lang": "pt-BR",
         "id": "4815320064022038290",
         "baseUrl": "https://akimanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Alone Scanlator",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.alonescanlator",
+    "apk": "tachiyomi-pt.alonescanlator-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Alone Scanlator",
+        "lang": "pt-BR",
+        "id": "6537779949034492691",
+        "baseUrl": "https://alonescanlator.com.br",
         "versionId": 1
       }
     ]

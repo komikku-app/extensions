@@ -1426,10 +1426,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.10.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2747,10 +2747,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.10.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18326,10 +18326,10 @@
   {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.8.apk",
+    "apk": "tachiyomi-es.kumanga-v1.4.9.apk",
     "lang": "es",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18459,6 +18459,26 @@
         "lang": "es",
         "id": "4608749082635217570",
         "baseUrl": "https://lkscanlation.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lolivault",
+    "pkg": "eu.kanade.tachiyomi.extension.es.lolivault",
+    "apk": "tachiyomi-es.lolivault-v1.4.3.apk",
+    "lang": "es",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lolivault",
+        "lang": "es",
+        "id": "1420213267345607410",
+        "baseUrl": "https://lector.lolivault.net",
         "versionId": 1
       }
     ]
@@ -23071,6 +23091,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: ReadManga.at",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.readmangaat",
+    "apk": "tachiyomi-ja.readmangaat-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "ReadManga.at",
+        "lang": "ja",
+        "id": "8946965540308751173",
+        "baseUrl": "https://readmanga.at",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Sen Manga",
     "pkg": "eu.kanade.tachiyomi.extension.ja.senmanga",
     "apk": "tachiyomi-ja.senmanga-v1.4.6.apk",
@@ -23366,14 +23406,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki326.net",
+        "baseUrl": "https://manatoki327.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki326.com",
+        "baseUrl": "https://newtoki327.com",
         "versionId": 1
       }
     ]
@@ -26821,10 +26861,10 @@
   {
     "name": "Tachiyomi: MajorScans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.majorscans",
-    "apk": "tachiyomi-tr.majorscans-v1.4.28.apk",
+    "apk": "tachiyomi-tr.majorscans-v1.4.29.apk",
     "lang": "tr",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28094,6 +28134,26 @@
         "lang": "zh",
         "id": "1471112097704477289",
         "baseUrl": "https://boylov.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Cartoon18",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.cartoon18",
+    "apk": "tachiyomi-zh.cartoon18-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Cartoon18",
+        "lang": "zh",
+        "id": "28664779574072063",
+        "baseUrl": "https://www.cartoon18.com",
         "versionId": 1
       }
     ]

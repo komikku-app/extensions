@@ -809,54 +809,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BILIBILI COMICS",
-    "pkg": "eu.kanade.tachiyomi.extension.all.bilibilicomics",
-    "apk": "tachiyomi-all.bilibilicomics-v1.4.12.apk",
-    "lang": "all",
-    "code": 12,
-    "version": "1.4.12",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "en",
-        "id": "9044249801774780434",
-        "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1
-      },
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "zh-Hans",
-        "id": "6987286624658425675",
-        "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1
-      },
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "id",
-        "id": "1333001923182974945",
-        "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1
-      },
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "es",
-        "id": "2832751840997540437",
-        "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1
-      },
-      {
-        "name": "BILIBILI COMICS",
-        "lang": "fr",
-        "id": "8326327071505618021",
-        "baseUrl": "https://www.bilibilicomics.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Buon Dua",
     "pkg": "eu.kanade.tachiyomi.extension.all.buondua",
     "apk": "tachiyomi-all.buondua-v1.4.2.apk",
@@ -5566,10 +5518,10 @@
   {
     "name": "Tachiyomi: Photos18",
     "pkg": "eu.kanade.tachiyomi.extension.all.photos18",
-    "apk": "tachiyomi-all.photos18-v1.4.3.apk",
+    "apk": "tachiyomi-all.photos18-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7651,10 +7603,10 @@
   {
     "name": "Tachiyomi: Anchira",
     "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.8.apk",
+    "apk": "tachiyomi-en.anchira-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11957,6 +11909,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaMonks",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangamonks",
+    "apk": "tachiyomi-en.mangamonks-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaMonks",
+        "lang": "en",
+        "id": "5058665525976306977",
+        "baseUrl": "https://mangamonks.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaNel",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganel",
     "apk": "tachiyomi-en.manganel-v1.4.28.apk",
@@ -12199,10 +12171,10 @@
   {
     "name": "Tachiyomi: MangaOwl.To",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaowlto",
-    "apk": "tachiyomi-en.mangaowlto-v1.4.1.apk",
+    "apk": "tachiyomi-en.mangaowlto-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17231,26 +17203,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: WebtoonsTOP",
-    "pkg": "eu.kanade.tachiyomi.extension.en.webtoonstop",
-    "apk": "tachiyomi-en.webtoonstop-v1.4.35.apk",
-    "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "WebtoonsTOP",
-        "lang": "en",
-        "id": "1267505761344175111",
-        "baseUrl": "https://webtoons.top",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: WebtoonUK",
     "pkg": "eu.kanade.tachiyomi.extension.en.webtoonuk",
     "apk": "tachiyomi-en.webtoonuk-v1.4.37.apk",
@@ -17607,26 +17559,6 @@
         "id": "6775331705718088413",
         "baseUrl": "https://zinmanga.io",
         "versionId": 2
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ZuttoManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.zuttomanga",
-    "apk": "tachiyomi-en.zuttomanga-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ZuttoManga",
-        "lang": "en",
-        "id": "7194528253172914422",
-        "baseUrl": "https://zuttomanga.com",
-        "versionId": 1
       }
     ]
   },

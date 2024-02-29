@@ -7569,6 +7569,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Alandal",
+    "pkg": "eu.kanade.tachiyomi.extension.en.alandal",
+    "apk": "tachiyomi-en.alandal-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Alandal",
+        "lang": "en",
+        "id": "2048669781308052214",
+        "baseUrl": "https://alandal.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
     "apk": "tachiyomi-en.allanime-v1.4.6.apk",
@@ -9919,10 +9939,10 @@
   {
     "name": "Tachiyomi: Infernal Void Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.33.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9931,7 +9951,7 @@
         "name": "Infernal Void Scans",
         "lang": "en",
         "id": "6422096666751316291",
-        "baseUrl": "https://void-scans.com",
+        "baseUrl": "https://hivescans.com",
         "versionId": 1
       }
     ]
@@ -12172,6 +12192,33 @@
         "lang": "en",
         "id": "8816217281340984919",
         "baseUrl": "https://mangaowl.one",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaOwl.To",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mangaowlto",
+    "apk": "tachiyomi-en.mangaowlto-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaOwl.To Manga",
+        "lang": "en",
+        "id": "7721317358621339099",
+        "baseUrl": "https://mangaowl.to",
+        "versionId": 1
+      },
+      {
+        "name": "MangaOwl.To Comic",
+        "lang": "en",
+        "id": "2363482593482346323",
+        "baseUrl": "https://mangaowl.to",
         "versionId": 1
       }
     ]
@@ -24534,6 +24581,26 @@
         "lang": "pt-BR",
         "id": "7307221978155754822",
         "baseUrl": "https://mangananquim.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Online",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mangaonline",
+    "apk": "tachiyomi-pt.mangaonline-v1.4.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Online",
+        "lang": "pt-BR",
+        "id": "3930085636692943299",
+        "baseUrl": "https://mangaonline.biz",
         "versionId": 1
       }
     ]

@@ -4262,10 +4262,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.50.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.51.apk",
     "lang": "all",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4323,6 +4323,13 @@
         "name": "MANGA Plus by SHUEISHA",
         "lang": "vi",
         "id": "4696259977267090434",
+        "baseUrl": "https://mangaplus.shueisha.co.jp",
+        "versionId": 1
+      },
+      {
+        "name": "MANGA Plus by SHUEISHA",
+        "lang": "de",
+        "id": "1893513843840146580",
         "baseUrl": "https://mangaplus.shueisha.co.jp",
         "versionId": 1
       }
@@ -4696,6 +4703,26 @@
         "lang": "all",
         "id": "3558188315762724556",
         "baseUrl": "https://mihentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MissKon (MrCong)",
+    "pkg": "eu.kanade.tachiyomi.extension.all.misskon",
+    "apk": "tachiyomi-all.misskon-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MissKon (MrCong)",
+        "lang": "all",
+        "id": "8013508699363433574",
+        "baseUrl": "https://misskon.com",
         "versionId": 1
       }
     ]
@@ -7103,10 +7130,10 @@
   {
     "name": "Tachiyomi: MangaSwat",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaswat",
-    "apk": "tachiyomi-ar.mangaswat-v1.4.45.apk",
+    "apk": "tachiyomi-ar.mangaswat-v1.4.46.apk",
     "lang": "ar",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7316,6 +7343,26 @@
         "lang": "ar",
         "id": "6262106764679184511",
         "baseUrl": "https://www.shqqaa.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: StellarSaber",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.stellarsaber",
+    "apk": "tachiyomi-ar.stellarsaber-v1.4.29.apk",
+    "lang": "ar",
+    "code": 29,
+    "version": "1.4.29",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "StellarSaber",
+        "lang": "ar",
+        "id": "2142158598125421915",
+        "baseUrl": "https://stellarsaber.pro",
         "versionId": 1
       }
     ]
@@ -15938,10 +15985,10 @@
   {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
-    "apk": "tachiyomi-en.s2manga-v1.4.37.apk",
+    "apk": "tachiyomi-en.s2manga-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15950,7 +15997,7 @@
         "name": "S2Manga",
         "lang": "en",
         "id": "4870917758913494428",
-        "baseUrl": "https://www.s2manga.com",
+        "baseUrl": "https://s2manga.com",
         "versionId": 1
       }
     ]
@@ -18105,10 +18152,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.1.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18305,10 +18352,10 @@
   {
     "name": "Tachiyomi: Kumanga",
     "pkg": "eu.kanade.tachiyomi.extension.es.kumanga",
-    "apk": "tachiyomi-es.kumanga-v1.4.9.apk",
+    "apk": "tachiyomi-es.kumanga-v1.4.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18365,10 +18412,10 @@
   {
     "name": "Tachiyomi: LeerCapitulo",
     "pkg": "eu.kanade.tachiyomi.extension.es.leercapitulo",
-    "apk": "tachiyomi-es.leercapitulo-v1.4.7.apk",
+    "apk": "tachiyomi-es.leercapitulo-v1.4.8.apk",
     "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23010,6 +23057,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: RawINU",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.rawinu",
+    "apk": "tachiyomi-ja.rawinu-v1.4.9.apk",
+    "lang": "ja",
+    "code": 9,
+    "version": "1.4.9",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "RawINU",
+        "lang": "ja",
+        "id": "7788489411010171607",
+        "baseUrl": "https://rawinu.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Rawkuma",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawkuma",
     "apk": "tachiyomi-ja.rawkuma-v1.4.30.apk",
@@ -24358,6 +24425,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Lady Estelar Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.ladyestelarscan",
+    "apk": "tachiyomi-pt.ladyestelarscan-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lady Estelar Scan",
+        "lang": "pt-BR",
+        "id": "3823669266857536564",
+        "baseUrl": "https://ladyestelarscan.com.br",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Ler 999",
     "pkg": "eu.kanade.tachiyomi.extension.pt.ler999",
     "apk": "tachiyomi-pt.ler999-v1.4.8.apk",
@@ -25220,10 +25307,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.3.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25533,6 +25620,26 @@
         "lang": "pt-BR",
         "id": "9191031408908163145",
         "baseUrl": "https://winterscan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Winter Sun",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.wintersun",
+    "apk": "tachiyomi-pt.wintersun-v1.4.35.apk",
+    "lang": "pt-BR",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Winter Sun",
+        "lang": "pt-BR",
+        "id": "7804277469602990299",
+        "baseUrl": "https://wintersunscan.xyz",
         "versionId": 1
       }
     ]

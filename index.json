@@ -6728,6 +6728,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Hentai Slayer",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
+    "apk": "tachiyomi-ar.hentaislayer-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "هنتاي سلاير",
+        "lang": "ar",
+        "id": "1383489648660567366",
+        "baseUrl": "https://hentaislayer.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Hijala",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hijala",
     "apk": "tachiyomi-ar.hijala-v1.4.8.apk",

@@ -6508,6 +6508,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Arabs Hentai",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.arabshentai",
+    "apk": "tachiyomi-ar.arabshentai-v1.4.1.apk",
+    "lang": "ar",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "هنتاي العرب",
+        "lang": "ar",
+        "id": "3472625749271868375",
+        "baseUrl": "https://arabshentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arab Toons",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabtoons",
     "apk": "tachiyomi-ar.arabtoons-v1.4.35.apk",
@@ -6750,10 +6770,10 @@
   {
     "name": "Tachiyomi: Hentai Slayer",
     "pkg": "eu.kanade.tachiyomi.extension.ar.hentaislayer",
-    "apk": "tachiyomi-ar.hentaislayer-v1.4.1.apk",
+    "apk": "tachiyomi-ar.hentaislayer-v1.4.2.apk",
     "lang": "ar",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23652,14 +23672,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki328.net",
+        "baseUrl": "https://manatoki329.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki328.com",
+        "baseUrl": "https://newtoki329.com",
         "versionId": 1
       }
     ]

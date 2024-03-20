@@ -14785,10 +14785,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.38.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16665,10 +16665,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.37.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20339,10 +20339,10 @@
   {
     "name": "Tachiyomi: Perf Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.perfscan",
-    "apk": "tachiyomi-fr.perfscan-v1.4.20.apk",
+    "apk": "tachiyomi-fr.perfscan-v1.4.21.apk",
     "lang": "fr",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23712,14 +23712,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki329.net",
+        "baseUrl": "https://manatoki330.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki329.com",
+        "baseUrl": "https://newtoki330.com",
         "versionId": 1
       }
     ]

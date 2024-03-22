@@ -7110,27 +7110,7 @@
   {
     "name": "Tachiyomi: MangaSpark",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangaspark",
-    "apk": "tachiyomi-ar.mangaspark-v1.4.40.apk",
-    "lang": "ar",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaSpark",
-        "lang": "ar",
-        "id": "2436176998646301840",
-        "baseUrl": "https://mangaspark.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Manga Starz",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
-    "apk": "tachiyomi-ar.mangastarz-v1.4.41.apk",
+    "apk": "tachiyomi-ar.mangaspark-v1.4.41.apk",
     "lang": "ar",
     "code": 41,
     "version": "1.4.41",
@@ -7139,10 +7119,30 @@
     "hasChangelog": 0,
     "sources": [
       {
+        "name": "MangaSpark",
+        "lang": "ar",
+        "id": "2436176998646301840",
+        "baseUrl": "https://manga-spark.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Starz",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangastarz",
+    "apk": "tachiyomi-ar.mangastarz-v1.4.42.apk",
+    "lang": "ar",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
         "name": "Manga Starz",
         "lang": "ar",
         "id": "6058166507489091982",
-        "baseUrl": "https://mangastarz.org",
+        "baseUrl": "https://manga-starz.com",
         "versionId": 1
       }
     ]
@@ -8998,10 +8998,10 @@
   {
     "name": "Tachiyomi: Elarc Toon",
     "pkg": "eu.kanade.tachiyomi.extension.en.elarcpage",
-    "apk": "tachiyomi-en.elarcpage-v1.4.34.apk",
+    "apk": "tachiyomi-en.elarcpage-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9010,7 +9010,7 @@
         "name": "Elarc Toon",
         "lang": "en",
         "id": "5482125641807211052",
-        "baseUrl": "https://elarctoon.com",
+        "baseUrl": "https://elarctoons.com",
         "versionId": 1
       }
     ]
@@ -10978,10 +10978,10 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangabat-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10990,7 +10990,7 @@
         "name": "Mangabat",
         "lang": "en",
         "id": "4215511432986138970",
-        "baseUrl": "https://m.mangabat.com",
+        "baseUrl": "https://h.mangabat.com",
         "versionId": 1
       }
     ]
@@ -18430,6 +18430,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Inmoral No Fansub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.inmoralnofansub",
+    "apk": "tachiyomi-es.inmoralnofansub-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Inmoral No Fansub",
+        "lang": "es",
+        "id": "8208158742361191627",
+        "baseUrl": "https://inmoralnofansub.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Inmortal Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.inmortalscan",
     "apk": "tachiyomi-es.inmortalscan-v1.4.35.apk",
@@ -18450,12 +18470,32 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jobsibe",
-    "pkg": "eu.kanade.tachiyomi.extension.es.jobsibe",
-    "apk": "tachiyomi-es.jobsibe-v1.4.35.apk",
+    "name": "Tachiyomi: Jeaz Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
+    "apk": "tachiyomi-es.jeazscans-v1.4.35.apk",
     "lang": "es",
     "code": 35,
     "version": "1.4.35",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "JeazScans",
+        "lang": "es",
+        "id": "5292079548510508306",
+        "baseUrl": "https://jeazscansv1.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Jobsibe",
+    "pkg": "eu.kanade.tachiyomi.extension.es.jobsibe",
+    "apk": "tachiyomi-es.jobsibe-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18685,6 +18725,26 @@
         "lang": "es",
         "id": "1420213267345607410",
         "baseUrl": "https://lector.lolivault.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Lucky Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.luckymanga",
+    "apk": "tachiyomi-es.luckymanga-v1.4.35.apk",
+    "lang": "es",
+    "code": 35,
+    "version": "1.4.35",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Lucky Manga",
+        "lang": "es",
+        "id": "2509147107864330846",
+        "baseUrl": "https://luckymanga.com",
         "versionId": 1
       }
     ]
@@ -21797,21 +21857,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: ManhwaList",
+    "name": "Tachiyomi: KomikNesia",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwalist",
-    "apk": "tachiyomi-id.manhwalist-v1.4.34.apk",
+    "apk": "tachiyomi-id.manhwalist-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "ManhwaList",
+        "name": "KomikNesia",
         "lang": "id",
         "id": "4039555433611432280",
-        "baseUrl": "https://manhwalist.com",
+        "baseUrl": "https://komiknesia.xyz",
         "versionId": 1
       }
     ]
@@ -28047,10 +28107,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.1.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28059,7 +28119,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.net",
+        "baseUrl": "https://lxmanga88.com",
         "versionId": 1
       }
     ]

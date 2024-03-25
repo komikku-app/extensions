@@ -1894,6 +1894,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: EveriaClub (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.all.everiaclubcom",
+    "apk": "tachiyomi-all.everiaclubcom-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EveriaClub (unoriginal)",
+        "lang": "all",
+        "id": "8698756602692547891",
+        "baseUrl": "https://everiaclub.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Femjoy Hunter",
     "pkg": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
     "apk": "tachiyomi-all.femjoyhunter-v1.4.1.apk",

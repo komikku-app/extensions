@@ -6690,10 +6690,10 @@
   {
     "name": "Tachiyomi: Dilar",
     "pkg": "eu.kanade.tachiyomi.extension.ar.dilar",
-    "apk": "tachiyomi-ar.dilar-v1.4.3.apk",
+    "apk": "tachiyomi-ar.dilar-v1.4.4.apk",
     "lang": "ar",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7230,10 +7230,10 @@
   {
     "name": "Tachiyomi: Manga Tales",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangatales",
-    "apk": "tachiyomi-ar.mangatales-v1.4.2.apk",
+    "apk": "tachiyomi-ar.mangatales-v1.4.3.apk",
     "lang": "ar",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23672,14 +23672,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki330.net",
+        "baseUrl": "https://manatoki331.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki330.com",
+        "baseUrl": "https://newtoki331.com",
         "versionId": 1
       }
     ]

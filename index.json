@@ -8390,10 +8390,10 @@
   {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
-    "apk": "tachiyomi-en.comicextra-v1.4.14.apk",
+    "apk": "tachiyomi-en.comicextra-v1.4.15.apk",
     "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8402,7 +8402,7 @@
         "name": "ComicExtra",
         "lang": "en",
         "id": "4316139130808778432",
-        "baseUrl": "https://comicextra.me",
+        "baseUrl": "https://comicextra.org",
         "versionId": 1
       }
     ]
@@ -26207,11 +26207,11 @@
   {
     "name": "Tachiyomi: Mangahub",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangahub",
-    "apk": "tachiyomi-ru.mangahub-v1.4.17.apk",
+    "apk": "tachiyomi-ru.mangahub-v1.4.18.apk",
     "lang": "ru",
-    "code": 17,
-    "version": "1.4.17",
-    "nsfw": 0,
+    "code": 18,
+    "version": "1.4.18",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -28687,10 +28687,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.8.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

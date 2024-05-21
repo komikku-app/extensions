@@ -2,7 +2,7 @@
 
 | Build | Support Server |
 |-------|---------|
-| [![CI](https://github.com/komikku-app/komikku-extensions/actions/workflows/build_push.yml/badge.svg)](https://github.com/komikku-app/komikku-extensions/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1193460528052453448.svg?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/3FbCpdKbdY) |
+| [![CI](https://github.com/komikku-app/komikku-extensions/actions/workflows/build_push.yml/badge.svg)](https://github.com/komikku-app/komikku-extensions/actions/workflows/build_push.yml) | [![Discord](https://img.shields.io/discord/1242381704459452488?label=discord&labelColor=7289da&color=2c2f33&style=flat)](https://discord.gg/85jB7V5AJR) |
 
 ## Source Code
 

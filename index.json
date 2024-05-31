@@ -11199,11 +11199,11 @@
   {
     "name": "Tachiyomi: Kai Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
-    "apk": "tachiyomi-en.kaiscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.kaiscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 0,
+    "code": 32,
+    "version": "1.4.32",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -11211,7 +11211,7 @@
         "name": "Kai Scans",
         "lang": "en",
         "id": "4825368993215448425",
-        "baseUrl": "https://kaiscans.org",
+        "baseUrl": "https://kaiscans.com",
         "versionId": 1
       }
     ]
@@ -20911,6 +20911,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: TuManhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tumanhwas",
+    "apk": "tachiyomi-es.tumanhwas-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "TuManhwas",
+        "lang": "es",
+        "id": "1554350272768868057",
+        "baseUrl": "https://tumanhwas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TuManhwas.Club",
     "pkg": "eu.kanade.tachiyomi.extension.es.tumanhwasclub",
     "apk": "tachiyomi-es.tumanhwasclub-v1.4.1.apk",
@@ -25413,14 +25433,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki339.net",
+        "baseUrl": "https://manatoki340.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki339.com",
+        "baseUrl": "https://newtoki340.com",
         "versionId": 1
       }
     ]

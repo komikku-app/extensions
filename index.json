@@ -982,10 +982,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.45.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.46.apk",
     "lang": "all",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2724,10 +2724,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.27.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.28.apk",
     "lang": "all",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8589,26 +8589,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Anchira",
-    "pkg": "eu.kanade.tachiyomi.extension.en.anchira",
-    "apk": "tachiyomi-en.anchira-v1.4.14.apk",
-    "lang": "en",
-    "code": 14,
-    "version": "1.4.14",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Anchira",
-        "lang": "en",
-        "id": "4216711820465720307",
-        "baseUrl": "https://anchira.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
     "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.30.apk",
@@ -9044,26 +9024,6 @@
         "lang": "en",
         "id": "7351841944792308292",
         "baseUrl": "https://birdmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Blackout Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.blackoutscans",
-    "apk": "tachiyomi-en.blackoutscans-v1.4.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Blackout Scans",
-        "lang": "en",
-        "id": "5490096080408009831",
-        "baseUrl": "https://blackoutscans.com",
         "versionId": 1
       }
     ]
@@ -10099,10 +10059,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.31.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10111,7 +10071,7 @@
         "name": "Flame Comics",
         "lang": "en",
         "id": "6350607071566689772",
-        "baseUrl": "https://flamecomics.com",
+        "baseUrl": "https://flamecomics.me",
         "versionId": 1
       }
     ]
@@ -10719,10 +10679,10 @@
   {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
-    "apk": "tachiyomi-en.hentairead-v1.4.41.apk",
+    "apk": "tachiyomi-en.hentairead-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20251,6 +20211,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Marmota",
+    "pkg": "eu.kanade.tachiyomi.extension.es.marmota",
+    "apk": "tachiyomi-es.marmota-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Marmota",
+        "lang": "es",
+        "id": "5937472249278743372",
+        "baseUrl": "https://marmota.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Menudo-Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.menudofansub",
     "apk": "tachiyomi-es.menudofansub-v1.4.4.apk",
@@ -25708,10 +25688,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.8.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25848,10 +25828,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.48.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.49.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25908,10 +25888,10 @@
   {
     "name": "Tachiyomi: Dango Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dangoscan",
-    "apk": "tachiyomi-pt.dangoscan-v1.4.8.apk",
+    "apk": "tachiyomi-pt.dangoscan-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27168,10 +27148,10 @@
   {
     "name": "Tachiyomi: Nazarick Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
-    "apk": "tachiyomi-pt.nazarickscan-v1.4.8.apk",
+    "apk": "tachiyomi-pt.nazarickscan-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27408,10 +27388,10 @@
   {
     "name": "Tachiyomi: Demon Sect",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.42.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27448,10 +27428,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.50.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.52.apk",
     "lang": "pt-BR",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27460,7 +27440,7 @@
         "name": "Lura Toon",
         "lang": "pt-BR",
         "id": "5618833222165156043",
-        "baseUrl": "https://lura-toons.com",
+        "baseUrl": "https://luratoons.com",
         "versionId": 1
       }
     ]
@@ -27488,10 +27468,10 @@
   {
     "name": "Tachiyomi: RF Dragon Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
-    "apk": "tachiyomi-pt.rfdragonscan-v1.4.8.apk",
+    "apk": "tachiyomi-pt.rfdragonscan-v1.4.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27548,10 +27528,10 @@
   {
     "name": "Tachiyomi: Sinensis Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sinensis",
-    "apk": "tachiyomi-pt.sinensis-v1.4.46.apk",
+    "apk": "tachiyomi-pt.sinensis-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27568,10 +27548,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.10.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27868,10 +27848,10 @@
   {
     "name": "Tachiyomi: Wicked Witch Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.wickedwitchscannovo",
-    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.9.apk",
+    "apk": "tachiyomi-pt.wickedwitchscannovo-v1.4.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

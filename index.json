@@ -22,10 +22,10 @@
   {
     "name": "Tachiyomi: Akuma",
     "pkg": "eu.kanade.tachiyomi.extension.all.akuma",
-    "apk": "tachiyomi-all.akuma-v1.4.1.apk",
+    "apk": "tachiyomi-all.akuma-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -34,6 +34,181 @@
         "name": "Akuma",
         "lang": "all",
         "id": "1843646695111412994",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "en",
+        "id": "8524619729907384865",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "id",
+        "id": "1707768678643970514",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "jv",
+        "id": "3825200464570758229",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ca",
+        "id": "186393818771246102",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ceb",
+        "id": "5014742859693294263",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "cs",
+        "id": "3989593922015638091",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "da",
+        "id": "5988433661218368889",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "de",
+        "id": "8524245811050879736",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "et",
+        "id": "8167173986295647123",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "es",
+        "id": "5371778608318819884",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "eo",
+        "id": "77326570497325152",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "fr",
+        "id": "9222445553932717105",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "it",
+        "id": "5085561039221748061",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "hi",
+        "id": "1099564256126272699",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "hu",
+        "id": "1422819830508615430",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "pl",
+        "id": "8163761313345392776",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "pt",
+        "id": "5253884715906393116",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "vi",
+        "id": "1740877429814102450",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "tr",
+        "id": "2760962895634785428",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ru",
+        "id": "7045343433771927648",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "uk",
+        "id": "5229751861519354976",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ar",
+        "id": "8600626646399125374",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ko",
+        "id": "8353987132172753017",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "zh",
+        "id": "7558912456429140642",
+        "baseUrl": "https://akuma.moe",
+        "versionId": 1
+      },
+      {
+        "name": "Akuma",
+        "lang": "ja",
+        "id": "5330127039501257395",
         "baseUrl": "https://akuma.moe",
         "versionId": 1
       }
@@ -2724,10 +2899,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.28.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.29.apk",
     "lang": "all",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3897,10 +4072,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.4.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11719,10 +11894,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.31.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20353,10 +20528,10 @@
   {
     "name": "Tachiyomi: Noblesse Translations",
     "pkg": "eu.kanade.tachiyomi.extension.es.noblessetranslations",
-    "apk": "tachiyomi-es.noblessetranslations-v1.4.38.apk",
+    "apk": "tachiyomi-es.noblessetranslations-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20365,7 +20540,7 @@
         "name": "Noblesse Translations",
         "lang": "es",
         "id": "5125011410949702843",
-        "baseUrl": "https://www.noblessev1.com",
+        "baseUrl": "https://www.nobledicion.com",
         "versionId": 1
       }
     ]
@@ -25968,17 +26143,17 @@
   {
     "name": "Tachiyomi: Dream Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dreamscan",
-    "apk": "tachiyomi-pt.dreamscan-v1.4.36.apk",
-    "lang": "pt-br",
-    "code": 36,
-    "version": "1.4.36",
+    "apk": "tachiyomi-pt.dreamscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Dream Scan",
-        "lang": "pt-br",
+        "lang": "pt-BR",
         "id": "2058412298484770949",
         "baseUrl": "https://dreamscan.com.br",
         "versionId": 1
@@ -27428,10 +27603,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.52.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.53.apk",
     "lang": "pt-BR",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31328,10 +31503,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.6.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31340,7 +31515,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.club",
+        "baseUrl": "https://teamlanhlung.info",
         "versionId": 1
       }
     ]
@@ -32340,7 +32515,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobyw24.com",
+        "baseUrl": "http://www.zerobywzz.com",
         "versionId": 1
       }
     ]

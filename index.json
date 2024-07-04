@@ -20835,10 +20835,10 @@
   {
     "name": "Tachiyomi: Plot Twist No Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.plottwistnofansub",
-    "apk": "tachiyomi-es.plottwistnofansub-v1.4.6.apk",
+    "apk": "tachiyomi-es.plottwistnofansub-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20847,7 +20847,7 @@
         "name": "Plot Twist No Fansub",
         "lang": "es",
         "id": "6935004473807791201",
-        "baseUrl": "https://www.plotfansub.com",
+        "baseUrl": "https://plotnf.com",
         "versionId": 1
       }
     ]

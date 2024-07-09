@@ -13101,10 +13101,10 @@
   {
     "name": "Tachiyomi: MangaHen",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahen",
-    "apk": "tachiyomi-en.mangahen-v1.4.1.apk",
+    "apk": "tachiyomi-en.mangahen-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17388,10 +17388,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.38.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17400,7 +17400,7 @@
         "name": "Reset Scans",
         "lang": "en",
         "id": "8894279497795073184",
-        "baseUrl": "https://resetscan.com",
+        "baseUrl": "https://reset-scans.co",
         "versionId": 1
       }
     ]
@@ -29568,6 +29568,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: KumoTran",
+    "pkg": "eu.kanade.tachiyomi.extension.th.kumotran",
+    "apk": "tachiyomi-th.kumotran-v1.4.36.apk",
+    "lang": "th",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "KumoTran",
+        "lang": "th",
+        "id": "5070949840855808434",
+        "baseUrl": "https://www.kumotran.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Lami-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.th.lamimanga",
     "apk": "tachiyomi-th.lamimanga-v1.4.30.apk",
@@ -32210,10 +32230,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.7.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32222,7 +32242,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung.info",
+        "baseUrl": "https://teamlanhlung.life",
         "versionId": 1
       }
     ]
@@ -33222,7 +33242,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywzz.com",
+        "baseUrl": "http://www.zerobyw8.com",
         "versionId": 1
       }
     ]

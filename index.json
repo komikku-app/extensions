@@ -9133,10 +9133,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.35.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11639,21 +11639,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Kai Scans",
+    "name": "Tachiyomi: Lua Scans (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaiscans",
-    "apk": "tachiyomi-en.kaiscans-v1.4.34.apk",
+    "apk": "tachiyomi-en.kaiscans-v1.4.35.apk",
     "lang": "en",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Kai Scans",
+        "name": "Lua Scans (unoriginal)",
         "lang": "en",
         "id": "4825368993215448425",
-        "baseUrl": "https://kaiscans.org",
+        "baseUrl": "https://luacomic.com",
         "versionId": 1
       }
     ]
@@ -13121,10 +13121,10 @@
   {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.41.apk",
+    "apk": "tachiyomi-en.mangagalaxy-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14426,21 +14426,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaTop",
+    "name": "Tachiyomi: MangaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatop",
-    "apk": "tachiyomi-en.mangatop-v1.4.1.apk",
+    "apk": "tachiyomi-en.mangatop-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "MangaTop",
+        "name": "MangaScans",
         "lang": "en",
         "id": "85127596998931837",
-        "baseUrl": "https://mangatop.to",
+        "baseUrl": "https://mangascans.to",
         "versionId": 1
       }
     ]
@@ -15568,10 +15568,10 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.4.41.apk",
+    "apk": "tachiyomi-en.manytoon-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16228,10 +16228,10 @@
   {
     "name": "Tachiyomi: Omega Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.omegascans",
-    "apk": "tachiyomi-en.omegascans-v1.4.44.apk",
+    "apk": "tachiyomi-en.omegascans-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17408,10 +17408,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.54.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.55.apk",
     "lang": "en",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17948,10 +17948,10 @@
   {
     "name": "Tachiyomi: SpyFakku",
     "pkg": "eu.kanade.tachiyomi.extension.en.spyfakku",
-    "apk": "tachiyomi-en.spyfakku-v1.4.4.apk",
+    "apk": "tachiyomi-en.spyfakku-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18261,26 +18261,6 @@
         "lang": "en",
         "id": "5361143498571709507",
         "baseUrl": "https://www.theduckwebcomics.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: The Guild",
-    "pkg": "eu.kanade.tachiyomi.extension.en.theguild",
-    "apk": "tachiyomi-en.theguild-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "The Guild",
-        "lang": "en",
-        "id": "5878956277905112282",
-        "baseUrl": "https://theguildscans.com",
         "versionId": 1
       }
     ]
@@ -18608,10 +18588,10 @@
   {
     "name": "Tachiyomi: Utoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.utoon",
-    "apk": "tachiyomi-en.utoon-v1.4.36.apk",
+    "apk": "tachiyomi-en.utoon-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22289,10 +22269,10 @@
   {
     "name": "Tachiyomi: Perf Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.perfscan",
-    "apk": "tachiyomi-fr.perfscan-v1.4.26.apk",
+    "apk": "tachiyomi-fr.perfscan-v1.4.27.apk",
     "lang": "fr",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23609,10 +23589,10 @@
   {
     "name": "Tachiyomi: Komiktap",
     "pkg": "eu.kanade.tachiyomi.extension.id.komiktap",
-    "apk": "tachiyomi-id.komiktap-v1.4.32.apk",
+    "apk": "tachiyomi-id.komiktap-v1.4.33.apk",
     "lang": "id",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26174,26 +26154,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: AgiToon",
-    "pkg": "eu.kanade.tachiyomi.extension.ko.agitoon",
-    "apk": "tachiyomi-ko.agitoon-v1.4.1.apk",
-    "lang": "ko",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "아지툰",
-        "lang": "ko",
-        "id": "5023170521036838702",
-        "baseUrl": "https://agitoon.in",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manhwa Raw",
     "pkg": "eu.kanade.tachiyomi.extension.ko.manhwaraw",
     "apk": "tachiyomi-ko.manhwaraw-v1.4.38.apk",
@@ -27957,10 +27917,10 @@
   {
     "name": "Tachiyomi: Mode Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.modescanlator",
-    "apk": "tachiyomi-pt.modescanlator-v1.4.27.apk",
+    "apk": "tachiyomi-pt.modescanlator-v1.4.28.apk",
     "lang": "pt-BR",
-    "code": 27,
-    "version": "1.4.27",
+    "code": 28,
+    "version": "1.4.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30137,10 +30097,10 @@
   {
     "name": "Tachiyomi: Nekopost",
     "pkg": "eu.kanade.tachiyomi.extension.th.nekopost",
-    "apk": "tachiyomi-th.nekopost-v1.4.11.apk",
+    "apk": "tachiyomi-th.nekopost-v1.4.12.apk",
     "lang": "th",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30149,7 +30109,7 @@
         "name": "Nekopost",
         "lang": "th",
         "id": "4353470354941192417",
-        "baseUrl": "https://www.nekopost.net/project",
+        "baseUrl": "https://www.nekopost.net",
         "versionId": 1
       }
     ]
@@ -31517,10 +31477,10 @@
   {
     "name": "Tachiyomi: Mikrokosmos Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub",
-    "apk": "tachiyomi-tr.mikrokosmosfansub-v1.4.9.apk",
+    "apk": "tachiyomi-tr.mikrokosmosfansub-v1.4.10.apk",
     "lang": "tr",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32517,10 +32477,10 @@
   {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
-    "apk": "tachiyomi-vi.nettruyenco-v1.4.7.apk",
+    "apk": "tachiyomi-vi.nettruyenco-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32529,7 +32489,7 @@
         "name": "NetTruyenCO (unoriginal)",
         "lang": "vi",
         "id": "3563992092786616290",
-        "baseUrl": "https://nettruyencc.com",
+        "baseUrl": "https://nettruyenaa.com",
         "versionId": 1
       }
     ]

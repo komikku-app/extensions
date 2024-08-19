@@ -5692,10 +5692,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.45.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.46.apk",
     "lang": "all",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22849,10 +22849,10 @@
   {
     "name": "Tachiyomi: Doujinku",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujinku",
-    "apk": "tachiyomi-id.doujinku-v1.4.30.apk",
+    "apk": "tachiyomi-id.doujinku-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22861,7 +22861,7 @@
         "name": "Doujinku",
         "lang": "id",
         "id": "4688509366795716377",
-        "baseUrl": "https://doujinku.org",
+        "baseUrl": "https://doujinku.xyz",
         "versionId": 1
       }
     ]
@@ -28017,10 +28017,10 @@
   {
     "name": "Tachiyomi: No Index Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.noindexscan",
-    "apk": "tachiyomi-pt.noindexscan-v1.4.36.apk",
+    "apk": "tachiyomi-pt.noindexscan-v1.4.37.apk",
     "lang": "pt-BR",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

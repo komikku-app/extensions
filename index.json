@@ -17395,10 +17395,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.55.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.56.apk",
     "lang": "en",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22776,10 +22776,10 @@
   {
     "name": "Tachiyomi: Comicaso",
     "pkg": "eu.kanade.tachiyomi.extension.id.comicaso",
-    "apk": "tachiyomi-id.comicaso-v1.4.31.apk",
+    "apk": "tachiyomi-id.comicaso-v1.4.32.apk",
     "lang": "id",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22788,7 +22788,7 @@
         "name": "Comicaso",
         "lang": "id",
         "id": "8105901253428833094",
-        "baseUrl": "https://comicaso.org",
+        "baseUrl": "https://comicaso.id",
         "versionId": 1
       }
     ]

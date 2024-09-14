@@ -8680,10 +8680,10 @@
   {
     "name": "Tachiyomi: Scans 4u",
     "pkg": "eu.kanade.tachiyomi.extension.ar.scans4u",
-    "apk": "tachiyomi-ar.scans4u-v1.4.6.apk",
+    "apk": "tachiyomi-ar.scans4u-v1.4.7.apk",
     "lang": "ar",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9220,10 +9220,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.36.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9232,7 +9232,7 @@
         "name": "Vortex Scans",
         "lang": "en",
         "id": "2559570015828016575",
-        "baseUrl": "https://vortexscans.org",
+        "baseUrl": "https://vortextoon.com",
         "versionId": 1
       }
     ]
@@ -10555,10 +10555,10 @@
   {
     "name": "Tachiyomi: EZmanga",
     "pkg": "eu.kanade.tachiyomi.extension.en.ezmanga",
-    "apk": "tachiyomi-en.ezmanga-v1.4.41.apk",
+    "apk": "tachiyomi-en.ezmanga-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11835,10 +11835,10 @@
   {
     "name": "Tachiyomi: Kewn Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.kewnscans",
-    "apk": "tachiyomi-en.kewnscans-v1.4.7.apk",
+    "apk": "tachiyomi-en.kewnscans-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12075,10 +12075,10 @@
   {
     "name": "Tachiyomi: Laid Back Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
-    "apk": "tachiyomi-en.laidbackscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.laidbackscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12275,10 +12275,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.35.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12286,9 +12286,9 @@
       {
         "name": "Lua Scans",
         "lang": "en",
-        "id": "7741623582242119453",
+        "id": "7356620174947907068",
         "baseUrl": "https://luacomic.net",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -12395,10 +12395,10 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.41.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15942,10 +15942,10 @@
   {
     "name": "Tachiyomi: Necro Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.necroscans",
-    "apk": "tachiyomi-en.necroscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.necroscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18849,10 +18849,10 @@
   {
     "name": "Tachiyomi: Wicked Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.wickedscans",
-    "apk": "tachiyomi-en.wickedscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.wickedscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19422,6 +19422,26 @@
         "lang": "es",
         "id": "404674447362480247",
         "baseUrl": "https://barmanga.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Bega Translation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.begatranslation",
+    "apk": "tachiyomi-es.begatranslation-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Bega Translation",
+        "lang": "es",
+        "id": "6757330205319558057",
+        "baseUrl": "https://begatranslation.com",
         "versionId": 1
       }
     ]
@@ -21543,10 +21563,10 @@
   {
     "name": "Tachiyomi: Anteiku Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.anteikuscan",
-    "apk": "tachiyomi-fr.anteikuscan-v1.4.6.apk",
+    "apk": "tachiyomi-fr.anteikuscan-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21603,10 +21623,10 @@
   {
     "name": "Tachiyomi: Astrames",
     "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
-    "apk": "tachiyomi-fr.astrames-v1.4.6.apk",
+    "apk": "tachiyomi-fr.astrames-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21663,10 +21683,10 @@
   {
     "name": "Tachiyomi: ED Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.fr.edscanlation",
-    "apk": "tachiyomi-fr.edscanlation-v1.4.6.apk",
+    "apk": "tachiyomi-fr.edscanlation-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22463,10 +22483,10 @@
   {
     "name": "Tachiyomi: Starbound Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.starboundscans",
-    "apk": "tachiyomi-fr.starboundscans-v1.4.6.apk",
+    "apk": "tachiyomi-fr.starboundscans-v1.4.7.apk",
     "lang": "fr",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

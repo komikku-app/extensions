@@ -5450,10 +5450,10 @@
   {
     "name": "Tachiyomi: MissKon (MrCong)",
     "pkg": "eu.kanade.tachiyomi.extension.all.misskon",
-    "apk": "tachiyomi-all.misskon-v1.4.5.apk",
+    "apk": "tachiyomi-all.misskon-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25522,14 +25522,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki461.net",
+        "baseUrl": "https://manatoki462.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki461.com",
+        "baseUrl": "https://newtoki462.com",
         "versionId": 1
       }
     ]

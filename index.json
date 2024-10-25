@@ -1164,10 +1164,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.48.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.49.apk",
     "lang": "all",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -8879,10 +8879,10 @@
   {
     "name": "Tachiyomi: Adult Webtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.adultwebtoon",
-    "apk": "tachiyomi-en.adultwebtoon-v1.4.39.apk",
+    "apk": "tachiyomi-en.adultwebtoon-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11174,10 +11174,10 @@
   {
     "name": "Tachiyomi: HentaiWebtoon",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaiwebtoon",
-    "apk": "tachiyomi-en.hentaiwebtoon-v1.4.38.apk",
+    "apk": "tachiyomi-en.hentaiwebtoon-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21682,10 +21682,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.reaperscans",
-    "apk": "tachiyomi-fr.reaperscans-v1.4.36.apk",
+    "apk": "tachiyomi-fr.reaperscans-v1.4.12.apk",
     "lang": "fr",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21693,9 +21693,9 @@
       {
         "name": "Reaper Scans",
         "lang": "fr",
-        "id": "8222507730733516974",
-        "baseUrl": "https://reaperscans.fr",
-        "versionId": 2
+        "id": "8021882997341141274",
+        "baseUrl": "https://reaper-scans.fr",
+        "versionId": 4
       }
     ]
   },

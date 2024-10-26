@@ -16881,10 +16881,10 @@
   {
     "name": "Tachiyomi: Rezo Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rezoscans",
-    "apk": "tachiyomi-en.rezoscans-v1.4.8.apk",
+    "apk": "tachiyomi-en.rezoscans-v1.4.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19488,10 +19488,10 @@
   {
     "name": "Tachiyomi: Inmortal Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.inmortalscan",
-    "apk": "tachiyomi-es.inmortalscan-v1.4.37.apk",
+    "apk": "tachiyomi-es.inmortalscan-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19500,7 +19500,7 @@
         "name": "Inmortal Scan",
         "lang": "es",
         "id": "8879875375160764811",
-        "baseUrl": "https://mg.mundodrama.site",
+        "baseUrl": "https://scaninmortal.com",
         "versionId": 1
       }
     ]
@@ -27588,6 +27588,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Pluma Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.plumacomics",
+    "apk": "tachiyomi-pt.plumacomics-v1.4.36.apk",
+    "lang": "pt-BR",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pluma Comics",
+        "lang": "pt-BR",
+        "id": "7649412087005162215",
+        "baseUrl": "https://plumacomics.cloud",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Portal Yaoi",
     "pkg": "eu.kanade.tachiyomi.extension.pt.portalyaoi",
     "apk": "tachiyomi-pt.portalyaoi-v1.4.36.apk",
@@ -31830,10 +31850,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.8.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31842,7 +31862,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.click",
+        "baseUrl": "https://lxmanga.online",
         "versionId": 1
       }
     ]

@@ -1667,10 +1667,10 @@
   {
     "name": "Tachiyomi: CosplayTele",
     "pkg": "eu.kanade.tachiyomi.extension.all.cosplaytele",
-    "apk": "tachiyomi-all.cosplaytele-v1.4.2.apk",
+    "apk": "tachiyomi-all.cosplaytele-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11952,26 +11952,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Laid Back Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.laidbackscans",
-    "apk": "tachiyomi-en.laidbackscans-v1.4.8.apk",
-    "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Laid Back Scans",
-        "lang": "en",
-        "id": "2614756097800392864",
-        "baseUrl": "https://laidbackscans.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Lala Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lalamanga",
     "apk": "tachiyomi-en.lalamanga-v1.4.36.apk",
@@ -18008,7 +17988,27 @@
   {
     "name": "Tachiyomi: VyvyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.vyvymanga",
-    "apk": "tachiyomi-en.vyvymanga-v1.4.36.apk",
+    "apk": "tachiyomi-en.vyvymanga-v1.4.37.apk",
+    "lang": "en",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "VyvyManga",
+        "lang": "en",
+        "id": "6958928548959982041",
+        "baseUrl": "https://vymanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: VyvyManga.org",
+    "pkg": "eu.kanade.tachiyomi.extension.en.vyvymangaorg",
+    "apk": "tachiyomi-en.vyvymangaorg-v1.4.36.apk",
     "lang": "en",
     "code": 36,
     "version": "1.4.36",
@@ -18017,11 +18017,11 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "VyvyManga",
+        "name": "VyvyManga.org",
         "lang": "en",
-        "id": "4466365380662111499",
+        "id": "2440423058759310563",
         "baseUrl": "https://vyvymanga.org",
-        "versionId": 2
+        "versionId": 1
       }
     ]
   },
@@ -19733,6 +19733,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: LeerManga",
+    "pkg": "eu.kanade.tachiyomi.extension.es.leermanga",
+    "apk": "tachiyomi-es.leermanga-v1.4.36.apk",
+    "lang": "es",
+    "code": 36,
+    "version": "1.4.36",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LeerManga",
+        "lang": "es",
+        "id": "3329502392382757058",
+        "baseUrl": "https://leermanga.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: LeerMangasXYZ",
     "pkg": "eu.kanade.tachiyomi.extension.es.leermangasxyz",
     "apk": "tachiyomi-es.leermangasxyz-v1.4.1.apk",
@@ -21055,26 +21075,6 @@
         "lang": "fr",
         "id": "7510012514263457159",
         "baseUrl": "https://astral-manga.fr",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Astrames",
-    "pkg": "eu.kanade.tachiyomi.extension.fr.astrames",
-    "apk": "tachiyomi-fr.astrames-v1.4.8.apk",
-    "lang": "fr",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Astrames",
-        "lang": "fr",
-        "id": "4010968801793168266",
-        "baseUrl": "https://astrames.fr",
         "versionId": 1
       }
     ]

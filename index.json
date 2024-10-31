@@ -19628,10 +19628,10 @@
   {
     "name": "Tachiyomi: Koinobori Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
-    "apk": "tachiyomi-es.koinoboriscan-v1.4.38.apk",
+    "apk": "tachiyomi-es.koinoboriscan-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20095,10 +20095,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.46.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20508,26 +20508,6 @@
         "lang": "es",
         "id": "1245067583654716116",
         "baseUrl": "https://richtoscan.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Rightdark Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.es.rightdarkscan",
-    "apk": "tachiyomi-es.rightdarkscan-v1.4.41.apk",
-    "lang": "es",
-    "code": 41,
-    "version": "1.4.41",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Rightdark Scan",
-        "lang": "es",
-        "id": "710924825298427317",
-        "baseUrl": "https://rsdleft.com",
         "versionId": 1
       }
     ]
@@ -25615,14 +25595,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki464.net",
+        "baseUrl": "https://manatoki465.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki464.com",
+        "baseUrl": "https://newtoki465.com",
         "versionId": 1
       }
     ]

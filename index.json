@@ -1164,10 +1164,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.49.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.50.apk",
     "lang": "all",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16861,10 +16861,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.43.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16872,9 +16872,9 @@
       {
         "name": "Reset Scans",
         "lang": "en",
-        "id": "8894279497795073184",
-        "baseUrl": "https://rspro.xyz",
-        "versionId": 1
+        "id": "8825875592592115992",
+        "baseUrl": "https://reset-scans.xyz",
+        "versionId": 2
       }
     ]
   },
@@ -32030,10 +32030,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.14.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.15.apk",
     "lang": "vi",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32042,7 +32042,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlungday.vip",
+        "baseUrl": "https://teamlanhlungday.club",
         "versionId": 1
       }
     ]

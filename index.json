@@ -224,10 +224,10 @@
   {
     "name": "Tachiyomi: AsmHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.asmhentai",
-    "apk": "tachiyomi-all.asmhentai-v1.4.6.apk",
+    "apk": "tachiyomi-all.asmhentai-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2453,10 +2453,10 @@
   {
     "name": "Tachiyomi: HentaiEnvy",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaienvy",
-    "apk": "tachiyomi-all.hentaienvy-v1.4.4.apk",
+    "apk": "tachiyomi-all.hentaienvy-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2522,10 +2522,10 @@
   {
     "name": "Tachiyomi: HentaiEra",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaiera",
-    "apk": "tachiyomi-all.hentaiera-v1.4.5.apk",
+    "apk": "tachiyomi-all.hentaiera-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2591,10 +2591,10 @@
   {
     "name": "Tachiyomi: HentaiFox",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaifox",
-    "apk": "tachiyomi-all.hentaifox-v1.4.10.apk",
+    "apk": "tachiyomi-all.hentaifox-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2890,10 +2890,10 @@
   {
     "name": "Tachiyomi: HentaiRox",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentairox",
-    "apk": "tachiyomi-all.hentairox-v1.4.4.apk",
+    "apk": "tachiyomi-all.hentairox-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2931,10 +2931,10 @@
   {
     "name": "Tachiyomi: HentaiZap",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentaizap",
-    "apk": "tachiyomi-all.hentaizap-v1.4.4.apk",
+    "apk": "tachiyomi-all.hentaizap-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3249,10 +3249,10 @@
   {
     "name": "Tachiyomi: IMHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.imhentai",
-    "apk": "tachiyomi-all.imhentai-v1.4.19.apk",
+    "apk": "tachiyomi-all.imhentai-v1.4.20.apk",
     "lang": "all",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6037,10 +6037,10 @@
   {
     "name": "Tachiyomi: NHentai.xxx",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
-    "apk": "tachiyomi-all.nhentaixxx-v1.4.4.apk",
+    "apk": "tachiyomi-all.nhentaixxx-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22188,10 +22188,10 @@
   {
     "name": "Tachiyomi: Hwago",
     "pkg": "eu.kanade.tachiyomi.extension.id.hwago",
-    "apk": "tachiyomi-id.hwago-v1.4.38.apk",
+    "apk": "tachiyomi-id.hwago-v1.4.39.apk",
     "lang": "id",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22200,7 +22200,7 @@
         "name": "Hwago",
         "lang": "id",
         "id": "5490253431755133280",
-        "baseUrl": "https://hwago.site",
+        "baseUrl": "https://hwago01.xyz",
         "versionId": 1
       }
     ]
@@ -23748,10 +23748,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.64.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.65.apk",
     "lang": "id",
-    "code": 64,
-    "version": "1.4.64",
+    "code": 65,
+    "version": "1.4.65",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23760,7 +23760,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami06.com",
+        "baseUrl": "https://shinigami07.com",
         "versionId": 1
       }
     ]
@@ -31788,7 +31788,7 @@
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.one",
+        "baseUrl": "https://hentaicb.pro",
         "versionId": 1
       }
     ]
@@ -31836,10 +31836,10 @@
   {
     "name": "Tachiyomi: LXHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.9.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31848,7 +31848,7 @@
         "name": "LXHentai",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.online",
+        "baseUrl": "https://lxmanga.site",
         "versionId": 1
       }
     ]
@@ -32189,6 +32189,26 @@
         "lang": "vi",
         "id": "6630877766973917674",
         "baseUrl": "https://www.ungtycomics.io#, https://ungtycomicsvip.com#, https://topdammy.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: VlogTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "VlogTruyen",
+        "lang": "vi",
+        "id": "6425642624422299254",
+        "baseUrl": "https://vlogtruyen33.com",
         "versionId": 1
       }
     ]

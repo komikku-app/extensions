@@ -5525,10 +5525,10 @@
   {
     "name": "Tachiyomi: MissKon (MrCong)",
     "pkg": "eu.kanade.tachiyomi.extension.all.misskon",
-    "apk": "tachiyomi-all.misskon-v1.4.1.apk",
+    "apk": "tachiyomi-all.misskon-v1.4.7.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

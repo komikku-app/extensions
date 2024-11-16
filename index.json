@@ -16954,6 +16954,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Rolia Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.en.roliascan",
+    "apk": "tachiyomi-en.roliascan-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Rolia Scan",
+        "lang": "en",
+        "id": "3390167717659783669",
+        "baseUrl": "https://roliascan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: S2Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.s2manga",
     "apk": "tachiyomi-en.s2manga-v1.4.40.apk",
@@ -22137,10 +22157,10 @@
   {
     "name": "Tachiyomi: CosmicScans.id",
     "pkg": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
-    "apk": "tachiyomi-id.cosmicscansid-v1.4.36.apk",
+    "apk": "tachiyomi-id.cosmicscansid-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27823,6 +27843,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Read Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
+    "apk": "tachiyomi-pt.readmangas-v1.4.30.apk",
+    "lang": "pt-BR",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Read Mangas",
+        "lang": "pt-BR",
+        "id": "7156283065607892957",
+        "baseUrl": "https://readmangas.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Remangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
     "apk": "tachiyomi-pt.remangas-v1.4.37.apk",
@@ -33257,7 +33297,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywz.com",
+        "baseUrl": "http://www.zerobywav.com",
         "versionId": 1
       }
     ]

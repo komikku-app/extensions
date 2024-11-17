@@ -3445,10 +3445,10 @@
   {
     "name": "Tachiyomi: SchaleNetwork",
     "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
-    "apk": "tachiyomi-all.koharu-v1.4.10.apk",
+    "apk": "tachiyomi-all.koharu-v1.4.11.apk",
     "lang": "all",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5800,10 +5800,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.46.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.47.apk",
     "lang": "all",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9114,10 +9114,10 @@
   {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
-    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.30.apk",
+    "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9125,9 +9125,9 @@
       {
         "name": "Animated Glitched Comics",
         "lang": "en",
-        "id": "6872417312672610361",
-        "baseUrl": "https://agscomics.com",
-        "versionId": 1
+        "id": "8373624335456547405",
+        "baseUrl": "https://agrcomics.com",
+        "versionId": 2
       }
     ]
   },
@@ -14616,10 +14616,10 @@
   {
     "name": "Tachiyomi: Manhwa18",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwa18",
-    "apk": "tachiyomi-en.manhwa18-v1.4.11.apk",
+    "apk": "tachiyomi-en.manhwa18-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18103,10 +18103,10 @@
   {
     "name": "Tachiyomi: Webcomics",
     "pkg": "eu.kanade.tachiyomi.extension.en.webcomics",
-    "apk": "tachiyomi-en.webcomics-v1.4.3.apk",
+    "apk": "tachiyomi-en.webcomics-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -18115,7 +18115,7 @@
         "name": "Webcomics",
         "lang": "en",
         "id": "7547950838983208237",
-        "baseUrl": "https://www.webcomicsapp.com",
+        "baseUrl": "https://webcomicsapp.com",
         "versionId": 1
       }
     ]
@@ -23337,10 +23337,10 @@
   {
     "name": "Tachiyomi: Siren Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangkomik",
-    "apk": "tachiyomi-id.mangkomik-v1.4.33.apk",
+    "apk": "tachiyomi-id.mangkomik-v1.4.34.apk",
     "lang": "id",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27965,10 +27965,10 @@
   {
     "name": "Tachiyomi: SlimeRead",
     "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.13.apk",
+    "apk": "tachiyomi-pt.slimeread-v1.4.14.apk",
     "lang": "pt-BR",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28545,10 +28545,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.49.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.50.apk",
     "lang": "ru",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28865,10 +28865,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.71.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.72.apk",
     "lang": "ru",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28945,10 +28945,10 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.71.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.72.apk",
     "lang": "ru",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28985,10 +28985,10 @@
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.26.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.27.apk",
     "lang": "ru",
-    "code": 26,
-    "version": "1.4.26",
+    "code": 27,
+    "version": "1.4.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29005,10 +29005,10 @@
   {
     "name": "Tachiyomi: SeiManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.seimanga",
-    "apk": "tachiyomi-ru.seimanga-v1.4.25.apk",
+    "apk": "tachiyomi-ru.seimanga-v1.4.26.apk",
     "lang": "ru",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29025,10 +29025,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.47.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.48.apk",
     "lang": "ru",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29098,6 +29098,26 @@
         "lang": "ru",
         "id": "6859623422196397486",
         "baseUrl": "https://unicomics.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Usagi",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.usagi",
+    "apk": "tachiyomi-ru.usagi-v1.4.26.apk",
+    "lang": "ru",
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Usagi",
+        "lang": "ru",
+        "id": "5705163226489175947",
+        "baseUrl": "https://web.usagi.one/",
         "versionId": 1
       }
     ]
@@ -31985,10 +32005,10 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.40.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.41.apk",
     "lang": "vi",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31997,7 +32017,7 @@
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.vin",
+        "baseUrl": "https://hentaivn.mom",
         "versionId": 1
       }
     ]
@@ -32105,10 +32125,10 @@
   {
     "name": "Tachiyomi: NhatTruyenS (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyens",
-    "apk": "tachiyomi-vi.nhattruyens-v1.4.7.apk",
+    "apk": "tachiyomi-vi.nhattruyens-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32117,7 +32137,7 @@
         "name": "NhatTruyenS (unoriginal)",
         "lang": "vi",
         "id": "3351211853254823251",
-        "baseUrl": "https://nhattruyenss.net",
+        "baseUrl": "https://www.nhattruyenss.net",
         "versionId": 1
       }
     ]
@@ -32385,10 +32405,10 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.1.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32397,7 +32417,7 @@
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen33.com",
+        "baseUrl": "https://vlogtruyen34.com",
         "versionId": 1
       }
     ]

@@ -9310,10 +9310,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.39.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9663,26 +9663,6 @@
         "lang": "en",
         "id": "7358406305253420469",
         "baseUrl": "https://bestmanhua.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: BirdManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.birdmanga",
-    "apk": "tachiyomi-en.birdmanga-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BirdManga",
-        "lang": "en",
-        "id": "7351841944792308292",
-        "baseUrl": "https://birdmanga.com",
         "versionId": 1
       }
     ]
@@ -13025,10 +13005,10 @@
   {
     "name": "Tachiyomi: Manga Galaxy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangagalaxy",
-    "apk": "tachiyomi-en.mangagalaxy-v1.4.44.apk",
+    "apk": "tachiyomi-en.mangagalaxy-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25333,10 +25313,10 @@
   {
     "name": "Tachiyomi: RawXZ",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawxz",
-    "apk": "tachiyomi-ja.rawxz-v1.4.38.apk",
+    "apk": "tachiyomi-ja.rawxz-v1.4.39.apk",
     "lang": "ja",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25345,7 +25325,7 @@
         "name": "RawXZ",
         "lang": "ja",
         "id": "7950551186567193810",
-        "baseUrl": "https://rawxz.si",
+        "baseUrl": "https://rawxz.to",
         "versionId": 1
       }
     ]
@@ -32301,10 +32281,10 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.15.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32313,7 +32293,7 @@
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlungday.club",
+        "baseUrl": "https://teamlanhlungday.info",
         "versionId": 1
       }
     ]
@@ -33341,10 +33321,10 @@
   {
     "name": "Tachiyomi: WNACG",
     "pkg": "eu.kanade.tachiyomi.extension.zh.wnacg",
-    "apk": "tachiyomi-zh.wnacg-v1.4.16.apk",
+    "apk": "tachiyomi-zh.wnacg-v1.4.17.apk",
     "lang": "zh",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -33353,7 +33333,7 @@
         "name": "紳士漫畫",
         "lang": "zh",
         "id": "6551136894818591762",
-        "baseUrl": "https://www.hm08.lol#, https://www.hm09.lol#, https://www.hm10.lol#, https://www.hm06.lol#, https://www.hm07.lol#, https://www.hm05.lol#, https://www.hm04.lol#, https://www.hm01.lol#, https://www.hm02.lol#, https://www.hm03.lol#, https://www.hm1.lol#, https://www.hm2.lol#, https://www.hm3.lol",
+        "baseUrl": "https://www.wn01.uk#, https://www.wn05.cc#, https://www.wn04.cc#, https://www.wn03.cc",
         "versionId": 1
       }
     ]

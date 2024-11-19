@@ -5112,10 +5112,10 @@
   {
     "name": "Tachiyomi: MANGA Plus by SHUEISHA",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangaplus",
-    "apk": "tachiyomi-all.mangaplus-v1.4.52.apk",
+    "apk": "tachiyomi-all.mangaplus-v1.4.53.apk",
     "lang": "all",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9410,10 +9410,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.41.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27881,10 +27881,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.54.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27892,9 +27892,9 @@
       {
         "name": "Lura Toon",
         "lang": "pt-BR",
-        "id": "5618833222165156043",
+        "id": "1108163814448330624",
         "baseUrl": "https://luratoons.com",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },
@@ -32921,10 +32921,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.12.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

@@ -2279,10 +2279,10 @@
   {
     "name": "Tachiyomi: FoamGirl",
     "pkg": "eu.kanade.tachiyomi.extension.all.foamgirl",
-    "apk": "tachiyomi-all.foamgirl-v1.4.1.apk",
+    "apk": "tachiyomi-all.foamgirl-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12165,10 +12165,10 @@
   {
     "name": "Tachiyomi: LikeManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.likemanga",
-    "apk": "tachiyomi-en.likemanga-v1.4.4.apk",
+    "apk": "tachiyomi-en.likemanga-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12177,7 +12177,27 @@
         "name": "LikeManga",
         "lang": "en",
         "id": "6236979603959140497",
-        "baseUrl": "https://likemanga.io",
+        "baseUrl": "https://likemanga.ink",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LikeManga.in",
+    "pkg": "eu.kanade.tachiyomi.extension.en.likemangain",
+    "apk": "tachiyomi-en.likemangain-v1.4.37.apk",
+    "lang": "en",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LikeMangaIn",
+        "lang": "en",
+        "id": "828698548689586603",
+        "baseUrl": "https://likemanga.in",
         "versionId": 1
       }
     ]
@@ -16892,10 +16912,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.44.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16903,9 +16923,9 @@
       {
         "name": "Reset Scans",
         "lang": "en",
-        "id": "8825875592592115992",
-        "baseUrl": "https://reset-scans.xyz",
-        "versionId": 2
+        "id": "8358008083447218926",
+        "baseUrl": "https://rspro.xyz",
+        "versionId": 3
       }
     ]
   },
@@ -32261,10 +32281,10 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.9.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32321,10 +32341,10 @@
   {
     "name": "Tachiyomi: TruyenGG",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.1.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32421,10 +32441,10 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.44.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.45.apk",
     "lang": "vi",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32501,10 +32521,10 @@
   {
     "name": "Tachiyomi: XXManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.vi.xxmanhwa",
-    "apk": "tachiyomi-vi.xxmanhwa-v1.4.5.apk",
+    "apk": "tachiyomi-vi.xxmanhwa-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

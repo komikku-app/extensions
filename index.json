@@ -5494,10 +5494,10 @@
   {
     "name": "Tachiyomi: Meitua.top",
     "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
-    "apk": "tachiyomi-all.meituatop-v1.4.8.apk",
+    "apk": "tachiyomi-all.meituatop-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7226,19 +7226,19 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.35.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Thunder Scans",
+        "name": "Lava Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://ar-thunderepic.com",
+        "baseUrl": "https://lavascans.com",
         "versionId": 1
       },
       {
@@ -9808,26 +9808,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ColoredManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.coloredmanga",
-    "apk": "tachiyomi-en.coloredmanga-v1.4.36.apk",
-    "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "ColoredManga",
-        "lang": "en",
-        "id": "8295785688378137067",
-        "baseUrl": "https://coloredmanga.net",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
     "apk": "tachiyomi-en.comicextra-v1.4.16.apk",
@@ -11385,10 +11365,10 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.52.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12745,10 +12725,10 @@
   {
     "name": "Tachiyomi: Manga Demon",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangademon",
-    "apk": "tachiyomi-en.mangademon-v1.4.15.apk",
+    "apk": "tachiyomi-en.mangademon-v1.4.16.apk",
     "lang": "en",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12757,7 +12737,7 @@
         "name": "Manga Demon",
         "lang": "en",
         "id": "2900023289777642714",
-        "baseUrl": "https://ciorti.online",
+        "baseUrl": "https://demonicscans.org",
         "versionId": 2
       }
     ]
@@ -18259,10 +18239,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.3.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19539,10 +19519,10 @@
   {
     "name": "Tachiyomi: Visor Inari",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.44.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.45.apk",
     "lang": "es",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19551,7 +19531,7 @@
         "name": "Visor Inari",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://vrinari.org",
+        "baseUrl": "https://clubinari.org",
         "versionId": 1
       }
     ]
@@ -19899,6 +19879,26 @@
         "lang": "es",
         "id": "8580859910673249950",
         "baseUrl": "https://r1.leermanga.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: LegendScanlations",
+    "pkg": "eu.kanade.tachiyomi.extension.es.legendscanlations",
+    "apk": "tachiyomi-es.legendscanlations-v1.4.37.apk",
+    "lang": "es",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "LegendScanlations",
+        "lang": "es",
+        "id": "443677796605312536",
+        "baseUrl": "https://legendscanlations.com",
         "versionId": 1
       }
     ]
@@ -24033,10 +24033,10 @@
   {
     "name": "Tachiyomi: Siikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.siimanga",
-    "apk": "tachiyomi-id.siimanga-v1.4.38.apk",
+    "apk": "tachiyomi-id.siimanga-v1.4.39.apk",
     "lang": "id",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24045,7 +24045,7 @@
         "name": "Siikomik",
         "lang": "id",
         "id": "877264191661067329",
-        "baseUrl": "https://siikomik.com",
+        "baseUrl": "https://siikomik.lat",
         "versionId": 2
       }
     ]
@@ -25366,26 +25366,6 @@
         "lang": "ja",
         "id": "6371104137263721065",
         "baseUrl": "https://stmanga.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SaikoMangaRaw",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.saikomangaraw",
-    "apk": "tachiyomi-ja.saikomangaraw-v1.4.37.apk",
-    "lang": "ja",
-    "code": 37,
-    "version": "1.4.37",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SaikoMangaRaw",
-        "lang": "ja",
-        "id": "2423208462744443109",
-        "baseUrl": "https://saikomangaraw.com",
         "versionId": 1
       }
     ]

@@ -9750,10 +9750,10 @@
   {
     "name": "Tachiyomi: Cocomic",
     "pkg": "eu.kanade.tachiyomi.extension.en.cocomic",
-    "apk": "tachiyomi-en.cocomic-v1.4.37.apk",
+    "apk": "tachiyomi-en.cocomic-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15910,6 +15910,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Philia Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
+    "apk": "tachiyomi-en.philiascans-v1.4.5.apk",
+    "lang": "en",
+    "code": 5,
+    "version": "1.4.5",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Philia Scans",
+        "lang": "en",
+        "id": "3242255623103584227",
+        "baseUrl": "https://philiascans.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Pian Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.pianmanga",
     "apk": "tachiyomi-en.pianmanga-v1.4.38.apk",
@@ -19597,26 +19617,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jobsibe",
-    "pkg": "eu.kanade.tachiyomi.extension.es.jobsibe",
-    "apk": "tachiyomi-es.jobsibe-v1.4.38.apk",
-    "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Jobsibe",
-        "lang": "es",
-        "id": "3903750533251938295",
-        "baseUrl": "https://jobsibe.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kings Of Darkness",
     "pkg": "eu.kanade.tachiyomi.extension.es.kingsofdarkness",
     "apk": "tachiyomi-es.kingsofdarkness-v1.4.2.apk",
@@ -19884,18 +19884,18 @@
     ]
   },
   {
-    "name": "Tachiyomi: LMTO Online",
+    "name": "Tachiyomi: Jobsibe",
     "pkg": "eu.kanade.tachiyomi.extension.es.lmtoonline",
-    "apk": "tachiyomi-es.lmtoonline-v1.4.37.apk",
+    "apk": "tachiyomi-es.lmtoonline-v1.4.38.apk",
     "lang": "es",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "LMTO Online",
+        "name": "Jobsibe",
         "lang": "es",
         "id": "3752522006902890093",
         "baseUrl": "https://lmtos.com",

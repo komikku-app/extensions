@@ -11165,10 +11165,10 @@
   {
     "name": "Tachiyomi: HentaiDex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentaidex",
-    "apk": "tachiyomi-en.hentaidex-v1.4.30.apk",
+    "apk": "tachiyomi-en.hentaidex-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15532,10 +15532,10 @@
   {
     "name": "Tachiyomi: NineAnime",
     "pkg": "eu.kanade.tachiyomi.extension.en.nineanime",
-    "apk": "tachiyomi-en.nineanime-v1.4.4.apk",
+    "apk": "tachiyomi-en.nineanime-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16325,26 +16325,6 @@
         "lang": "en",
         "id": "8061953015808280611",
         "baseUrl": "https://readcomiconline.li",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Read Comics Book",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readcomicsbook",
-    "apk": "tachiyomi-en.readcomicsbook-v1.4.1.apk",
-    "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Read Comics Book",
-        "lang": "en",
-        "id": "796465500821767187",
-        "baseUrl": "https://readcomicsplus.net",
         "versionId": 1
       }
     ]
@@ -20179,6 +20159,26 @@
         "lang": "es",
         "id": "3548601371328353875",
         "baseUrl": "https://manhwa-latino.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manhwas.es",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwases",
+    "apk": "tachiyomi-es.manhwases-v1.4.37.apk",
+    "lang": "es",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwas.es",
+        "lang": "es",
+        "id": "8236022073470762103",
+        "baseUrl": "https://manhwas.es",
         "versionId": 1
       }
     ]
@@ -25166,6 +25166,26 @@
         "lang": "ja",
         "id": "3349575794425308347",
         "baseUrl": "https://raw1001.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Raw18",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.raw18",
+    "apk": "tachiyomi-ja.raw18-v1.4.6.apk",
+    "lang": "ja",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Raw18",
+        "lang": "ja",
+        "id": "2238636513447052332",
+        "baseUrl": "https://raw18.net",
         "versionId": 1
       }
     ]
@@ -32301,10 +32321,10 @@
   {
     "name": "Tachiyomi: TruyenGG",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.2.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32361,10 +32381,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.15.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

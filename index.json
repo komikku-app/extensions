@@ -2406,10 +2406,10 @@
   {
     "name": "Tachiyomi: Hennojin",
     "pkg": "eu.kanade.tachiyomi.extension.all.hennojin",
-    "apk": "tachiyomi-all.hennojin-v1.4.1.apk",
+    "apk": "tachiyomi-all.hennojin-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2418,14 +2418,14 @@
         "name": "Hennojin",
         "lang": "en",
         "id": "2486465102799235219",
-        "baseUrl": "https://hennojin.com/home/",
+        "baseUrl": "https://hennojin.com",
         "versionId": 1
       },
       {
         "name": "Hennojin",
         "lang": "ja",
         "id": "6754172311859665554",
-        "baseUrl": "https://hennojin.com/home/?archive=raw",
+        "baseUrl": "https://hennojin.com",
         "versionId": 1
       }
     ]

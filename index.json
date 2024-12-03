@@ -1647,10 +1647,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.15.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.16.apk",
     "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3405,10 +3405,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.15.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.16.apk",
     "lang": "all",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -11265,10 +11265,10 @@
   {
     "name": "Tachiyomi: HentaiRead",
     "pkg": "eu.kanade.tachiyomi.extension.en.hentairead",
-    "apk": "tachiyomi-en.hentairead-v1.4.45.apk",
+    "apk": "tachiyomi-en.hentairead-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21753,10 +21753,10 @@
   {
     "name": "Tachiyomi: Raijin Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.raijinscans",
-    "apk": "tachiyomi-fr.raijinscans-v1.4.39.apk",
+    "apk": "tachiyomi-fr.raijinscans-v1.4.40.apk",
     "lang": "fr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21765,7 +21765,7 @@
         "name": "Raijin Scans",
         "lang": "fr",
         "id": "8373267671495516033",
-        "baseUrl": "https://raijinscans.fr",
+        "baseUrl": "https://raijinscans.net",
         "versionId": 1
       }
     ]
@@ -23393,10 +23393,10 @@
   {
     "name": "Tachiyomi: Siren Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mangkomik",
-    "apk": "tachiyomi-id.mangkomik-v1.4.34.apk",
+    "apk": "tachiyomi-id.mangkomik-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26899,6 +26899,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: InfinyxScan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.infinyxscan",
+    "apk": "tachiyomi-pt.infinyxscan-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "InfinyxScan",
+        "lang": "pt-BR",
+        "id": "4630910107107422596",
+        "baseUrl": "https://infinyxscan.cloud",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Iris Scanlator",
     "pkg": "eu.kanade.tachiyomi.extension.pt.irisscanlator",
     "apk": "tachiyomi-pt.irisscanlator-v1.4.30.apk",
@@ -27881,10 +27901,10 @@
   {
     "name": "Tachiyomi: Lura Toon",
     "pkg": "eu.kanade.tachiyomi.extension.pt.randomscan",
-    "apk": "tachiyomi-pt.randomscan-v1.4.55.apk",
+    "apk": "tachiyomi-pt.randomscan-v1.4.56.apk",
     "lang": "pt-BR",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27893,7 +27913,7 @@
         "name": "Lura Toon",
         "lang": "pt-BR",
         "id": "1108163814448330624",
-        "baseUrl": "https://luratoons.com",
+        "baseUrl": "https://luratoons.net",
         "versionId": 2
       }
     ]
@@ -31854,6 +31874,26 @@
         "lang": "tr",
         "id": "2325858799672782297",
         "baseUrl": "https://webtoontr.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yaoibar",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.yaoibar",
+    "apk": "tachiyomi-tr.yaoibar-v1.4.37.apk",
+    "lang": "tr",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Yaoibar",
+        "lang": "tr",
+        "id": "2734105158623613590",
+        "baseUrl": "https://yaoibar.gay",
         "versionId": 1
       }
     ]

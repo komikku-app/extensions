@@ -32059,6 +32059,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: CoManhua",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.comanhua",
+    "apk": "tachiyomi-vi.comanhua-v1.4.6.apk",
+    "lang": "vi",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CoManhua",
+        "lang": "vi",
+        "id": "6246783930456315948",
+        "baseUrl": "https://comanhuaz.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DocTruyen5s",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
     "apk": "tachiyomi-vi.doctruyen5s-v1.4.6.apk",

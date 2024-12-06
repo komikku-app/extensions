@@ -5856,10 +5856,10 @@
   {
     "name": "Tachiyomi: NHentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.nhentai",
-    "apk": "tachiyomi-all.nhentai-v1.4.49.apk",
+    "apk": "tachiyomi-all.nhentai-v1.4.50.apk",
     "lang": "all",
-    "code": 49,
-    "version": "1.4.49",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7226,10 +7226,10 @@
   {
     "name": "Tachiyomi: Thunder Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.thunderscans",
-    "apk": "tachiyomi-all.thunderscans-v1.4.36.apk",
+    "apk": "tachiyomi-all.thunderscans-v1.4.37.apk",
     "lang": "all",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7238,7 +7238,7 @@
         "name": "Lava Scans",
         "lang": "ar",
         "id": "3209001028102012989",
-        "baseUrl": "https://lavascans.com",
+        "baseUrl": "https://lavatoons.com",
         "versionId": 1
       },
       {
@@ -7890,10 +7890,10 @@
   {
     "name": "Tachiyomi: Area Scans",
     "pkg": "eu.kanade.tachiyomi.extension.ar.areascans",
-    "apk": "tachiyomi-ar.areascans-v1.4.31.apk",
+    "apk": "tachiyomi-ar.areascans-v1.4.32.apk",
     "lang": "ar",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -7902,7 +7902,7 @@
         "name": "Area Scans",
         "lang": "ar",
         "id": "241593018172482505",
-        "baseUrl": "https://ar.kenmanga.com",
+        "baseUrl": "https://ar.areascans.org",
         "versionId": 1
       }
     ]
@@ -14890,6 +14890,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhwalike",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhwalike",
+    "apk": "tachiyomi-en.manhwalike-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhwalike",
+        "lang": "en",
+        "id": "3472935303493224823",
+        "baseUrl": "https://manhwalike.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ManhwaManhua",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwamanhua",
     "apk": "tachiyomi-en.manhwamanhua-v1.4.37.apk",
@@ -16852,10 +16872,10 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.45.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16864,7 +16884,7 @@
         "name": "Reset Scans",
         "lang": "en",
         "id": "8358008083447218926",
-        "baseUrl": "https://rspro.xyz",
+        "baseUrl": "https://reset-scans.co",
         "versionId": 3
       }
     ]
@@ -17232,10 +17252,10 @@
   {
     "name": "Tachiyomi: Snow Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.en.snowmtl",
-    "apk": "tachiyomi-en.snowmtl-v1.4.1.apk",
+    "apk": "tachiyomi-en.snowmtl-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20924,6 +20944,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Tojimangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tojimangas",
+    "apk": "tachiyomi-es.tojimangas-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tojimangas",
+        "lang": "es",
+        "id": "6976108800986842339",
+        "baseUrl": "https://tojimangas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: TopComicPorno",
     "pkg": "eu.kanade.tachiyomi.extension.es.topcomicporno",
     "apk": "tachiyomi-es.topcomicporno-v1.4.37.apk",
@@ -21106,6 +21146,26 @@
         "lang": "es",
         "id": "2478345917991467699",
         "baseUrl": "https://yaoimanga.es",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Zevep",
+    "pkg": "eu.kanade.tachiyomi.extension.es.zevep",
+    "apk": "tachiyomi-es.zevep-v1.4.37.apk",
+    "lang": "es",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Zevep",
+        "lang": "es",
+        "id": "8590845094935985528",
+        "baseUrl": "https://zevep.com",
         "versionId": 1
       }
     ]
@@ -30601,10 +30661,10 @@
   {
     "name": "Tachiyomi: Koreli Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.koreliscans",
-    "apk": "tachiyomi-tr.koreliscans-v1.4.37.apk",
+    "apk": "tachiyomi-tr.koreliscans-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30854,6 +30914,26 @@
         "lang": "tr",
         "id": "6973335901813470266",
         "baseUrl": "https://mangakings.com.tr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Koleji",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangakoleji",
+    "apk": "tachiyomi-tr.mangakoleji-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Koleji",
+        "lang": "tr",
+        "id": "7849775810188829100",
+        "baseUrl": "https://mangakoleji.com",
         "versionId": 1
       }
     ]
@@ -31841,10 +31921,10 @@
   {
     "name": "Tachiyomi: Webtoon Hatti",
     "pkg": "eu.kanade.tachiyomi.extension.tr.webtoonhatti",
-    "apk": "tachiyomi-tr.webtoonhatti-v1.4.40.apk",
+    "apk": "tachiyomi-tr.webtoonhatti-v1.4.41.apk",
     "lang": "tr",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31853,7 +31933,7 @@
         "name": "Webtoon Hatti",
         "lang": "tr",
         "id": "8902732421830627437",
-        "baseUrl": "https://webtoonhatti.net",
+        "baseUrl": "https://webtoonhatti.dev",
         "versionId": 1
       }
     ]
@@ -32079,6 +32159,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: DocTruyen3Q",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.6.apk",
+    "lang": "vi",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DocTruyen3Q",
+        "lang": "vi",
+        "id": "6168143505244976507",
+        "baseUrl": "https://doctruyen3qk.pro",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DocTruyen5s",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
     "apk": "tachiyomi-vi.doctruyen5s-v1.4.6.apk",
@@ -32141,10 +32241,10 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.46.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.47.apk",
     "lang": "vi",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32153,7 +32253,7 @@
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.pro",
+        "baseUrl": "https://hentaicube.xyz",
         "versionId": 1
       }
     ]
@@ -32181,10 +32281,10 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.41.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.42.apk",
     "lang": "vi",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32193,7 +32293,7 @@
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.mom",
+        "baseUrl": "https://hentaivn.now",
         "versionId": 1
       }
     ]
@@ -32281,10 +32381,10 @@
   {
     "name": "Tachiyomi: NhatTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
-    "apk": "tachiyomi-vi.nhattruyen-v1.4.25.apk",
+    "apk": "tachiyomi-vi.nhattruyen-v1.4.26.apk",
     "lang": "vi",
-    "code": 25,
-    "version": "1.4.25",
+    "code": 26,
+    "version": "1.4.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32293,7 +32393,7 @@
         "name": "NhatTruyen",
         "lang": "vi",
         "id": "6861496002170366525",
-        "baseUrl": "https://nhattruyenvn.com",
+        "baseUrl": "https://nhattruyenv.com",
         "versionId": 1
       }
     ]
@@ -32581,10 +32681,10 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.2.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.3.apk",
     "lang": "vi",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32593,7 +32693,7 @@
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen34.com",
+        "baseUrl": "https://vlogtruyen35.com",
         "versionId": 1
       }
     ]
@@ -32621,10 +32721,10 @@
   {
     "name": "Tachiyomi: YuriNeko",
     "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
-    "apk": "tachiyomi-vi.yurineko-v1.4.4.apk",
+    "apk": "tachiyomi-vi.yurineko-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32633,7 +32733,7 @@
         "name": "YuriNeko",
         "lang": "vi",
         "id": "4413681066613655890",
-        "baseUrl": "https://yurineko.moe",
+        "baseUrl": "https://yurineko.my",
         "versionId": 1
       }
     ]

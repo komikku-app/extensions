@@ -22153,10 +22153,10 @@
   {
     "name": "Tachiyomi: BirdToon",
     "pkg": "eu.kanade.tachiyomi.extension.id.birdtoon",
-    "apk": "tachiyomi-id.birdtoon-v1.4.37.apk",
+    "apk": "tachiyomi-id.birdtoon-v1.4.38.apk",
     "lang": "id",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22165,7 +22165,7 @@
         "name": "BirdToon",
         "lang": "id",
         "id": "5159452498073169941",
-        "baseUrl": "https://birdtoon.net",
+        "baseUrl": "https://birdtoon.org",
         "versionId": 1
       }
     ]
@@ -22613,10 +22613,10 @@
   {
     "name": "Tachiyomi: KlikManga",
     "pkg": "eu.kanade.tachiyomi.extension.id.klikmanga",
-    "apk": "tachiyomi-id.klikmanga-v1.4.39.apk",
+    "apk": "tachiyomi-id.klikmanga-v1.4.40.apk",
     "lang": "id",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22625,7 +22625,7 @@
         "name": "KlikManga",
         "lang": "id",
         "id": "5213948951740602020",
-        "baseUrl": "https://klikmanga.id",
+        "baseUrl": "https://klikmanga.com",
         "versionId": 1
       }
     ]
@@ -22853,10 +22853,10 @@
   {
     "name": "Tachiyomi: KomikIndoID",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikindoid",
-    "apk": "tachiyomi-id.komikindoid-v1.4.14.apk",
+    "apk": "tachiyomi-id.komikindoid-v1.4.15.apk",
     "lang": "id",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22865,7 +22865,7 @@
         "name": "KomikIndoID",
         "lang": "id",
         "id": "5384836574731339537",
-        "baseUrl": "https://komikindo.lol",
+        "baseUrl": "https://komikindo.pw",
         "versionId": 1
       }
     ]
@@ -23613,10 +23613,10 @@
   {
     "name": "Tachiyomi: MG Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.mgkomik",
-    "apk": "tachiyomi-id.mgkomik-v1.4.51.apk",
+    "apk": "tachiyomi-id.mgkomik-v1.4.52.apk",
     "lang": "id",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23625,7 +23625,7 @@
         "name": "MG Komik",
         "lang": "id",
         "id": "5845004992097969882",
-        "baseUrl": "https://mgkomik.id",
+        "baseUrl": "https://mgkomik.org",
         "versionId": 1
       }
     ]
@@ -24851,6 +24851,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: KadoComi",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.kadocomi",
+    "apk": "tachiyomi-ja.kadocomi-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "カドコミ",
+        "lang": "ja",
+        "id": "8396089563187142394",
+        "baseUrl": "https://comic-walker.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: KissLove",
     "pkg": "eu.kanade.tachiyomi.extension.ja.kisslove",
     "apk": "tachiyomi-ja.kisslove-v1.4.15.apk",
@@ -25026,6 +25046,26 @@
         "lang": "ja",
         "id": "6373329190273168897",
         "baseUrl": "https://www.mangajikan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Koinu",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.mangakoinu",
+    "apk": "tachiyomi-ja.mangakoinu-v1.4.6.apk",
+    "lang": "ja",
+    "code": 6,
+    "version": "1.4.6",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manga Koinu",
+        "lang": "ja",
+        "id": "6827603989274666988",
+        "baseUrl": "https://www.mangakoinu.com",
         "versionId": 1
       }
     ]
@@ -30899,6 +30939,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: MangaKazani",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangakazani",
+    "apk": "tachiyomi-tr.mangakazani-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "MangaKazani",
+        "lang": "tr",
+        "id": "2707832551900537477",
+        "baseUrl": "https://mangakazani.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Kings",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangakings",
     "apk": "tachiyomi-tr.mangakings-v1.4.30.apk",
@@ -31161,10 +31221,10 @@
   {
     "name": "Tachiyomi: MangaWT",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangawt",
-    "apk": "tachiyomi-tr.mangawt-v1.4.39.apk",
+    "apk": "tachiyomi-tr.mangawt-v1.4.40.apk",
     "lang": "tr",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31173,7 +31233,7 @@
         "name": "MangaWT",
         "lang": "tr",
         "id": "9068262319581900273",
-        "baseUrl": "https://mangawt.net",
+        "baseUrl": "https://mangawt.com",
         "versionId": 1
       }
     ]
@@ -32241,10 +32301,10 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.47.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.48.apk",
     "lang": "vi",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

@@ -15112,10 +15112,10 @@
   {
     "name": "Tachiyomi: ManyComic",
     "pkg": "eu.kanade.tachiyomi.extension.en.manycomic",
-    "apk": "tachiyomi-en.manycomic-v1.4.38.apk",
+    "apk": "tachiyomi-en.manycomic-v1.4.39.apk",
     "lang": "en",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

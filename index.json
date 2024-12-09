@@ -3870,10 +3870,10 @@
   {
     "name": "Tachiyomi: MangaDex",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangadex",
-    "apk": "tachiyomi-all.mangadex-v1.4.195.apk",
+    "apk": "tachiyomi-all.mangadex-v1.4.196.apk",
     "lang": "all",
-    "code": 195,
-    "version": "1.4.195",
+    "code": 196,
+    "version": "1.4.196",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27379,26 +27379,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Livre",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mangalivre",
-    "apk": "tachiyomi-pt.mangalivre-v1.4.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Manga Livre",
-        "lang": "pt-BR",
-        "id": "2834885536325274328",
-        "baseUrl": "https://mangalivre.one",
-        "versionId": 2
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangá Nanquim",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mangananquim",
     "apk": "tachiyomi-pt.mangananquim-v1.4.37.apk",
@@ -28021,10 +28001,10 @@
   {
     "name": "Tachiyomi: Read Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
-    "apk": "tachiyomi-pt.readmangas-v1.4.30.apk",
+    "apk": "tachiyomi-pt.readmangas-v1.4.31.apk",
     "lang": "pt-BR",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28032,9 +28012,9 @@
       {
         "name": "Read Mangas",
         "lang": "pt-BR",
-        "id": "7156283065607892957",
+        "id": "2138644644629173754",
         "baseUrl": "https://readmangas.org",
-        "versionId": 1
+        "versionId": 2
       }
     ]
   },

@@ -6388,10 +6388,10 @@
   {
     "name": "Tachiyomi: Otaku Sanctuary",
     "pkg": "eu.kanade.tachiyomi.extension.all.otakusanctuary",
-    "apk": "tachiyomi-all.otakusanctuary-v1.4.5.apk",
+    "apk": "tachiyomi-all.otakusanctuary-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -6400,42 +6400,42 @@
         "name": "Otaku Sanctuary",
         "lang": "all",
         "id": "6202136521654555507",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       },
       {
         "name": "Otaku Sanctuary",
         "lang": "vi",
         "id": "535683348681357931",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       },
       {
         "name": "Otaku Sanctuary",
         "lang": "en",
         "id": "5984016495600750670",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       },
       {
         "name": "Otaku Sanctuary",
         "lang": "it",
         "id": "2831689775722886708",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       },
       {
         "name": "Otaku Sanctuary",
         "lang": "fr",
         "id": "8524319665390149182",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       },
       {
         "name": "Otaku Sanctuary",
         "lang": "es",
         "id": "6403460862880262722",
-        "baseUrl": "https://otakusan1.net",
+        "baseUrl": "https://otakusan.me",
         "versionId": 1
       }
     ]
@@ -12245,10 +12245,10 @@
   {
     "name": "Tachiyomi: Lua Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.luascans",
-    "apk": "tachiyomi-en.luascans-v1.4.39.apk",
+    "apk": "tachiyomi-en.luascans-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12257,7 +12257,7 @@
         "name": "Lua Scans",
         "lang": "en",
         "id": "7356620174947907068",
-        "baseUrl": "https://luacomic.net",
+        "baseUrl": "https://luacomic.org",
         "versionId": 2
       }
     ]
@@ -25273,10 +25273,10 @@
   {
     "name": "Tachiyomi: Pixiv Comic",
     "pkg": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
-    "apk": "tachiyomi-ja.pixivcomic-v1.4.2.apk",
+    "apk": "tachiyomi-ja.pixivcomic-v1.4.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

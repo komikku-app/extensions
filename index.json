@@ -32781,10 +32781,10 @@
   {
     "name": "Tachiyomi: Baimangu (Darpou)",
     "pkg": "eu.kanade.tachiyomi.extension.zh.baimangu",
-    "apk": "tachiyomi-zh.baimangu-v1.4.3.apk",
+    "apk": "tachiyomi-zh.baimangu-v1.4.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

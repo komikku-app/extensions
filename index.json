@@ -265,10 +265,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.42.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.43.apk",
     "lang": "all",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

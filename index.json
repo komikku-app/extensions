@@ -16880,10 +16880,10 @@
   {
     "name": "Tachiyomi: Reaper Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.56.apk",
+    "apk": "tachiyomi-en.reaperscans-v1.4.55.apk",
     "lang": "en",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29162,26 +29162,6 @@
         "lang": "ru",
         "id": "5",
         "baseUrl": "https://1.readmanga.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Remanga",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.remanga",
-    "apk": "tachiyomi-ru.remanga-v1.4.86.apk",
-    "lang": "ru",
-    "code": 86,
-    "version": "1.4.86",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Remanga",
-        "lang": "ru",
-        "id": "8983242087533137528",
-        "baseUrl": "https://api.remanga.org",
         "versionId": 1
       }
     ]

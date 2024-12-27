@@ -2453,10 +2453,10 @@
   {
     "name": "Tachiyomi: 3Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.all.hentai3",
-    "apk": "tachiyomi-all.hentai3-v1.4.1.apk",
+    "apk": "tachiyomi-all.hentai3-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2498,13 +2498,6 @@
       },
       {
         "name": "3Hentai",
-        "lang": "mo",
-        "id": "8615096170305162493",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
         "lang": "es",
         "id": "373755159908438683",
         "baseUrl": "https://3hentai.net",
@@ -2512,8 +2505,57 @@
       },
       {
         "name": "3Hentai",
+        "lang": "ru",
+        "id": "4917651850397277037",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
         "lang": "pt",
         "id": "1132983959765816866",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "fr",
+        "id": "4290439286788644779",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "th",
+        "id": "3039466073711396152",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "it",
+        "id": "419728421305339582",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "vi",
+        "id": "6096870058125388335",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "ar",
+        "id": "1533969146563051444",
+        "baseUrl": "https://3hentai.net",
+        "versionId": 1
+      },
+      {
+        "name": "3Hentai",
+        "lang": "mo",
+        "id": "8615096170305162493",
         "baseUrl": "https://3hentai.net",
         "versionId": 1
       },
@@ -2540,20 +2582,6 @@
       },
       {
         "name": "3Hentai",
-        "lang": "vi",
-        "id": "6096870058125388335",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
-        "lang": "th",
-        "id": "3039466073711396152",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
         "lang": "my",
         "id": "3523364768003208635",
         "baseUrl": "https://3hentai.net",
@@ -2563,13 +2591,6 @@
         "name": "3Hentai",
         "lang": "tr",
         "id": "359674482170560410",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
-        "lang": "ru",
-        "id": "4917651850397277037",
         "baseUrl": "https://3hentai.net",
         "versionId": 1
       },
@@ -2598,20 +2619,6 @@
         "name": "3Hentai",
         "lang": "de",
         "id": "7057309244033446342",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
-        "lang": "it",
-        "id": "419728421305339582",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
-        "lang": "fr",
-        "id": "4290439286788644779",
         "baseUrl": "https://3hentai.net",
         "versionId": 1
       },
@@ -2654,13 +2661,6 @@
         "name": "3Hentai",
         "lang": "la",
         "id": "5003216810967182175",
-        "baseUrl": "https://3hentai.net",
-        "versionId": 1
-      },
-      {
-        "name": "3Hentai",
-        "lang": "ar",
-        "id": "1533969146563051444",
         "baseUrl": "https://3hentai.net",
         "versionId": 1
       },

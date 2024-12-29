@@ -10560,10 +10560,10 @@
   {
     "name": "Tachiyomi: Eros Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.erosscans",
-    "apk": "tachiyomi-en.erosscans-v1.4.31.apk",
+    "apk": "tachiyomi-en.erosscans-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -10572,7 +10572,7 @@
         "name": "Eros Scans",
         "lang": "en",
         "id": "1124131000360667434",
-        "baseUrl": "https://tercoscans.xyz",
+        "baseUrl": "https://eros-toons.xyz",
         "versionId": 1
       }
     ]
@@ -11600,10 +11600,10 @@
   {
     "name": "Tachiyomi: InfinityScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infinityscans",
-    "apk": "tachiyomi-en.infinityscans-v1.4.6.apk",
+    "apk": "tachiyomi-en.infinityscans-v1.4.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -15445,6 +15445,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: NineHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.en.ninehentai",
+    "apk": "tachiyomi-en.ninehentai-v1.4.4.apk",
+    "lang": "en",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "NineHentai",
+        "lang": "en",
+        "id": "7689490563697355048",
+        "baseUrl": "https://9hentai.so",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nitro Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.nitroscans",
     "apk": "tachiyomi-en.nitroscans-v1.4.39.apk",
@@ -18274,10 +18294,10 @@
   {
     "name": "Tachiyomi: YakshaScans",
     "pkg": "eu.kanade.tachiyomi.extension.en.yakshascans",
-    "apk": "tachiyomi-en.yakshascans-v1.4.37.apk",
+    "apk": "tachiyomi-en.yakshascans-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20021,10 +20041,10 @@
   {
     "name": "Tachiyomi: SamuraiScan",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhuaonline",
-    "apk": "tachiyomi-es.manhuaonline-v1.4.47.apk",
+    "apk": "tachiyomi-es.manhuaonline-v1.4.48.apk",
     "lang": "es",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27314,6 +27334,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Monte Tai",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.montetai",
+    "apk": "tachiyomi-pt.montetai-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Monte Tai",
+        "lang": "pt-BR",
+        "id": "7427054289018024291",
+        "baseUrl": "https://montetaiscanlator.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MoonLovers Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.moonloversscan",
     "apk": "tachiyomi-pt.moonloversscan-v1.4.37.apk",
@@ -31676,10 +31716,10 @@
   {
     "name": "Tachiyomi: Webtoon Hatti",
     "pkg": "eu.kanade.tachiyomi.extension.tr.webtoonhatti",
-    "apk": "tachiyomi-tr.webtoonhatti-v1.4.41.apk",
+    "apk": "tachiyomi-tr.webtoonhatti-v1.4.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31688,7 +31728,7 @@
         "name": "Webtoon Hatti",
         "lang": "tr",
         "id": "8902732421830627437",
-        "baseUrl": "https://webtoonhatti.dev",
+        "baseUrl": "https://webtoonhatti.me",
         "versionId": 1
       }
     ]
@@ -31896,10 +31936,10 @@
   {
     "name": "Tachiyomi: CoManhua",
     "pkg": "eu.kanade.tachiyomi.extension.vi.comanhua",
-    "apk": "tachiyomi-vi.comanhua-v1.4.6.apk",
+    "apk": "tachiyomi-vi.comanhua-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -31908,7 +31948,7 @@
         "name": "CoManhua",
         "lang": "vi",
         "id": "6246783930456315948",
-        "baseUrl": "https://comanhuaz.com",
+        "baseUrl": "https://comanhuaw.com",
         "versionId": 1
       }
     ]
@@ -33316,10 +33356,10 @@
   {
     "name": "Tachiyomi: Zaimanhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
-    "apk": "tachiyomi-zh.zaimanhua-v1.4.4.apk",
+    "apk": "tachiyomi-zh.zaimanhua-v1.4.5.apk",
     "lang": "zh",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

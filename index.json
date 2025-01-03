@@ -28049,10 +28049,10 @@
   {
     "name": "Tachiyomi: Sussy Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.42.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

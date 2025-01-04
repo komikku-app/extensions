@@ -3729,10 +3729,10 @@
   {
     "name": "Tachiyomi: Komga",
     "pkg": "eu.kanade.tachiyomi.extension.all.komga",
-    "apk": "tachiyomi-all.komga-v1.4.58.apk",
+    "apk": "tachiyomi-all.komga-v1.4.59.apk",
     "lang": "all",
-    "code": 58,
-    "version": "1.4.58",
+    "code": 59,
+    "version": "1.4.59",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9405,10 +9405,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.41.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9905,10 +9905,10 @@
   {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
-    "apk": "tachiyomi-en.comicextra-v1.4.16.apk",
+    "apk": "tachiyomi-en.comicextra-v1.4.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9917,7 +9917,7 @@
         "name": "ComicExtra",
         "lang": "en",
         "id": "4316139130808778432",
-        "baseUrl": "https://comixextra.com",
+        "baseUrl": "https://azcomix.me",
         "versionId": 1
       }
     ]
@@ -25627,6 +25627,40 @@
     ]
   },
   {
+    "name": "Tachiyomi: Wolf.com",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.wolfdotcom",
+    "apk": "tachiyomi-ko.wolfdotcom-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "늑대닷컴 - 웹툰",
+        "lang": "ko",
+        "id": "5583626852311652499",
+        "baseUrl": "https://wfwf365.com",
+        "versionId": 1
+      },
+      {
+        "name": "늑대닷컴 - 만화책",
+        "lang": "ko",
+        "id": "7074060458114951398",
+        "baseUrl": "https://wfwf365.com",
+        "versionId": 1
+      },
+      {
+        "name": "늑대닷컴 - 포토툰",
+        "lang": "ko",
+        "id": "4225505094399546613",
+        "baseUrl": "https://wfwf365.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MangaHoNa",
     "pkg": "eu.kanade.tachiyomi.extension.pl.mangahona",
     "apk": "tachiyomi-pl.mangahona-v1.4.37.apk",
@@ -25829,10 +25863,10 @@
   {
     "name": "Tachiyomi: Argos Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.argosscan",
-    "apk": "tachiyomi-pt.argosscan-v1.4.23.apk",
+    "apk": "tachiyomi-pt.argosscan-v1.4.24.apk",
     "lang": "pt-BR",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -25840,9 +25874,9 @@
       {
         "name": "Argos Scan",
         "lang": "pt-BR",
-        "id": "5598179354662635129",
-        "baseUrl": "http://argosscan.com",
-        "versionId": 2
+        "id": "8713848303046960987",
+        "baseUrl": "https://argoscomics.online",
+        "versionId": 3
       }
     ]
   },
@@ -27749,10 +27783,10 @@
   {
     "name": "Tachiyomi: Seita Celestial",
     "pkg": "eu.kanade.tachiyomi.extension.pt.prismascans",
-    "apk": "tachiyomi-pt.prismascans-v1.4.47.apk",
+    "apk": "tachiyomi-pt.prismascans-v1.4.48.apk",
     "lang": "pt-BR",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32669,10 +32703,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.4.11.apk",
+    "apk": "tachiyomi-zh.boylove-v1.4.12.apk",
     "lang": "zh",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

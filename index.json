@@ -14980,10 +14980,10 @@
   {
     "name": "Tachiyomi: ManyToon",
     "pkg": "eu.kanade.tachiyomi.extension.en.manytoon",
-    "apk": "tachiyomi-en.manytoon-v1.4.46.apk",
+    "apk": "tachiyomi-en.manytoon-v1.4.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14992,7 +14992,7 @@
         "name": "ManyToon",
         "lang": "en",
         "id": "8506087325905168576",
-        "baseUrl": "https://manytoon.org",
+        "baseUrl": "https://manytoon.com",
         "versionId": 1
       }
     ]

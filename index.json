@@ -8823,6 +8823,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Paradise BL",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.paradisebl",
+    "apk": "tachiyomi-ar.paradisebl-v1.4.37.apk",
+    "lang": "ar",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Paradise BL",
+        "lang": "ar",
+        "id": "4957859168133378262",
+        "baseUrl": "https://paradise-bl.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RE Manga (Arabic)",
     "pkg": "eu.kanade.tachiyomi.extension.ar.remangaarabic",
     "apk": "tachiyomi-ar.remangaarabic-v1.4.2.apk",
@@ -33435,7 +33455,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywmy.com",
+        "baseUrl": "http://www.zerobywzip.com",
         "versionId": 1
       }
     ]

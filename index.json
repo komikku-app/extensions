@@ -11598,6 +11598,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Ignis Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.igniscomic",
+    "apk": "tachiyomi-en.igniscomic-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Ignis Comic",
+        "lang": "en",
+        "id": "6513093693586274324",
+        "baseUrl": "https://igniscomic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: I Love Manhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.ilovemanhwa",
     "apk": "tachiyomi-en.ilovemanhwa-v1.4.37.apk",
@@ -16720,10 +16740,10 @@
   {
     "name": "Tachiyomi: Reaper Scans (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscansunoriginal",
-    "apk": "tachiyomi-en.reaperscansunoriginal-v1.4.30.apk",
+    "apk": "tachiyomi-en.reaperscansunoriginal-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -17018,21 +17038,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: Shojo Scans",
+    "name": "Tachiyomi: Violet Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.shojoscans",
-    "apk": "tachiyomi-en.shojoscans-v1.4.30.apk",
+    "apk": "tachiyomi-en.shojoscans-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Shojo Scans",
+        "name": "Violet Scans",
         "lang": "en",
         "id": "9079184529211162476",
-        "baseUrl": "https://shojoscans.com",
+        "baseUrl": "https://violetscans.com",
         "versionId": 1
       }
     ]
@@ -21674,6 +21694,26 @@
         "lang": "fr",
         "id": "8836907831105211231",
         "baseUrl": "https://phenixscans.fr",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Poseidon Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
+    "apk": "tachiyomi-fr.poseidonscans-v1.4.37.apk",
+    "lang": "fr",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "PoseidonScans",
+        "lang": "fr",
+        "id": "636748432961596353",
+        "baseUrl": "https://poseidonscans.fr",
         "versionId": 1
       }
     ]
@@ -29743,10 +29783,10 @@
   {
     "name": "Tachiyomi: PopsManga",
     "pkg": "eu.kanade.tachiyomi.extension.th.popsmanga",
-    "apk": "tachiyomi-th.popsmanga-v1.4.30.apk",
+    "apk": "tachiyomi-th.popsmanga-v1.4.31.apk",
     "lang": "th",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -29755,7 +29795,7 @@
         "name": "PopsManga",
         "lang": "th",
         "id": "5134611019768985781",
-        "baseUrl": "https://www.popsmanga.com",
+        "baseUrl": "https://popsmanga.com",
         "versionId": 1
       }
     ]
@@ -31723,10 +31763,10 @@
   {
     "name": "Tachiyomi: Tortuga Ceviri",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tortugaceviri",
-    "apk": "tachiyomi-tr.tortugaceviri-v1.4.37.apk",
+    "apk": "tachiyomi-tr.tortugaceviri-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,

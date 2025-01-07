@@ -28143,10 +28143,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.44.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.45.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28623,20 +28623,20 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.1.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 1,
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
         "name": "Yushuke Mangas",
         "lang": "pt-BR",
-        "id": "3777731363072900649",
-        "baseUrl": "https://yushukemangas.com",
-        "versionId": 1
+        "id": "3889538084186541011",
+        "baseUrl": "https://new.yushukemangas.com",
+        "versionId": 2
       }
     ]
   },

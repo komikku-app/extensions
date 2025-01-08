@@ -5737,10 +5737,10 @@
   {
     "name": "Tachiyomi: Meitua.top",
     "pkg": "eu.kanade.tachiyomi.extension.all.meituatop",
-    "apk": "tachiyomi-all.meituatop-v1.4.9.apk",
+    "apk": "tachiyomi-all.meituatop-v1.4.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -5749,7 +5749,7 @@
         "name": "Meitua.top",
         "lang": "all",
         "id": "2066652761751053456",
-        "baseUrl": "https://88188.meitu.lol",
+        "baseUrl": "https://7a.meitu1.mom",
         "versionId": 1
       }
     ]
@@ -25667,6 +25667,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: 11toon",
+    "pkg": "eu.kanade.tachiyomi.extension.ko.toon11",
+    "apk": "tachiyomi-ko.toon11-v1.4.1.apk",
+    "lang": "ko",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "11toon",
+        "lang": "ko",
+        "id": "8796296375202334266",
+        "baseUrl": "https://www.11toon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Toonkor",
     "pkg": "eu.kanade.tachiyomi.extension.ko.toonkor",
     "apk": "tachiyomi-ko.toonkor-v1.4.4.apk",
@@ -30763,10 +30783,10 @@
   {
     "name": "Tachiyomi: MangaGezgini",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
-    "apk": "tachiyomi-tr.mangagezgini-v1.4.41.apk",
+    "apk": "tachiyomi-tr.mangagezgini-v1.4.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -30775,7 +30795,7 @@
         "name": "MangaGezgini",
         "lang": "tr",
         "id": "6502558540101660304",
-        "baseUrl": "https://mangagezgini.me",
+        "baseUrl": "https://mangagezgini.vip",
         "versionId": 1
       }
     ]
@@ -33043,10 +33063,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.43.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.44.apk",
     "lang": "zh",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

@@ -9857,6 +9857,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Casa Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.en.casacomic",
+    "apk": "tachiyomi-en.casacomic-v1.4.11.apk",
+    "lang": "en",
+    "code": 11,
+    "version": "1.4.11",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Casa Comic",
+        "lang": "en",
+        "id": "5708794039592087801",
+        "baseUrl": "https://casacomic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Clone Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.clonemanga",
     "apk": "tachiyomi-en.clonemanga-v1.4.2.apk",

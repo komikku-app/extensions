@@ -7369,11 +7369,11 @@
   {
     "name": "Tachiyomi: Toomics",
     "pkg": "eu.kanade.tachiyomi.extension.all.toomics",
-    "apk": "tachiyomi-all.toomics-v1.4.7.apk",
+    "apk": "tachiyomi-all.toomics-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
@@ -14412,6 +14412,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manhuanext",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manhuanext",
+    "apk": "tachiyomi-en.manhuanext-v1.4.37.apk",
+    "lang": "en",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Manhuanext",
+        "lang": "en",
+        "id": "3544957587727489204",
+        "baseUrl": "https://manhuanext.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhua Plus",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaplus",
     "apk": "tachiyomi-en.manhuaplus-v1.4.43.apk",
@@ -16674,10 +16694,10 @@
   {
     "name": "Tachiyomi: Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
     "pkg": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
-    "apk": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.5.apk",
+    "apk": "tachiyomi-en.readtokyoghoulretokyoghoulmangaonline-v1.4.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -16686,7 +16706,7 @@
         "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
         "lang": "en",
         "id": "6468833665354206027",
-        "baseUrl": "https://ww8.tokyoghoulre.com",
+        "baseUrl": "https://ww10.tokyoghoulre.com",
         "versionId": 1
       }
     ]
@@ -16834,10 +16854,10 @@
   {
     "name": "Tachiyomi: Rezo Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.rezoscans",
-    "apk": "tachiyomi-en.rezoscans-v1.4.12.apk",
+    "apk": "tachiyomi-en.rezoscans-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19441,10 +19461,10 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.21.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.22.apk",
     "lang": "es",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20281,26 +20301,6 @@
         "lang": "es",
         "id": "3253304651550496369",
         "baseUrl": "https://twobluescans.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Visormonarca",
-    "pkg": "eu.kanade.tachiyomi.extension.es.monarcamanga",
-    "apk": "tachiyomi-es.monarcamanga-v1.4.38.apk",
-    "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Visormonarca",
-        "lang": "es",
-        "id": "7343561451743119799",
-        "baseUrl": "https://visormonarca.com",
         "versionId": 1
       }
     ]
@@ -27997,10 +27997,10 @@
   {
     "name": "Tachiyomi: Read Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
-    "apk": "tachiyomi-pt.readmangas-v1.4.33.apk",
+    "apk": "tachiyomi-pt.readmangas-v1.4.34.apk",
     "lang": "pt-BR",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28237,10 +28237,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.45.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28249,7 +28249,7 @@
         "name": "Sussy Toons",
         "lang": "pt-BR",
         "id": "6963507464339951166",
-        "baseUrl": "https://new.sussytoons.site",
+        "baseUrl": "https://www.sussytoons.site",
         "versionId": 2
       }
     ]
@@ -28350,6 +28350,26 @@
         "lang": "pt-BR",
         "id": "7640190247679480703",
         "baseUrl": "https://tatakaescan.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Temaki mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.temakimangas",
+    "apk": "tachiyomi-pt.temakimangas-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Temaki mangás",
+        "lang": "pt-BR",
+        "id": "677370205708439700",
+        "baseUrl": "https://temakimangas.blogspot.com",
         "versionId": 1
       }
     ]

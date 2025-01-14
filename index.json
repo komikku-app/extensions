@@ -5145,10 +5145,10 @@
   {
     "name": "Tachiyomi: NamiComi",
     "pkg": "eu.kanade.tachiyomi.extension.all.namicomi",
-    "apk": "tachiyomi-all.namicomi-v1.4.1.apk",
+    "apk": "tachiyomi-all.namicomi-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -10147,10 +10147,10 @@
   {
     "name": "Tachiyomi: HolyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.holymanga",
-    "apk": "tachiyomi-en.holymanga-v1.4.11.apk",
+    "apk": "tachiyomi-en.holymanga-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -22405,6 +22405,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Apenas Uma Fã",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.apenasumafa",
+    "apk": "tachiyomi-pt.apenasumafa-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Apenas Uma Fã",
+        "lang": "pt-BR",
+        "id": "6897166867127039489",
+        "baseUrl": "https://apenasuma-fa.blogspot.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arctic Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.arcticscan",
     "apk": "tachiyomi-pt.arcticscan-v1.4.37.apk",
@@ -26453,10 +26470,10 @@
   {
     "name": "Tachiyomi: Kuroi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.kuroimanga",
-    "apk": "tachiyomi-tr.kuroimanga-v1.4.37.apk",
+    "apk": "tachiyomi-tr.kuroimanga-v1.4.38.apk",
     "lang": "tr",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "sources": [
       {

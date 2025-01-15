@@ -6384,10 +6384,10 @@
   {
     "name": "Tachiyomi: Snow Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.snowmtl",
-    "apk": "tachiyomi-all.snowmtl-v1.4.7.apk",
+    "apk": "tachiyomi-all.snowmtl-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -6425,10 +6425,10 @@
   {
     "name": "Tachiyomi: Solar Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.solarmtl",
-    "apk": "tachiyomi-all.solarmtl-v1.4.1.apk",
+    "apk": "tachiyomi-all.solarmtl-v1.4.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -9348,17 +9348,17 @@
   {
     "name": "Tachiyomi: EnryuManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.enryumanga",
-    "apk": "tachiyomi-en.enryumanga-v1.4.31.apk",
+    "apk": "tachiyomi-en.enryumanga-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
         "name": "EnryuManga",
         "lang": "en",
         "id": "1541707858895373368",
-        "baseUrl": "https://enryumanga.net"
+        "baseUrl": "https://enryucomics.com"
       }
     ]
   },
@@ -15831,10 +15831,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.7.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -16919,17 +16919,17 @@
   {
     "name": "Tachiyomi: Visor Inari",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.45.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "Visor Inari",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://clubinari.org"
+        "baseUrl": "https://inarimanga.visahelper.online"
       }
     ]
   },
@@ -19600,17 +19600,17 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.62.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.63.apk",
     "lang": "id",
-    "code": 62,
-    "version": "1.4.62",
+    "code": 63,
+    "version": "1.4.63",
     "nsfw": 0,
     "sources": [
       {
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.fun"
+        "baseUrl": "https://komikcast.la"
       }
     ]
   },
@@ -20671,17 +20671,17 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.66.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.67.apk",
     "lang": "id",
-    "code": 66,
-    "version": "1.4.66",
+    "code": 67,
+    "version": "1.4.67",
     "nsfw": 0,
     "sources": [
       {
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami08.com"
+        "baseUrl": "https://shinigami09.com"
       }
     ]
   },
@@ -20739,17 +20739,17 @@
   {
     "name": "Tachiyomi: Siikomik",
     "pkg": "eu.kanade.tachiyomi.extension.id.siimanga",
-    "apk": "tachiyomi-id.siimanga-v1.4.40.apk",
+    "apk": "tachiyomi-id.siimanga-v1.4.41.apk",
     "lang": "id",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "Siikomik",
         "lang": "id",
         "id": "877264191661067329",
-        "baseUrl": "https://siikomik.lat"
+        "baseUrl": "https://siikomik.cc"
       }
     ]
   },
@@ -23897,6 +23897,23 @@
         "lang": "pt-BR",
         "id": "141171756957474060",
         "baseUrl": "https://mundohentaioficial.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mystic Moon",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mysticmoon",
+    "apk": "tachiyomi-pt.mysticmoon-v1.4.37.apk",
+    "lang": "pt-BR",
+    "code": 37,
+    "version": "1.4.37",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mystic Moon",
+        "lang": "pt-BR",
+        "id": "6885136572398587060",
+        "baseUrl": "https://mysticmoon.lat"
       }
     ]
   },
@@ -27660,10 +27677,10 @@
   {
     "name": "Tachiyomi: HoneyManga",
     "pkg": "eu.kanade.tachiyomi.extension.uk.honeymanga",
-    "apk": "tachiyomi-uk.honeymanga-v1.4.2.apk",
+    "apk": "tachiyomi-uk.honeymanga-v1.4.3.apk",
     "lang": "uk",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -27728,17 +27745,17 @@
   {
     "name": "Tachiyomi: CoManhua",
     "pkg": "eu.kanade.tachiyomi.extension.vi.comanhua",
-    "apk": "tachiyomi-vi.comanhua-v1.4.7.apk",
+    "apk": "tachiyomi-vi.comanhua-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "sources": [
       {
         "name": "CoManhua",
         "lang": "vi",
         "id": "6246783930456315948",
-        "baseUrl": "https://comanhuaw.com"
+        "baseUrl": "https://comanhuaa.com"
       }
     ]
   },
@@ -27779,34 +27796,34 @@
   {
     "name": "Tachiyomi: Dua Leo Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
-    "apk": "tachiyomi-vi.dualeotruyen-v1.4.6.apk",
+    "apk": "tachiyomi-vi.dualeotruyen-v1.4.7.apk",
     "lang": "vi",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
         "name": "Dưa Leo Truyện",
         "lang": "vi",
         "id": "1039830224122325226",
-        "baseUrl": "https://dualeotruyenman.com"
+        "baseUrl": "https://dualeotruyenbeta.com"
       }
     ]
   },
   {
     "name": "Tachiyomi: Fecomic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.fecomic",
-    "apk": "tachiyomi-vi.fecomic-v1.4.37.apk",
+    "apk": "tachiyomi-vi.fecomic-v1.4.38.apk",
     "lang": "vi",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "sources": [
       {
         "name": "Fecomic",
         "lang": "vi",
         "id": "5167500504203693125",
-        "baseUrl": "https://fecomicc.xyz"
+        "baseUrl": "https://mangasup.net"
       }
     ]
   },
@@ -27847,17 +27864,17 @@
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.42.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.43.apk",
     "lang": "vi",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.now"
+        "baseUrl": "https://hentaivn.li"
       }
     ]
   },
@@ -27898,17 +27915,17 @@
   {
     "name": "Tachiyomi: NetTruyenCO (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
-    "apk": "tachiyomi-vi.nettruyenco-v1.4.9.apk",
+    "apk": "tachiyomi-vi.nettruyenco-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 0,
     "sources": [
       {
         "name": "NetTruyenCO (unoriginal)",
         "lang": "vi",
         "id": "3563992092786616290",
-        "baseUrl": "https://nettruyenww.com"
+        "baseUrl": "https://nettruyenrr.com"
       }
     ]
   },
@@ -28136,17 +28153,17 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.46.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.47.apk",
     "lang": "vi",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.live"
+        "baseUrl": "https://truyenvn.la"
       }
     ]
   },
@@ -28187,17 +28204,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.3.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.4.apk",
     "lang": "vi",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen35.com"
+        "baseUrl": "https://vlogtruyen36.com"
       }
     ]
   },
@@ -28221,17 +28238,17 @@
   {
     "name": "Tachiyomi: YuriNeko",
     "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
-    "apk": "tachiyomi-vi.yurineko-v1.4.5.apk",
+    "apk": "tachiyomi-vi.yurineko-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
         "name": "YuriNeko",
         "lang": "vi",
         "id": "4413681066613655890",
-        "baseUrl": "https://yurineko.my"
+        "baseUrl": "https://yurineko.click"
       }
     ]
   },

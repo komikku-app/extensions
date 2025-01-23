@@ -9560,10 +9560,10 @@
   {
     "name": "Tachiyomi: AllManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.allanime",
-    "apk": "tachiyomi-en.allanime-v1.4.7.apk",
+    "apk": "tachiyomi-en.allanime-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12593,26 +12593,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Leviatan Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.leviatanscans",
-    "apk": "tachiyomi-en.leviatanscans-v1.4.53.apk",
-    "lang": "en",
-    "code": 53,
-    "version": "1.4.53",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Leviatan Scans",
-        "lang": "en",
-        "id": "4055499394183150749",
-        "baseUrl": "https://lscomic.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LHTranslation",
     "pkg": "eu.kanade.tachiyomi.extension.en.lhtranslation",
     "apk": "tachiyomi-en.lhtranslation-v1.4.39.apk",
@@ -13535,10 +13515,10 @@
   {
     "name": "Tachiyomi: Manga Hentai",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahentai",
-    "apk": "tachiyomi-en.mangahentai-v1.4.41.apk",
+    "apk": "tachiyomi-en.mangahentai-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19562,10 +19542,10 @@
   {
     "name": "Tachiyomi: Emperor Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.emperorscan",
-    "apk": "tachiyomi-es.emperorscan-v1.4.43.apk",
+    "apk": "tachiyomi-es.emperorscan-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19574,7 +19554,7 @@
         "name": "Emperor Scan",
         "lang": "es",
         "id": "4562754350961964148",
-        "baseUrl": "https://seriesemperor.com",
+        "baseUrl": "https://zonaemperor.com",
         "versionId": 1
       }
     ]
@@ -26478,10 +26458,10 @@
   {
     "name": "Tachiyomi: Bakai",
     "pkg": "eu.kanade.tachiyomi.extension.pt.bakai",
-    "apk": "tachiyomi-pt.bakai-v1.4.5.apk",
+    "apk": "tachiyomi-pt.bakai-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -27371,26 +27351,6 @@
         "lang": "pt-BR",
         "id": "4630910107107422596",
         "baseUrl": "https://infinyxscan.cloud",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Iris Scanlator",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.irisscanlator",
-    "apk": "tachiyomi-pt.irisscanlator-v1.4.30.apk",
-    "lang": "pt-BR",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Iris Scanlator",
-        "lang": "pt-BR",
-        "id": "4620717489663911014",
-        "baseUrl": "https://irisscanlator.com.br",
         "versionId": 1
       }
     ]
@@ -28418,10 +28378,10 @@
   {
     "name": "Tachiyomi: Read Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.readmangas",
-    "apk": "tachiyomi-pt.readmangas-v1.4.35.apk",
+    "apk": "tachiyomi-pt.readmangas-v1.4.36.apk",
     "lang": "pt-BR",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -28658,10 +28618,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.48.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.49.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32516,6 +32476,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: Zenko",
+    "pkg": "eu.kanade.tachiyomi.extension.uk.zenko",
+    "apk": "tachiyomi-uk.zenko-v1.4.1.apk",
+    "lang": "uk",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Zenko",
+        "lang": "uk",
+        "id": "8431849810637608898",
+        "baseUrl": "https://zenko.online",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: BlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
     "apk": "tachiyomi-vi.blogtruyen-v1.4.21.apk",
@@ -33116,21 +33096,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: VlogTruyen",
+    "name": "Tachiyomi: ThichDoc",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.4.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.5.apk",
     "lang": "vi",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "VlogTruyen",
+        "name": "ThichDoc",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen36.com",
+        "baseUrl": "https://thichdoc.net",
         "versionId": 1
       }
     ]

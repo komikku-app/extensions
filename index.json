@@ -5914,10 +5914,10 @@
   {
     "name": "Tachiyomi: MissKon (MrCong)",
     "pkg": "eu.kanade.tachiyomi.extension.all.misskon",
-    "apk": "tachiyomi-all.misskon-v1.4.7.apk",
+    "apk": "tachiyomi-all.misskon-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20989,10 +20989,10 @@
   {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
-    "apk": "tachiyomi-es.senshimanga-v1.4.6.apk",
+    "apk": "tachiyomi-es.senshimanga-v1.4.7.apk",
     "lang": "es",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21001,7 +21001,7 @@
         "name": "Senshi Manga",
         "lang": "es",
         "id": "5781693635940874072",
-        "baseUrl": "https://visorsenshi.com",
+        "baseUrl": "https://senshimanga.capibaratraductor.com",
         "versionId": 1
       }
     ]
@@ -26029,14 +26029,14 @@
         "name": "ManaToki",
         "lang": "ko",
         "id": "2526381983439079467",
-        "baseUrl": "https://manatoki467.net",
+        "baseUrl": "https://manatoki468.net",
         "versionId": 1
       },
       {
         "name": "NewToki",
         "lang": "ko",
         "id": "1977818283770282459",
-        "baseUrl": "https://newtoki467.com",
+        "baseUrl": "https://newtoki468.com",
         "versionId": 1
       }
     ]
@@ -29171,26 +29171,6 @@
         "lang": "ru",
         "id": "1809051393403180443",
         "baseUrl": "https://20.allhen.online",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: BestManga",
-    "pkg": "eu.kanade.tachiyomi.extension.ru.bestmanga",
-    "apk": "tachiyomi-ru.bestmanga-v1.4.39.apk",
-    "lang": "ru",
-    "code": 39,
-    "version": "1.4.39",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "BestManga",
-        "lang": "ru",
-        "id": "6233473423796565229",
-        "baseUrl": "https://bestmanga.club",
         "versionId": 1
       }
     ]

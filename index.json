@@ -265,10 +265,10 @@
   {
     "name": "Tachiyomi: Bato.to",
     "pkg": "eu.kanade.tachiyomi.extension.all.batoto",
-    "apk": "tachiyomi-all.batoto-v1.4.48.apk",
+    "apk": "tachiyomi-all.batoto-v1.4.49.apk",
     "lang": "all",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -277,735 +277,735 @@
         "name": "Bato.to",
         "lang": "all",
         "id": "4531444389842992129",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "en",
         "id": "7890050626002177109",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ar",
         "id": "5096384382752696500",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bg",
         "id": "6495955027968241042",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh",
         "id": "3158884414181268012",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "cs",
         "id": "7576440018916883094",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "da",
         "id": "5316229865560945519",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "nl",
         "id": "2451829407813501910",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fil",
         "id": "313424729392609270",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fi",
         "id": "1251974539278082369",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fr",
         "id": "5836611700806032846",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "de",
         "id": "139923318887989403",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "el",
         "id": "8473797648002215114",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "he",
         "id": "2408078218204857839",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hi",
         "id": "7084618587403216116",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hu",
         "id": "4530528320166985351",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "id",
         "id": "1720762928205210073",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "it",
         "id": "2160637426591463299",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ja",
         "id": "5203173367987472935",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ko",
         "id": "8427126052180576160",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ms",
         "id": "5990851390838920547",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pl",
         "id": "3394902802486008664",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pt",
         "id": "6179954312892676695",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pt-BR",
         "id": "3484603489360202582",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ro",
         "id": "5145326243818977877",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ru",
         "id": "5188408707919914484",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "es",
         "id": "6204540321264480489",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "es-419",
         "id": "7185350469868201379",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sv",
         "id": "8913559243351013088",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "th",
         "id": "2706040171335467974",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tr",
         "id": "6468780937168595917",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "uk",
         "id": "1782621454240367603",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "vi",
         "id": "3164440079022386695",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "af",
         "id": "9193031427501250739",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sq",
         "id": "6847493053848422645",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "am",
         "id": "2526577153570564673",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hy",
         "id": "1586739058301487676",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "az",
         "id": "713056016405537102",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "be",
         "id": "7232505995053152192",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bn",
         "id": "3402500071662542228",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "bs",
         "id": "6908072148468152785",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "my",
         "id": "5762198617335159887",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "km",
         "id": "6796421298740947063",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ca",
         "id": "1392737883785118332",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ceb",
         "id": "5837595011776494775",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh-Hans",
         "id": "2818874445640189582",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zh-Hant",
         "id": "38886079663327225",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "hr",
         "id": "7668596971407381245",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "eo",
         "id": "3509865042379188717",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "et",
         "id": "3006949234613526276",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fo",
         "id": "7703342981951715697",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ka",
         "id": "5905178459829728484",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "gn",
         "id": "4894494172631551657",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "gu",
         "id": "4891408516910497422",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ht",
         "id": "8773112916243804182",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ha",
         "id": "8106799273220933842",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "is",
         "id": "2566480683201153375",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ig",
         "id": "3424308522705464084",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ga",
         "id": "3707936942181329862",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "jv",
         "id": "6913455010116693655",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "kn",
         "id": "1088655658033412867",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "kk",
         "id": "4920750007190577961",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ku",
         "id": "5924797894030210791",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ky",
         "id": "191250206471387059",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lo",
         "id": "374730826849442838",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lv",
         "id": "7483906778681041617",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lt",
         "id": "2909322037877472903",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "lb",
         "id": "7998953198185983599",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mk",
         "id": "4493782214399724320",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mg",
         "id": "7844022624810291146",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ml",
         "id": "3443092856670936701",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mt",
         "id": "7404477799743142598",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mi",
         "id": "8225972509362693639",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mr",
         "id": "6030352007472109485",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mo",
         "id": "8871355786189601023",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "mn",
         "id": "1683078263344915307",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ne",
         "id": "128549604427027000",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "no",
         "id": "3907280050995528877",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ny",
         "id": "5715855562377571991",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ps",
         "id": "6105060607877949219",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "fa",
         "id": "1302226087224798096",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "rm",
         "id": "8327243820444225063",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sm",
         "id": "2859258045373504715",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sr",
         "id": "6589258274800936036",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sh",
         "id": "2675056792049767704",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "st",
         "id": "7963579117812866356",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sn",
         "id": "2403628417982139515",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sd",
         "id": "7126242426383705161",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "si",
         "id": "2913942844788726362",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sk",
         "id": "7182321933689697136",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sl",
         "id": "8410771330361157651",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "so",
         "id": "2909968758031724143",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "sw",
         "id": "1981693893234457639",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tg",
         "id": "8403246223033985015",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ta",
         "id": "8440188015298648289",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ti",
         "id": "5554111601105349413",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "to",
         "id": "2410241309695200602",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "tk",
         "id": "3635004776434724843",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "ur",
         "id": "7602124517732860619",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "uz",
         "id": "4555523281386098571",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "yo",
         "id": "727983903143794104",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "zu",
         "id": "3786926370127246407",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "other",
         "id": "1897863245819012494",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "eu",
         "id": "3468748569008741067",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       },
       {
         "name": "Bato.to",
         "lang": "pt-PT",
         "id": "2823929639670313992",
-        "baseUrl": "https://zbato.org",
+        "baseUrl": "https://battwo.com",
         "versionId": 1
       }
     ]
@@ -1647,10 +1647,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.16.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1741,10 +1741,10 @@
   {
     "name": "Tachiyomi: DeviantArt",
     "pkg": "eu.kanade.tachiyomi.extension.all.deviantart",
-    "apk": "tachiyomi-all.deviantart-v1.4.4.apk",
+    "apk": "tachiyomi-all.deviantart-v1.4.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3243,10 +3243,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.35.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.36.apk",
     "lang": "all",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3648,10 +3648,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.16.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.17.apk",
     "lang": "all",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9160,10 +9160,10 @@
   {
     "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
-    "apk": "tachiyomi-ar.onma-v1.4.12.apk",
+    "apk": "tachiyomi-ar.onma-v1.4.13.apk",
     "lang": "ar",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -9172,7 +9172,7 @@
         "name": "مانجا اون لاين",
         "lang": "ar",
         "id": "335499577904379512",
-        "baseUrl": "https://onma.top",
+        "baseUrl": "https://onma.me",
         "versionId": 1
       }
     ]
@@ -11995,10 +11995,10 @@
   {
     "name": "Tachiyomi: Ignis Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.igniscomic",
-    "apk": "tachiyomi-en.igniscomic-v1.4.30.apk",
+    "apk": "tachiyomi-en.igniscomic-v1.4.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -12007,7 +12007,7 @@
         "name": "Ignis Comic",
         "lang": "en",
         "id": "6513093693586274324",
-        "baseUrl": "https://igniscomic.com",
+        "baseUrl": "https://manhuaga.com",
         "versionId": 1
       }
     ]
@@ -14213,26 +14213,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MangaSco",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangasco",
-    "apk": "tachiyomi-en.mangasco-v1.4.41.apk",
-    "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "MangaSco",
-        "lang": "en",
-        "id": "2832458433399665913",
-        "baseUrl": "https://mgsco.org",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Sect",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasect",
     "apk": "tachiyomi-en.mangasect-v1.4.3.apk",
@@ -14675,10 +14655,10 @@
   {
     "name": "Tachiyomi: Manhuaga",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuaga",
-    "apk": "tachiyomi-en.manhuaga-v1.4.40.apk",
+    "apk": "tachiyomi-en.manhuaga-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -14687,7 +14667,7 @@
         "name": "Manhuaga",
         "lang": "en",
         "id": "603519797225889209",
-        "baseUrl": "https://manhuaga.com",
+        "baseUrl": "https://manhua-ga.org",
         "versionId": 1
       }
     ]
@@ -17115,10 +17095,10 @@
   {
     "name": "Tachiyomi: Reaper Scans (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.en.reaperscansunoriginal",
-    "apk": "tachiyomi-en.reaperscansunoriginal-v1.4.32.apk",
+    "apk": "tachiyomi-en.reaperscansunoriginal-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19260,6 +19240,26 @@
     ]
   },
   {
+    "name": "Tachiyomi: CatManhwas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.catmanhwas",
+    "apk": "tachiyomi-es.catmanhwas-v1.4.38.apk",
+    "lang": "es",
+    "code": 38,
+    "version": "1.4.38",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CatManhwas",
+        "lang": "es",
+        "id": "2801410029624167639",
+        "baseUrl": "https://catmanhwas.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Celestial Moon",
     "pkg": "eu.kanade.tachiyomi.extension.es.celestialmoon",
     "apk": "tachiyomi-es.celestialmoon-v1.4.30.apk",
@@ -19282,10 +19282,10 @@
   {
     "name": "Tachiyomi: Cerberus Series",
     "pkg": "eu.kanade.tachiyomi.extension.es.cerberusseries",
-    "apk": "tachiyomi-es.cerberusseries-v1.4.30.apk",
+    "apk": "tachiyomi-es.cerberusseries-v1.4.31.apk",
     "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19294,7 +19294,7 @@
         "name": "Cerberus Series",
         "lang": "es",
         "id": "1814471239661920836",
-        "baseUrl": "https://cerberuseries.xyz",
+        "baseUrl": "https://legionscans.com/wp",
         "versionId": 2
       }
     ]
@@ -19822,10 +19822,10 @@
   {
     "name": "Tachiyomi: Visor Inari",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.46.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -19834,7 +19834,7 @@
         "name": "Visor Inari",
         "lang": "es",
         "id": "7949577653918285764",
-        "baseUrl": "https://inarimanga.visahelper.online",
+        "baseUrl": "https://worldinari.org",
         "versionId": 1
       }
     ]
@@ -20289,10 +20289,10 @@
   {
     "name": "Tachiyomi: MangaEsp",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangaesp",
-    "apk": "tachiyomi-es.mangaesp-v1.4.5.apk",
+    "apk": "tachiyomi-es.mangaesp-v1.4.30.apk",
     "lang": "es",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -20300,9 +20300,9 @@
       {
         "name": "MangaEsp",
         "lang": "es",
-        "id": "1712700133966179676",
-        "baseUrl": "https://mangaesp.net",
-        "versionId": 1
+        "id": "1995045995184096324",
+        "baseUrl": "https://mangaesp.topmanhuas.org",
+        "versionId": 2
       }
     ]
   },
@@ -21089,10 +21089,10 @@
   {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
-    "apk": "tachiyomi-es.taurusfansub-v1.4.40.apk",
+    "apk": "tachiyomi-es.taurusfansub-v1.4.41.apk",
     "lang": "es",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -21101,7 +21101,7 @@
         "name": "Taurus Fansub",
         "lang": "es",
         "id": "5157867187592331768",
-        "baseUrl": "https://taurusmanga.com",
+        "baseUrl": "https://lectortaurus.com",
         "versionId": 1
       }
     ]
@@ -22976,10 +22976,10 @@
   {
     "name": "Tachiyomi: Komik Cast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
-    "apk": "tachiyomi-id.komikcast-v1.4.63.apk",
+    "apk": "tachiyomi-id.komikcast-v1.4.64.apk",
     "lang": "id",
-    "code": 63,
-    "version": "1.4.63",
+    "code": 64,
+    "version": "1.4.64",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -22988,7 +22988,7 @@
         "name": "Komik Cast",
         "lang": "id",
         "id": "972717448578983812",
-        "baseUrl": "https://komikcast.la",
+        "baseUrl": "https://komikcast01.com",
         "versionId": 1
       }
     ]
@@ -23356,10 +23356,10 @@
   {
     "name": "Tachiyomi: Komiku.com",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikucom",
-    "apk": "tachiyomi-id.komikucom-v1.4.30.apk",
+    "apk": "tachiyomi-id.komikucom-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -23368,7 +23368,7 @@
         "name": "Komiku.com",
         "lang": "id",
         "id": "8489420317813224728",
-        "baseUrl": "https://komiku.com",
+        "baseUrl": "https://komiku.one",
         "versionId": 1
       }
     ]
@@ -24676,10 +24676,10 @@
   {
     "name": "Tachiyomi: Mangaworld",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworld",
-    "apk": "tachiyomi-it.mangaworld-v1.4.8.apk",
+    "apk": "tachiyomi-it.mangaworld-v1.4.9.apk",
     "lang": "it",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -24696,10 +24696,10 @@
   {
     "name": "Tachiyomi: MangaworldAdult",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
-    "apk": "tachiyomi-it.mangaworldadult-v1.4.3.apk",
+    "apk": "tachiyomi-it.mangaworldadult-v1.4.4.apk",
     "lang": "it",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26618,10 +26618,10 @@
   {
     "name": "Tachiyomi: Cerise Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.cerisescans",
-    "apk": "tachiyomi-pt.cerisescans-v1.4.50.apk",
+    "apk": "tachiyomi-pt.cerisescans-v1.4.51.apk",
     "lang": "pt-BR",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -26630,7 +26630,7 @@
         "name": "Cerise Scan",
         "lang": "pt-BR",
         "id": "3171660616317060850",
-        "baseUrl": "https://cerise.leitorweb.com",
+        "baseUrl": "https://sctoon.net",
         "versionId": 2
       }
     ]
@@ -28596,21 +28596,21 @@
     ]
   },
   {
-    "name": "Tachiyomi: SSSScanlator",
+    "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
-    "apk": "tachiyomi-pt.sssscanlator-v1.4.34.apk",
+    "apk": "tachiyomi-pt.sssscanlator-v1.4.35.apk",
     "lang": "pt-BR",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "SSSScanlator",
+        "name": "Yomu Comics",
         "lang": "pt-BR",
         "id": "1497838059713668619",
-        "baseUrl": "https://ssstoons.com",
+        "baseUrl": "https://yomucomics.com",
         "versionId": 1
       }
     ]
@@ -29098,10 +29098,10 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.2.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.3.apk",
     "lang": "pt-BR",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32458,10 +32458,10 @@
   {
     "name": "Tachiyomi: Zenko",
     "pkg": "eu.kanade.tachiyomi.extension.uk.zenko",
-    "apk": "tachiyomi-uk.zenko-v1.4.1.apk",
+    "apk": "tachiyomi-uk.zenko-v1.4.2.apk",
     "lang": "uk",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -32618,10 +32618,10 @@
   {
     "name": "Tachiyomi: Goc Truyen Tranh",
     "pkg": "eu.kanade.tachiyomi.extension.vi.goctruyentranh",
-    "apk": "tachiyomi-vi.goctruyentranh-v1.4.1.apk",
+    "apk": "tachiyomi-vi.goctruyentranh-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,

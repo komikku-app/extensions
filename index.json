@@ -13993,7 +13993,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadComicNet",
+    "name": "Tachiyomi: AZComix",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomicnet",
     "apk": "tachiyomi-en.readcomicnet-v1.4.3.apk",
     "lang": "en",
@@ -14004,7 +14004,7 @@
       {
         "name": "AZComix",
         "lang": "en",
-        "id": "2971564150789094060",
+        "id": "6225640379944128563",
         "baseUrl": "https://azcomix.me"
       }
     ]

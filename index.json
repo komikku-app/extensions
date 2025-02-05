@@ -8746,10 +8746,10 @@
   {
     "name": "Tachiyomi: ComicExtra",
     "pkg": "eu.kanade.tachiyomi.extension.en.comicextra",
-    "apk": "tachiyomi-en.comicextra-v1.4.17.apk",
+    "apk": "tachiyomi-en.comicextra-v1.4.18.apk",
     "lang": "en",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -13836,23 +13836,6 @@
         "lang": "en",
         "id": "6207801235158968822",
         "baseUrl": "https://ww4.readchainsawman.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: AZComix",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readcomicnet",
-    "apk": "tachiyomi-en.readcomicnet-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "AZComix",
-        "lang": "en",
-        "id": "6225640379944128563",
-        "baseUrl": "https://azcomix.me"
       }
     ]
   },

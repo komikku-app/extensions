@@ -1507,10 +1507,10 @@
   {
     "name": "Tachiyomi: DeviantArt",
     "pkg": "eu.kanade.tachiyomi.extension.all.deviantart",
-    "apk": "tachiyomi-all.deviantart-v1.4.5.apk",
+    "apk": "tachiyomi-all.deviantart-v1.4.6.apk",
     "lang": "all",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {

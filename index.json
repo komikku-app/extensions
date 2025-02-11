@@ -3877,10 +3877,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.7.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -4729,10 +4729,10 @@
   {
     "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.4.6.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
@@ -6373,10 +6373,10 @@
   {
     "name": "Tachiyomi: Snow Machine Translations",
     "pkg": "eu.kanade.tachiyomi.extension.all.snowmtl",
-    "apk": "tachiyomi-all.snowmtl-v1.4.11.apk",
+    "apk": "tachiyomi-all.snowmtl-v1.4.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -14341,10 +14341,10 @@
   {
     "name": "Tachiyomi: Realm Oasis",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.36.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.37.apk",
     "lang": "en",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 0,
     "sources": [
       {
@@ -15418,10 +15418,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.10.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -21255,10 +21255,10 @@
   {
     "name": "Tachiyomi: Raw Otaku",
     "pkg": "eu.kanade.tachiyomi.extension.ja.rawotaku",
-    "apk": "tachiyomi-ja.rawotaku-v1.4.2.apk",
+    "apk": "tachiyomi-ja.rawotaku-v1.4.3.apk",
     "lang": "ja",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -23533,6 +23533,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Safire Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.safirescan",
+    "apk": "tachiyomi-pt.safirescan-v1.4.10.apk",
+    "lang": "pt-BR",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Safire Scan",
+        "lang": "pt-BR",
+        "id": "6554678777877320878",
+        "baseUrl": "https://www.safirescan.xyz"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Saikai Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
     "apk": "tachiyomi-pt.saikaiscan-v1.4.11.apk",
@@ -24079,10 +24096,10 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.4.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -24753,6 +24770,23 @@
         "lang": "th",
         "id": "7257262636858275074",
         "baseUrl": "https://ecchi-doujin.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: God-Doujin",
+    "pkg": "eu.kanade.tachiyomi.extension.th.goddoujin",
+    "apk": "tachiyomi-th.goddoujin-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "God-Doujin",
+        "lang": "th",
+        "id": "3638625079908519060",
+        "baseUrl": "https://god-doujin.com"
       }
     ]
   },

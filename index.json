@@ -10395,23 +10395,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: 18Kami",
-    "pkg": "eu.kanade.tachiyomi.extension.en.kami18",
-    "apk": "tachiyomi-en.kami18-v1.4.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "18Kami",
-        "lang": "en",
-        "id": "2702386100118752161",
-        "baseUrl": "https://18kami.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Kappa Beast",
     "pkg": "eu.kanade.tachiyomi.extension.en.kappabeast",
     "apk": "tachiyomi-en.kappabeast-v1.4.31.apk",
@@ -11615,6 +11598,23 @@
         "lang": "en",
         "id": "1024627298672457456",
         "baseUrl": "https://manganato.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaNow",
+    "pkg": "eu.kanade.tachiyomi.extension.en.manganow",
+    "apk": "tachiyomi-en.manganow-v1.4.3.apk",
+    "lang": "en",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MangaNow",
+        "lang": "en",
+        "id": "855054225815309342",
+        "baseUrl": "https://manganow.to"
       }
     ]
   },
@@ -18790,10 +18790,10 @@
   {
     "name": "Tachiyomi: DoujinDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.doujindesu",
-    "apk": "tachiyomi-id.doujindesu-v1.4.7.apk",
+    "apk": "tachiyomi-id.doujindesu-v1.4.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -22141,17 +22141,17 @@
   {
     "name": "Tachiyomi: Dream Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.dreamscan",
-    "apk": "tachiyomi-pt.dreamscan-v1.4.40.apk",
+    "apk": "tachiyomi-pt.dreamscan-v1.4.41.apk",
     "lang": "pt-BR",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
         "name": "Dream Scan",
         "lang": "pt-BR",
         "id": "2058412298484770949",
-        "baseUrl": "https://dreamscan.com.br"
+        "baseUrl": "https://fairydream.com.br"
       }
     ]
   },
@@ -24096,10 +24096,10 @@
   {
     "name": "Tachiyomi: Yushuke Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yushukemangas",
-    "apk": "tachiyomi-pt.yushukemangas-v1.4.5.apk",
+    "apk": "tachiyomi-pt.yushukemangas-v1.4.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
@@ -24147,10 +24147,10 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.52.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.53.apk",
     "lang": "ru",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 1,
     "sources": [
       {
@@ -24402,10 +24402,10 @@
   {
     "name": "Tachiyomi: MintManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mintmanga",
-    "apk": "tachiyomi-ru.mintmanga-v1.4.74.apk",
+    "apk": "tachiyomi-ru.mintmanga-v1.4.75.apk",
     "lang": "ru",
-    "code": 74,
-    "version": "1.4.74",
+    "code": 75,
+    "version": "1.4.75",
     "nsfw": 1,
     "sources": [
       {
@@ -24453,27 +24453,27 @@
   {
     "name": "Tachiyomi: ReadManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.readmanga",
-    "apk": "tachiyomi-ru.readmanga-v1.4.74.apk",
+    "apk": "tachiyomi-ru.readmanga-v1.4.75.apk",
     "lang": "ru",
-    "code": 74,
-    "version": "1.4.74",
+    "code": 75,
+    "version": "1.4.75",
     "nsfw": 0,
     "sources": [
       {
         "name": "ReadManga",
         "lang": "ru",
         "id": "5",
-        "baseUrl": "https://1.readmanga.io"
+        "baseUrl": "https://zz.readmanga.io"
       }
     ]
   },
   {
     "name": "Tachiyomi: RuMIX",
     "pkg": "eu.kanade.tachiyomi.extension.ru.rumix",
-    "apk": "tachiyomi-ru.rumix-v1.4.29.apk",
+    "apk": "tachiyomi-ru.rumix-v1.4.30.apk",
     "lang": "ru",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "sources": [
       {
@@ -24487,10 +24487,10 @@
   {
     "name": "Tachiyomi: SeiManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.seimanga",
-    "apk": "tachiyomi-ru.seimanga-v1.4.28.apk",
+    "apk": "tachiyomi-ru.seimanga-v1.4.29.apk",
     "lang": "ru",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "sources": [
       {
@@ -24504,10 +24504,10 @@
   {
     "name": "Tachiyomi: SelfManga",
     "pkg": "eu.kanade.tachiyomi.extension.ru.selfmanga",
-    "apk": "tachiyomi-ru.selfmanga-v1.4.50.apk",
+    "apk": "tachiyomi-ru.selfmanga-v1.4.51.apk",
     "lang": "ru",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
@@ -24572,10 +24572,10 @@
   {
     "name": "Tachiyomi: Usagi",
     "pkg": "eu.kanade.tachiyomi.extension.ru.usagi",
-    "apk": "tachiyomi-ru.usagi-v1.4.28.apk",
+    "apk": "tachiyomi-ru.usagi-v1.4.29.apk",
     "lang": "ru",
-    "code": 28,
-    "version": "1.4.28",
+    "code": 29,
+    "version": "1.4.29",
     "nsfw": 1,
     "sources": [
       {
@@ -25847,17 +25847,17 @@
   {
     "name": "Tachiyomi: MangaGezgini",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
-    "apk": "tachiyomi-tr.mangagezgini-v1.4.44.apk",
+    "apk": "tachiyomi-tr.mangagezgini-v1.4.45.apk",
     "lang": "tr",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaGezgini",
         "lang": "tr",
         "id": "6502558540101660304",
-        "baseUrl": "https://mangagezgini.vip"
+        "baseUrl": "https://mangagezgini.site"
       }
     ]
   },
@@ -27394,17 +27394,17 @@
   {
     "name": "Tachiyomi: ThichDoc",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.5.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 1,
     "sources": [
       {
         "name": "ThichDoc",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://thichdoc.net"
+        "baseUrl": "https://thichdoc1.com"
       }
     ]
   },

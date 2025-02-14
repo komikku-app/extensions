@@ -3877,10 +3877,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.8.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -19640,17 +19640,17 @@
   {
     "name": "Tachiyomi: ManhwaDesu",
     "pkg": "eu.kanade.tachiyomi.extension.id.manhwadesu",
-    "apk": "tachiyomi-id.manhwadesu-v1.4.36.apk",
+    "apk": "tachiyomi-id.manhwadesu-v1.4.37.apk",
     "lang": "id",
-    "code": 36,
-    "version": "1.4.36",
+    "code": 37,
+    "version": "1.4.37",
     "nsfw": 1,
     "sources": [
       {
         "name": "ManhwaDesu",
         "lang": "id",
         "id": "8258394658125354785",
-        "baseUrl": "https://manhwadesu.my"
+        "baseUrl": "https://manhwadesu.ws"
       }
     ]
   },
@@ -20964,23 +20964,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga-Mate",
-    "pkg": "eu.kanade.tachiyomi.extension.ja.mangamate",
-    "apk": "tachiyomi-ja.mangamate-v1.4.31.apk",
-    "lang": "ja",
-    "code": 31,
-    "version": "1.4.31",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "漫画メイト",
-        "lang": "ja",
-        "id": "6134873820552577386",
-        "baseUrl": "https://manga-mate.org"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Manga Raw.org",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangaraworg",
     "apk": "tachiyomi-ja.mangaraworg-v1.4.31.apk",
@@ -21629,19 +21612,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf372.com"
+        "baseUrl": "https://wfwf373.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf372.com"
+        "baseUrl": "https://wfwf373.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf372.com"
+        "baseUrl": "https://wfwf373.com"
       }
     ]
   },

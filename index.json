@@ -7373,23 +7373,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Manga Flame",
-    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaflame",
-    "apk": "tachiyomi-ar.mangaflame-v1.4.33.apk",
-    "lang": "ar",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Manga Flame",
-        "lang": "ar",
-        "id": "1501237443119573205",
-        "baseUrl": "https://mangaflame.org"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangahub",
     "apk": "tachiyomi-ar.mangahub-v1.4.10.apk",
@@ -9158,6 +9141,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Dxd Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.dxdscans",
+    "apk": "tachiyomi-en.dxdscans-v1.4.13.apk",
+    "lang": "en",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Dxd Scans",
+        "lang": "en",
+        "id": "6046229364509226922",
+        "baseUrl": "https://dxdscans.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
     "apk": "tachiyomi-en.dynasty-v1.4.25.apk",
@@ -9507,6 +9507,23 @@
         "lang": "en",
         "id": "8531542650987673943",
         "baseUrl": "https://flamecomics.xyz"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Flone Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.flonescans",
+    "apk": "tachiyomi-en.flonescans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Flone Scans",
+        "lang": "en",
+        "id": "8752689055501061605",
+        "baseUrl": "https://sweetmanhwa.online"
       }
     ]
   },
@@ -10193,10 +10210,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.42.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {

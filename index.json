@@ -4729,10 +4729,10 @@
   {
     "name": "Tachiyomi: MangaReader",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangareaderto",
-    "apk": "tachiyomi-all.mangareaderto-v1.4.7.apk",
+    "apk": "tachiyomi-all.mangareaderto-v1.4.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -5806,47 +5806,6 @@
         "lang": "fr",
         "id": "3415116372640359218",
         "baseUrl": "https://fr.ninemanga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: AnimeH",
-    "pkg": "eu.kanade.tachiyomi.extension.all.ninenineninehentai",
-    "apk": "tachiyomi-all.ninenineninehentai-v1.4.8.apk",
-    "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "AnimeH",
-        "lang": "all",
-        "id": "5098173700376022513",
-        "baseUrl": "https://animeh.to"
-      },
-      {
-        "name": "AnimeH",
-        "lang": "en",
-        "id": "4370122548313941497",
-        "baseUrl": "https://animeh.to"
-      },
-      {
-        "name": "AnimeH",
-        "lang": "ja",
-        "id": "8948948503520127713",
-        "baseUrl": "https://animeh.to"
-      },
-      {
-        "name": "AnimeH",
-        "lang": "zh",
-        "id": "3874510362699054213",
-        "baseUrl": "https://animeh.to"
-      },
-      {
-        "name": "AnimeH",
-        "lang": "es",
-        "id": "2790053117909987291",
-        "baseUrl": "https://animeh.to"
       }
     ]
   },
@@ -13744,23 +13703,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: ReadAllComics",
-    "pkg": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
-    "apk": "tachiyomi-en.readallcomicscom-v1.4.3.apk",
-    "lang": "en",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "ReadAllComics",
-        "lang": "en",
-        "id": "58328287106519523",
-        "baseUrl": "https://readallcomics.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Read Attack on Titan Shingeki no Kyojin Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
     "apk": "tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.4.9.apk",
@@ -16472,17 +16414,17 @@
   {
     "name": "Tachiyomi: Ikigai Mangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.22.apk",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.23.apk",
     "lang": "es",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ikigai Mangas",
         "lang": "es",
         "id": "3546919326830738510",
-        "baseUrl": "https://visorikigai.tvsin.com"
+        "baseUrl": "https://ikigaitoon.bookir.net"
       }
     ]
   },
@@ -28000,23 +27942,6 @@
         "lang": "zh",
         "id": "5768337869316468367",
         "baseUrl": "https://picaapi.picacomic.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Qinqin Manhua",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.qinqin",
-    "apk": "tachiyomi-zh.qinqin-v1.4.13.apk",
-    "lang": "zh",
-    "code": 13,
-    "version": "1.4.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "亲亲漫画",
-        "lang": "zh",
-        "id": "5708464438257530526",
-        "baseUrl": "http://www.acgwd.com"
       }
     ]
   },

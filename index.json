@@ -13501,16 +13501,16 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.6.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.39.apk",
     "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 0,
     "sources": [
       {
         "name": "Philia Scans",
         "lang": "en",
-        "id": "3242255623103584227",
+        "id": "6713905350431854807",
         "baseUrl": "https://philiascans.org"
       }
     ]
@@ -14300,10 +14300,10 @@
   {
     "name": "Tachiyomi: Realm Oasis",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.37.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
@@ -16176,10 +16176,10 @@
   {
     "name": "Tachiyomi: DragonTranslation.net",
     "pkg": "eu.kanade.tachiyomi.extension.es.dragontranslationnet",
-    "apk": "tachiyomi-es.dragontranslationnet-v1.4.39.apk",
+    "apk": "tachiyomi-es.dragontranslationnet-v1.4.40.apk",
     "lang": "es",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 1,
     "sources": [
       {
@@ -26894,17 +26894,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.8.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui.com"
+        "baseUrl": "https://doctruyen3qui2.com"
       }
     ]
   },
@@ -27183,17 +27183,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.12.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv.net"
+        "baseUrl": "https://www.toptruyen369.net"
       }
     ]
   },
@@ -27285,17 +27285,17 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.50.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.51.apk",
     "lang": "vi",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.li"
+        "baseUrl": "https://truyenvn.tech"
       }
     ]
   },

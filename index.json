@@ -3877,10 +3877,10 @@
   {
     "name": "Tachiyomi: MangaFire",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangafire",
-    "apk": "tachiyomi-all.mangafire-v1.4.9.apk",
+    "apk": "tachiyomi-all.mangafire-v1.4.10.apk",
     "lang": "all",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -9176,10 +9176,10 @@
   {
     "name": "Tachiyomi: Flame Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.flamecomics",
-    "apk": "tachiyomi-en.flamecomics-v1.4.39.apk",
+    "apk": "tachiyomi-en.flamecomics-v1.4.40.apk",
     "lang": "en",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -18045,17 +18045,17 @@
   {
     "name": "Tachiyomi: Kiryuu",
     "pkg": "eu.kanade.tachiyomi.extension.id.kiryuu",
-    "apk": "tachiyomi-id.kiryuu-v1.4.39.apk",
+    "apk": "tachiyomi-id.kiryuu-v1.4.40.apk",
     "lang": "id",
-    "code": 39,
-    "version": "1.4.39",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kiryuu",
         "lang": "id",
         "id": "3639673976007021338",
-        "baseUrl": "https://kiryuu.one"
+        "baseUrl": "https://kiryuu01.com"
       }
     ]
   },
@@ -21955,6 +21955,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mystic Moon",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mysticmoon",
+    "apk": "tachiyomi-pt.mysticmoon-v1.4.41.apk",
+    "lang": "pt-BR",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mystic Moon",
+        "lang": "pt-BR",
+        "id": "6885136572398587060",
+        "baseUrl": "https://mysticmagic.com.br"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Nazarick Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.nazarickscan",
     "apk": "tachiyomi-pt.nazarickscan-v1.4.9.apk",
@@ -23164,10 +23181,10 @@
   {
     "name": "Tachiyomi: Nude-Moon",
     "pkg": "eu.kanade.tachiyomi.extension.ru.nudemoon",
-    "apk": "tachiyomi-ru.nudemoon-v1.4.20.apk",
+    "apk": "tachiyomi-ru.nudemoon-v1.4.21.apk",
     "lang": "ru",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {

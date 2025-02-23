@@ -1507,17 +1507,17 @@
   {
     "name": "Tachiyomi: DeviantArt",
     "pkg": "eu.kanade.tachiyomi.extension.all.deviantart",
-    "apk": "tachiyomi-all.deviantart-v1.4.6.apk",
+    "apk": "tachiyomi-all.deviantart-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
         "name": "DeviantArt",
         "lang": "all",
         "id": "5211324870873630158",
-        "baseUrl": "https://deviantart.com"
+        "baseUrl": "https://www.deviantart.com"
       }
     ]
   },
@@ -11114,17 +11114,17 @@
   {
     "name": "Tachiyomi: Mangamo",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamo",
-    "apk": "tachiyomi-en.mangamo-v1.4.1.apk",
+    "apk": "tachiyomi-en.mangamo-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "Mangamo",
         "lang": "en",
         "id": "6458420328066857684",
-        "baseUrl": "https://mangamo.com"
+        "baseUrl": "https://www.mangamo.com"
       }
     ]
   },
@@ -11964,17 +11964,17 @@
   {
     "name": "Tachiyomi: Manhua Zonghe",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuazonghe",
-    "apk": "tachiyomi-en.manhuazonghe-v1.4.40.apk",
+    "apk": "tachiyomi-en.manhuazonghe-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manhua Zonghe",
         "lang": "en",
         "id": "6077132944162952766",
-        "baseUrl": "https://manhuazonghe.com"
+        "baseUrl": "https://www.manhuazonghe.com"
       }
     ]
   },
@@ -12100,10 +12100,10 @@
   {
     "name": "Tachiyomi: ManhwaFreak.xyz",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhwafreakxyz",
-    "apk": "tachiyomi-en.manhwafreakxyz-v1.4.30.apk",
+    "apk": "tachiyomi-en.manhwafreakxyz-v1.4.40.apk",
     "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 40,
+    "version": "1.4.40",
     "nsfw": 0,
     "sources": [
       {
@@ -17297,17 +17297,17 @@
   {
     "name": "Tachiyomi: Lelmanga",
     "pkg": "eu.kanade.tachiyomi.extension.fr.lelmanga",
-    "apk": "tachiyomi-fr.lelmanga-v1.4.30.apk",
+    "apk": "tachiyomi-fr.lelmanga-v1.4.31.apk",
     "lang": "fr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
         "name": "Lelmanga",
         "lang": "fr",
         "id": "8647761747185981431",
-        "baseUrl": "https://lelmanga.com"
+        "baseUrl": "https://www.lelmanga.com"
       }
     ]
   },
@@ -24422,17 +24422,17 @@
   {
     "name": "Tachiyomi: Kuroi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.tr.kuroimanga",
-    "apk": "tachiyomi-tr.kuroimanga-v1.4.41.apk",
+    "apk": "tachiyomi-tr.kuroimanga-v1.4.42.apk",
     "lang": "tr",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "sources": [
       {
         "name": "Kuroi Manga",
         "lang": "tr",
         "id": "8755089223917220341",
-        "baseUrl": "https://kuroimanga.com"
+        "baseUrl": "https://www.kuroimanga.com"
       }
     ]
   },

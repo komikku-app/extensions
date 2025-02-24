@@ -15846,10 +15846,10 @@
   {
     "name": "Tachiyomi: Knight No Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.knightnoscanlation",
-    "apk": "tachiyomi-es.knightnoscanlation-v1.4.44.apk",
+    "apk": "tachiyomi-es.knightnoscanlation-v1.4.45.apk",
     "lang": "es",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
@@ -16084,17 +16084,17 @@
   {
     "name": "Tachiyomi: Manga Crab",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangacrab",
-    "apk": "tachiyomi-es.mangacrab-v1.4.50.apk",
+    "apk": "tachiyomi-es.mangacrab-v1.4.51.apk",
     "lang": "es",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Crab",
         "lang": "es",
         "id": "6167683270485370369",
-        "baseUrl": "https://wikicrab.xyz"
+        "baseUrl": "https://mangacrab.org"
       }
     ]
   },
@@ -25221,17 +25221,17 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.51.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.52.apk",
     "lang": "tr",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 1,
     "sources": [
       {
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.love"
+        "baseUrl": "https://grimelek.online"
       }
     ]
   },
@@ -25595,17 +25595,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.9.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.10.apk",
     "lang": "vi",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui2.com"
+        "baseUrl": "https://doctruyen3qui.pro"
       }
     ]
   },
@@ -25867,17 +25867,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.13.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyen369.net"
+        "baseUrl": "https://www.toptruyentv.pro"
       }
     ]
   },

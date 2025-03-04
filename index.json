@@ -13013,10 +13013,10 @@
   {
     "name": "Tachiyomi: Philia Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.philiascans",
-    "apk": "tachiyomi-en.philiascans-v1.4.40.apk",
+    "apk": "tachiyomi-en.philiascans-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
@@ -25622,23 +25622,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: BlogTruyen",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyen",
-    "apk": "tachiyomi-vi.blogtruyen-v1.4.21.apk",
-    "lang": "vi",
-    "code": 21,
-    "version": "1.4.21",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "BlogTruyen",
-        "lang": "vi",
-        "id": "7328966691702591431",
-        "baseUrl": "https://blogtruyenmoi.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: CoManhua",
     "pkg": "eu.kanade.tachiyomi.extension.vi.comanhua",
     "apk": "tachiyomi-vi.comanhua-v1.4.8.apk",
@@ -25658,10 +25641,10 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.10.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -25930,10 +25913,10 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.14.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.15.apk",
     "lang": "vi",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "sources": [
       {

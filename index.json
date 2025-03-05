@@ -7373,10 +7373,10 @@
   {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.34.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.35.apk",
     "lang": "ar",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 0,
     "sources": [
       {
@@ -8138,10 +8138,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.42.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
@@ -9902,10 +9902,10 @@
   {
     "name": "Tachiyomi: Hive Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
-    "apk": "tachiyomi-en.infernalvoidscans-v1.4.43.apk",
+    "apk": "tachiyomi-en.infernalvoidscans-v1.4.44.apk",
     "lang": "en",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
@@ -12820,6 +12820,23 @@
         "lang": "en",
         "id": "892734527131844367",
         "baseUrl": "https://1manhwa.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Nyx Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.nyxscans",
+    "apk": "tachiyomi-en.nyxscans-v1.4.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Nyx Scans",
+        "lang": "en",
+        "id": "419822582289753882",
+        "baseUrl": "https://nyxscans.com"
       }
     ]
   },
@@ -19893,10 +19910,10 @@
   {
     "name": "Tachiyomi: MangaGun",
     "pkg": "eu.kanade.tachiyomi.extension.ja.mangagun",
-    "apk": "tachiyomi-ja.mangagun-v1.4.10.apk",
+    "apk": "tachiyomi-ja.mangagun-v1.4.11.apk",
     "lang": "ja",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {

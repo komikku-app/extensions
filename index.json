@@ -8119,6 +8119,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Art Lapsa",
+    "pkg": "eu.kanade.tachiyomi.extension.en.artlapsa",
+    "apk": "tachiyomi-en.artlapsa-v1.4.13.apk",
+    "lang": "en",
+    "code": 13,
+    "version": "1.4.13",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Art Lapsa",
+        "lang": "en",
+        "id": "734404203508686053",
+        "baseUrl": "https://artlapsa.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvencomics",
     "apk": "tachiyomi-en.arvencomics-v1.4.37.apk",
@@ -8302,6 +8319,23 @@
         "lang": "en",
         "id": "9148518200946142514",
         "baseUrl": "https://comicaurora.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Aurora Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.aurorascans",
+    "apk": "tachiyomi-en.aurorascans-v1.4.7.apk",
+    "lang": "en",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aurora Scans",
+        "lang": "en",
+        "id": "4522585121647853793",
+        "baseUrl": "https://aurorascans.com"
       }
     ]
   },

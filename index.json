@@ -11532,23 +11532,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangaryu",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangaryu",
-    "apk": "tachiyomi-en.mangaryu-v1.4.40.apk",
-    "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Mangaryu",
-        "lang": "en",
-        "id": "3409128951270092307",
-        "baseUrl": "https://mangaryu.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangasail",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasail",
     "apk": "tachiyomi-en.mangasail-v1.4.6.apk",
@@ -17836,10 +17819,10 @@
   {
     "name": "Tachiyomi: Sushi-Scan",
     "pkg": "eu.kanade.tachiyomi.extension.fr.sushiscan",
-    "apk": "tachiyomi-fr.sushiscan-v1.4.43.apk",
+    "apk": "tachiyomi-fr.sushiscan-v1.4.44.apk",
     "lang": "fr",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
@@ -25828,10 +25811,10 @@
   {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.16.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
@@ -26134,10 +26117,10 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.7.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.8.apk",
     "lang": "vi",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {

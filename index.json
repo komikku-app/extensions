@@ -10650,17 +10650,17 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.4.10.apk",
+    "apk": "tachiyomi-en.mangabat-v1.4.12.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
         "name": "Mangabat",
         "lang": "en",
         "id": "4215511432986138970",
-        "baseUrl": "https://h.mangabat.com"
+        "baseUrl": "https://www.mangabats.com"
       }
     ]
   },
@@ -11073,29 +11073,12 @@
     ]
   },
   {
-    "name": "Tachiyomi: Mangairo",
-    "pkg": "eu.kanade.tachiyomi.extension.en.mangairo",
-    "apk": "tachiyomi-en.mangairo-v1.4.9.apk",
-    "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Mangairo",
-        "lang": "en",
-        "id": "9118542777271785908",
-        "baseUrl": "https://h.mangairo.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-    "apk": "tachiyomi-en.mangakakalot-v1.4.9.apk",
+    "apk": "tachiyomi-en.mangakakalot-v1.4.11.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
@@ -11262,10 +11245,10 @@
   {
     "name": "Tachiyomi: Manganato",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganelo",
-    "apk": "tachiyomi-en.manganelo-v1.4.8.apk",
+    "apk": "tachiyomi-en.manganelo-v1.4.10.apk",
     "lang": "en",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 10,
+    "version": "1.4.10",
     "nsfw": 1,
     "sources": [
       {
@@ -13721,23 +13704,6 @@
         "lang": "en",
         "id": "6230932661862006642",
         "baseUrl": "https://reaperscans.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Reaper Scans (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscansunoriginal",
-    "apk": "tachiyomi-en.reaperscansunoriginal-v1.4.33.apk",
-    "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans (unoriginal)",
-        "lang": "en",
-        "id": "8024101637612410772",
-        "baseUrl": "https://reaper-scans.com"
       }
     ]
   },
@@ -16861,17 +16827,17 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.38.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.39.apk",
     "lang": "es",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "sources": [
       {
         "name": "Temple Scan",
         "lang": "es",
         "id": "2192798608624726013",
-        "baseUrl": "https://templescanesp.net"
+        "baseUrl": "https://templescanesp.caserosvive.com.ar"
       }
     ]
   },
@@ -19172,7 +19138,7 @@
         "name": "Shinigami",
         "lang": "id",
         "id": "3411809758861089969",
-        "baseUrl": "https://shinigami09.com"
+        "baseUrl": "https://app.shinigami.asia"
       }
     ]
   },
@@ -22921,17 +22887,17 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.42.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
         "name": "Yugen Mangás",
         "lang": "pt-BR",
-        "id": "8900485893586998299",
-        "baseUrl": "https://yugenmangasbr.voblog.xyz"
+        "id": "6397779552798039942",
+        "baseUrl": "https://yugenmangasbr.readmis.com"
       }
     ]
   },

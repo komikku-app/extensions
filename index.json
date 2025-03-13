@@ -15822,19 +15822,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Visor Inari",
+    "name": "Tachiyomi: Inari Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.inarimanga",
-    "apk": "tachiyomi-es.inarimanga-v1.4.50.apk",
+    "apk": "tachiyomi-es.inarimanga-v1.4.51.apk",
     "lang": "es",
-    "code": 50,
-    "version": "1.4.50",
+    "code": 51,
+    "version": "1.4.51",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Visor Inari",
+        "name": "Inari Manga",
         "lang": "es",
         "id": "8115430002084356109",
-        "baseUrl": "https://inarimanga.yevadu.com"
+        "baseUrl": "https://clubinari.org"
       }
     ]
   },
@@ -16521,17 +16521,17 @@
   {
     "name": "Tachiyomi: Olympus Scanlation",
     "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.14.apk",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.15.apk",
     "lang": "es",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 0,
     "sources": [
       {
         "name": "Olympus Scanlation",
         "lang": "es",
         "id": "1163124599525658616",
-        "baseUrl": "https://olympuslectura.com"
+        "baseUrl": "https://olympusbiblioteca.com"
       }
     ]
   },
@@ -22830,23 +22830,6 @@
         "lang": "pt-BR",
         "id": "2490962516027621137",
         "baseUrl": "https://3xyaoi.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: YANP Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.yanpfansub",
-    "apk": "tachiyomi-pt.yanpfansub-v1.4.42.apk",
-    "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "YANP Fansub",
-        "lang": "pt-BR",
-        "id": "8335208030904500923",
-        "baseUrl": "https://trisalyanp.com"
       }
     ]
   },

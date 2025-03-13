@@ -19128,10 +19128,10 @@
   {
     "name": "Tachiyomi: Shinigami",
     "pkg": "eu.kanade.tachiyomi.extension.id.shinigami",
-    "apk": "tachiyomi-id.shinigami-v1.4.71.apk",
+    "apk": "tachiyomi-id.shinigami-v1.4.72.apk",
     "lang": "id",
-    "code": 71,
-    "version": "1.4.71",
+    "code": 72,
+    "version": "1.4.72",
     "nsfw": 0,
     "sources": [
       {
@@ -20607,19 +20607,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf377.com"
+        "baseUrl": "https://wfwf378.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf377.com"
+        "baseUrl": "https://wfwf378.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf377.com"
+        "baseUrl": "https://wfwf378.com"
       }
     ]
   },

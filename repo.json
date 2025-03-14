@@ -1,8 +1,8 @@
 {
   "meta": {
-    "name": "Komikku Official",
-    "shortName": "Komikku",
-    "website": "https://komikku-repo.github.io",
+    "name": "Tachiyomi Repo",
+    "shortName": "TachiRepo",
+    "website": "https://tachiyomi-repo.github.io",
     "signingKeyFingerprint": "cbec121aa82ebb02aaa73806992e0368a97d47b5451ed6524816d03084c45905"
   }
 }

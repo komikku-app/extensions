@@ -10338,10 +10338,10 @@
   {
     "name": "Tachiyomi: Lily Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.lilymanga",
-    "apk": "tachiyomi-en.lilymanga-v1.4.44.apk",
+    "apk": "tachiyomi-en.lilymanga-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
@@ -14577,10 +14577,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.12.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -18646,17 +18646,17 @@
   {
     "name": "Tachiyomi: Ota Scans",
     "pkg": "eu.kanade.tachiyomi.extension.id.otascans",
-    "apk": "tachiyomi-id.otascans-v1.4.30.apk",
+    "apk": "tachiyomi-id.otascans-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Ota Scans",
         "lang": "id",
         "id": "2170345400165397182",
-        "baseUrl": "https://yurilab.my.id"
+        "baseUrl": "https://yurilabs.my.id"
       }
     ]
   },
@@ -20227,19 +20227,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf378.com"
+        "baseUrl": "https://wfwf381.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf378.com"
+        "baseUrl": "https://wfwf381.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf378.com"
+        "baseUrl": "https://wfwf381.com"
       }
     ]
   },
@@ -22167,10 +22167,10 @@
   {
     "name": "Tachiyomi: Taiyō",
     "pkg": "eu.kanade.tachiyomi.extension.pt.taiyo",
-    "apk": "tachiyomi-pt.taiyo-v1.4.6.apk",
+    "apk": "tachiyomi-pt.taiyo-v1.4.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {

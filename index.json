@@ -8115,10 +8115,10 @@
   {
     "name": "Tachiyomi: Vortex Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvenscans",
-    "apk": "tachiyomi-en.arvenscans-v1.4.44.apk",
+    "apk": "tachiyomi-en.arvenscans-v1.4.45.apk",
     "lang": "en",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
@@ -8955,6 +8955,23 @@
         "lang": "en",
         "id": "7229505035165953281",
         "baseUrl": "https://eggporncomics.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: El Goonish Shive",
+    "pkg": "eu.kanade.tachiyomi.extension.en.egscomics",
+    "apk": "tachiyomi-en.egscomics-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "El Goonish Shive",
+        "lang": "en",
+        "id": "6631281276194159210",
+        "baseUrl": "https://www.egscomics.com"
       }
     ]
   },
@@ -25482,17 +25499,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.15.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv.pro"
+        "baseUrl": "https://www.toptruyentv2.pro"
       }
     ]
   },

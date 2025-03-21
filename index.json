@@ -7518,6 +7518,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Mangax Core",
+    "pkg": "eu.kanade.tachiyomi.extension.ar.mangaxcore",
+    "apk": "tachiyomi-ar.mangaxcore-v1.4.41.apk",
+    "lang": "ar",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Mangax Core",
+        "lang": "ar",
+        "id": "9042359004298978629",
+        "baseUrl": "https://mangaxcore.xyz"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manhatic",
     "pkg": "eu.kanade.tachiyomi.extension.ar.manhatic",
     "apk": "tachiyomi-ar.manhatic-v1.4.41.apk",
@@ -15153,6 +15170,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Clan Marcial",
+    "pkg": "eu.kanade.tachiyomi.extension.es.clanmarcial",
+    "apk": "tachiyomi-es.clanmarcial-v1.4.41.apk",
+    "lang": "es",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Clan Marcial",
+        "lang": "es",
+        "id": "5071456324441013768",
+        "baseUrl": "https://clanmarcial.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Coco Rip",
     "pkg": "eu.kanade.tachiyomi.extension.es.cocorip",
     "apk": "tachiyomi-es.cocorip-v1.4.41.apk",
@@ -15935,6 +15969,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Manga Romance",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangaromance",
+    "apk": "tachiyomi-es.mangaromance-v1.4.41.apk",
+    "lang": "es",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Manga Romance",
+        "lang": "es",
+        "id": "3857421120061111113",
+        "baseUrl": "https://mangaromance19.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Manga Mukai",
     "pkg": "eu.kanade.tachiyomi.extension.es.mangashiina",
     "apk": "tachiyomi-es.mangashiina-v1.4.31.apk",
@@ -15982,6 +16033,23 @@
         "lang": "es",
         "id": "829053423099062956",
         "baseUrl": "https://mangasnosekai.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga TV",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangatv",
+    "apk": "tachiyomi-es.mangatv-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Manga  TV",
+        "lang": "es",
+        "id": "7214040353404261084",
+        "baseUrl": "https://www.mangatv.net"
       }
     ]
   },
@@ -16326,6 +16394,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: RofanToon",
+    "pkg": "eu.kanade.tachiyomi.extension.es.rofantoon",
+    "apk": "tachiyomi-es.rofantoon-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Rofan Toon",
+        "lang": "es",
+        "id": "4210626649069560924",
+        "baseUrl": "https://rofantoon.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: RyujinManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.ryujinmanga",
     "apk": "tachiyomi-es.ryujinmanga-v1.4.30.apk",
@@ -16645,6 +16730,23 @@
         "lang": "es",
         "id": "4349338377187141550",
         "baseUrl": "https://traduccionesmoonlight.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Tres Daos Net",
+    "pkg": "eu.kanade.tachiyomi.extension.es.tresdaosnet",
+    "apk": "tachiyomi-es.tresdaosnet-v1.4.41.apk",
+    "lang": "es",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Tres Daos Net",
+        "lang": "es",
+        "id": "1055306280886198003",
+        "baseUrl": "https://tresdaos.net"
       }
     ]
   },
@@ -17909,6 +18011,23 @@
         "lang": "id",
         "id": "972717448578983812",
         "baseUrl": "https://komikcast02.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Komik Dewasa",
+    "pkg": "eu.kanade.tachiyomi.extension.id.komikdewasa",
+    "apk": "tachiyomi-id.komikdewasa-v1.4.30.apk",
+    "lang": "id",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Komik Dewasak",
+        "lang": "id",
+        "id": "8753851309776247979",
+        "baseUrl": "https://komikdewasa.mom"
       }
     ]
   },
@@ -23525,6 +23644,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Speed Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.speedmanga",
+    "apk": "tachiyomi-th.speedmanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Speed Manga",
+        "lang": "th",
+        "id": "3338047643419578004",
+        "baseUrl": "https://speed-manga.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Tanuki-Manga",
     "pkg": "eu.kanade.tachiyomi.extension.th.tanukimanga",
     "apk": "tachiyomi-th.tanukimanga-v1.4.30.apk",
@@ -24252,6 +24388,23 @@
         "lang": "tr",
         "id": "7849775810188829100",
         "baseUrl": "https://mangakoleji.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Manga Oku",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.mangaoku",
+    "apk": "tachiyomi-tr.mangaoku-v1.4.30.apk",
+    "lang": "tr",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Manga Oku",
+        "lang": "tr",
+        "id": "2335050007830485750",
+        "baseUrl": "https://mangaoku.org.tr"
       }
     ]
   },
@@ -25136,6 +25289,23 @@
         "lang": "tr",
         "id": "4161874521076039470",
         "baseUrl": "https://yaoimangaoku.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yetiskin Ruya Manga",
+    "pkg": "eu.kanade.tachiyomi.extension.tr.yetiskinruyamanga",
+    "apk": "tachiyomi-tr.yetiskinruyamanga-v1.4.41.apk",
+    "lang": "tr",
+    "code": 41,
+    "version": "1.4.41",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Yetiskin Ruya Manga",
+        "lang": "tr",
+        "id": "8049301418967255774",
+        "baseUrl": "https://www.yetiskinruyamanga.com"
       }
     ]
   },

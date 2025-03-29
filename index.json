@@ -3160,10 +3160,10 @@
   {
     "name": "Tachiyomi: SchaleNetwork",
     "pkg": "eu.kanade.tachiyomi.extension.all.koharu",
-    "apk": "tachiyomi-all.koharu-v1.4.14.apk",
+    "apk": "tachiyomi-all.koharu-v1.4.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "1.4.14",
+    "code": 15,
+    "version": "1.4.15",
     "nsfw": 1,
     "sources": [
       {
@@ -8115,17 +8115,17 @@
   {
     "name": "Tachiyomi: Arven Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.arvencomics",
-    "apk": "tachiyomi-en.arvencomics-v1.4.41.apk",
+    "apk": "tachiyomi-en.arvencomics-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 0,
     "sources": [
       {
         "name": "Arven Scans",
         "lang": "en",
         "id": "640484333556017983",
-        "baseUrl": "https://arvencomic.net"
+        "baseUrl": "https://arvencomics.com"
       }
     ]
   },
@@ -25040,17 +25040,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.12.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui3.pro"
+        "baseUrl": "https://doctruyen3qui5.pro"
       }
     ]
   },
@@ -25295,17 +25295,17 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.21.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.22.apk",
     "lang": "vi",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung3.shop"
+        "baseUrl": "https://teamlanhlung5.shop"
       }
     ]
   },

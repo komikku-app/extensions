@@ -6126,6 +6126,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: PornPics",
+    "pkg": "eu.kanade.tachiyomi.extension.all.pornpics",
+    "apk": "tachiyomi-all.pornpics-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "PornPics",
+        "lang": "all",
+        "id": "1459635082044256286",
+        "baseUrl": "https://www.pornpics.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Project Suki",
     "pkg": "eu.kanade.tachiyomi.extension.all.projectsuki",
     "apk": "tachiyomi-all.projectsuki-v1.4.5.apk",
@@ -8268,10 +8285,10 @@
   {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
-    "apk": "tachiyomi-en.asurascans-v1.4.46.apk",
+    "apk": "tachiyomi-en.asurascans-v1.4.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -25312,10 +25329,10 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.57.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.58.apk",
     "lang": "vi",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -25346,34 +25363,34 @@
   {
     "name": "Tachiyomi: LXManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.lxhentai",
-    "apk": "tachiyomi-vi.lxhentai-v1.4.17.apk",
+    "apk": "tachiyomi-vi.lxhentai-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
         "name": "LXManga",
         "lang": "vi",
         "id": "6495630445796108150",
-        "baseUrl": "https://lxmanga.art"
+        "baseUrl": "https://lxmanga.sbs"
       }
     ]
   },
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.4.12.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 0,
     "sources": [
       {
         "name": "ManhuaRock",
         "lang": "vi",
         "id": "5818973680777851987",
-        "baseUrl": "https://manhuarock2.com"
+        "baseUrl": "https://manhuarock1.site"
       }
     ]
   },
@@ -25499,17 +25516,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.16.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.17.apk",
     "lang": "vi",
-    "code": 16,
-    "version": "1.4.16",
+    "code": 17,
+    "version": "1.4.17",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv2.pro"
+        "baseUrl": "https://www.toptruyentv3.pro"
       }
     ]
   },
@@ -25601,17 +25618,17 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.55.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.56.apk",
     "lang": "vi",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 56,
+    "version": "1.4.56",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.tech"
+        "baseUrl": "https://truyenvn.ac"
       }
     ]
   },

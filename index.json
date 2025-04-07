@@ -8965,46 +8965,40 @@
   {
     "name": "Tachiyomi: Dynasty",
     "pkg": "eu.kanade.tachiyomi.extension.en.dynasty",
-    "apk": "tachiyomi-en.dynasty-v1.4.25.apk",
+    "apk": "tachiyomi-en.dynasty-v1.4.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "1.4.25",
-    "nsfw": 0,
+    "code": 26,
+    "version": "1.4.26",
+    "nsfw": 1,
     "sources": [
       {
-        "name": "Dynasty-Anthologies",
-        "lang": "en",
-        "id": "738706855355689486",
-        "baseUrl": "https://dynasty-scans.com"
-      },
-      {
-        "name": "Dynasty-Chapters",
-        "lang": "en",
-        "id": "4399127807078496448",
-        "baseUrl": "https://dynasty-scans.com"
-      },
-      {
-        "name": "Dynasty-Doujins",
-        "lang": "en",
-        "id": "6243685045159195166",
-        "baseUrl": "https://dynasty-scans.com"
-      },
-      {
-        "name": "Dynasty-Issues",
-        "lang": "en",
-        "id": "2548005429321146934",
-        "baseUrl": "https://dynasty-scans.com"
-      },
-      {
-        "name": "Dynasty-Series",
+        "name": "Dynasty Scans",
         "lang": "en",
         "id": "669095474988166464",
         "baseUrl": "https://dynasty-scans.com"
       },
       {
-        "name": "Dynasty-Scanlator",
+        "name": "Dynasty-Anthologies (Deprecated)",
         "lang": "en",
-        "id": "119105249619368600",
+        "id": "738706855355689486",
+        "baseUrl": "https://dynasty-scans.com"
+      },
+      {
+        "name": "Dynasty-Chapters (Deprecated)",
+        "lang": "en",
+        "id": "4399127807078496448",
+        "baseUrl": "https://dynasty-scans.com"
+      },
+      {
+        "name": "Dynasty-Doujins (Deprecated)",
+        "lang": "en",
+        "id": "6243685045159195166",
+        "baseUrl": "https://dynasty-scans.com"
+      },
+      {
+        "name": "Dynasty-Issues (Deprecated)",
+        "lang": "en",
+        "id": "2548005429321146934",
         "baseUrl": "https://dynasty-scans.com"
       }
     ]
@@ -25567,10 +25561,10 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.17.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {

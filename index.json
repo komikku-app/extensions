@@ -1524,10 +1524,10 @@
   {
     "name": "Tachiyomi: DeviantArt",
     "pkg": "eu.kanade.tachiyomi.extension.all.deviantart",
-    "apk": "tachiyomi-all.deviantart-v1.4.8.apk",
+    "apk": "tachiyomi-all.deviantart-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -2774,10 +2774,10 @@
   {
     "name": "Tachiyomi: Hitomi",
     "pkg": "eu.kanade.tachiyomi.extension.all.hitomi",
-    "apk": "tachiyomi-all.hitomi-v1.4.38.apk",
+    "apk": "tachiyomi-all.hitomi-v1.4.39.apk",
     "lang": "all",
-    "code": 38,
-    "version": "1.4.38",
+    "code": 39,
+    "version": "1.4.39",
     "nsfw": 1,
     "sources": [
       {
@@ -20272,19 +20272,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf383.com"
+        "baseUrl": "https://wfwf384.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf383.com"
+        "baseUrl": "https://wfwf384.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf383.com"
+        "baseUrl": "https://wfwf384.com"
       }
     ]
   },

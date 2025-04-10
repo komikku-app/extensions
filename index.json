@@ -15047,17 +15047,17 @@
   {
     "name": "Tachiyomi: BarManga",
     "pkg": "eu.kanade.tachiyomi.extension.es.barmanga",
-    "apk": "tachiyomi-es.barmanga-v1.4.43.apk",
+    "apk": "tachiyomi-es.barmanga-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 0,
     "sources": [
       {
         "name": "BarManga",
         "lang": "es",
         "id": "404674447362480247",
-        "baseUrl": "https://barmanga.com"
+        "baseUrl": "https://archiviumbar.com"
       }
     ]
   },
@@ -25238,17 +25238,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.13.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui5.pro"
+        "baseUrl": "https://doctruyen3qui6.pro"
       }
     ]
   },
@@ -25510,17 +25510,17 @@
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.17.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.18.apk",
     "lang": "vi",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv3.pro"
+        "baseUrl": "https://www.toptruyentv5.pro"
       }
     ]
   },

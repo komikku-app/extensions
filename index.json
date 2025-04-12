@@ -1444,10 +1444,10 @@
   {
     "name": "Tachiyomi: Coomer",
     "pkg": "eu.kanade.tachiyomi.extension.all.coomer",
-    "apk": "tachiyomi-all.coomer-v1.4.20.apk",
+    "apk": "tachiyomi-all.coomer-v1.4.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
@@ -3143,10 +3143,10 @@
   {
     "name": "Tachiyomi: Kemono",
     "pkg": "eu.kanade.tachiyomi.extension.all.kemono",
-    "apk": "tachiyomi-all.kemono-v1.4.20.apk",
+    "apk": "tachiyomi-all.kemono-v1.4.21.apk",
     "lang": "all",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
@@ -8421,10 +8421,10 @@
   {
     "name": "Tachiyomi: BatCave",
     "pkg": "eu.kanade.tachiyomi.extension.en.batcave",
-    "apk": "tachiyomi-en.batcave-v1.4.2.apk",
+    "apk": "tachiyomi-en.batcave-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 0,
     "sources": [
       {
@@ -13273,10 +13273,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.29.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.30.apk",
     "lang": "en",
-    "code": 29,
-    "version": "1.4.29",
+    "code": 30,
+    "version": "1.4.30",
     "nsfw": 0,
     "sources": [
       {
@@ -15812,16 +15812,16 @@
   {
     "name": "Tachiyomi: LectorJPG",
     "pkg": "eu.kanade.tachiyomi.extension.es.lectorjpg",
-    "apk": "tachiyomi-es.lectorjpg-v1.4.4.apk",
+    "apk": "tachiyomi-es.lectorjpg-v1.4.42.apk",
     "lang": "es",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "sources": [
       {
         "name": "LectorJPG",
         "lang": "es",
-        "id": "4221765424821370139",
+        "id": "1550293439110493554",
         "baseUrl": "https://lectorjpg.com"
       }
     ]
@@ -25680,17 +25680,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.8.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen45.com"
+        "baseUrl": "https://vlogtruyen48.com"
       }
     ]
   },

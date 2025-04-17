@@ -1031,10 +1031,10 @@
   {
     "name": "Tachiyomi: Comick",
     "pkg": "eu.kanade.tachiyomi.extension.all.comickfun",
-    "apk": "tachiyomi-all.comickfun-v1.4.56.apk",
+    "apk": "tachiyomi-all.comickfun-v1.4.57.apk",
     "lang": "all",
-    "code": 56,
-    "version": "1.4.56",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 1,
     "sources": [
       {
@@ -4076,10 +4076,10 @@
   {
     "name": "Tachiyomi: MangaPark",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangapark",
-    "apk": "tachiyomi-all.mangapark-v1.4.21.apk",
+    "apk": "tachiyomi-all.mangapark-v1.4.22.apk",
     "lang": "all",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 1,
     "sources": [
       {
@@ -8302,23 +8302,6 @@
         "lang": "en",
         "id": "6247824327199706550",
         "baseUrl": "https://asuracomic.net"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Asura Scans Free (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.asurascansfree",
-    "apk": "tachiyomi-en.asurascansfree-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Asura Scans Free (unoriginal)",
-        "lang": "en",
-        "id": "3842947230834660862",
-        "baseUrl": "https://asurascansfree.com"
       }
     ]
   },
@@ -13279,10 +13262,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.31.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "1.4.31",
+    "code": 32,
+    "version": "1.4.32",
     "nsfw": 0,
     "sources": [
       {
@@ -15693,23 +15676,6 @@
         "lang": "es",
         "id": "6963106975536326424",
         "baseUrl": "https://inmanga.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Inmoral No Fansub",
-    "pkg": "eu.kanade.tachiyomi.extension.es.inmoralnofansub",
-    "apk": "tachiyomi-es.inmoralnofansub-v1.4.42.apk",
-    "lang": "es",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Inmoral No Fansub",
-        "lang": "es",
-        "id": "8208158742361191627",
-        "baseUrl": "https://inmoralnofansub.xyz"
       }
     ]
   },
@@ -20295,19 +20261,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf384.com"
+        "baseUrl": "https://wfwf385.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf384.com"
+        "baseUrl": "https://wfwf385.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf384.com"
+        "baseUrl": "https://wfwf385.com"
       }
     ]
   },
@@ -25714,23 +25680,6 @@
         "lang": "vi",
         "id": "1922561574226594511",
         "baseUrl": "https://google.xxmanhwa2.top"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: YuriNeko",
-    "pkg": "eu.kanade.tachiyomi.extension.vi.yurineko",
-    "apk": "tachiyomi-vi.yurineko-v1.4.8.apk",
-    "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "YuriNeko",
-        "lang": "vi",
-        "id": "4413681066613655890",
-        "baseUrl": "https://yurineko.site"
       }
     ]
   },

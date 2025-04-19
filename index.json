@@ -7014,6 +7014,47 @@
     ]
   },
   {
+    "name": "Tachiyomi: YellowNote",
+    "pkg": "eu.kanade.tachiyomi.extension.all.yellownote",
+    "apk": "tachiyomi-all.yellownote-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "小黄书",
+        "lang": "en",
+        "id": "6844007153169388830",
+        "baseUrl": "https://en.xchina.co"
+      },
+      {
+        "name": "小黄书",
+        "lang": "es",
+        "id": "385228898502560286",
+        "baseUrl": "https://es.xchina.co"
+      },
+      {
+        "name": "小黄书",
+        "lang": "ko",
+        "id": "7263133157381353850",
+        "baseUrl": "https://kr.xchina.co"
+      },
+      {
+        "name": "小黄书",
+        "lang": "zh-Hans",
+        "id": "170542391855030753",
+        "baseUrl": "https://xchina.co"
+      },
+      {
+        "name": "小黄书",
+        "lang": "zh-Hant",
+        "id": "4899554363948814001",
+        "baseUrl": "https://tw.xchina.co"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Arabs Doujin",
     "pkg": "eu.kanade.tachiyomi.extension.ar.arabsdoujin",
     "apk": "tachiyomi-ar.arabsdoujin-v1.4.10.apk",
@@ -13262,10 +13303,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.32.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -19088,10 +19129,10 @@
   {
     "name": "Tachiyomi: Mangaworld",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworld",
-    "apk": "tachiyomi-it.mangaworld-v1.4.10.apk",
+    "apk": "tachiyomi-it.mangaworld-v1.4.11.apk",
     "lang": "it",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
@@ -19105,10 +19146,10 @@
   {
     "name": "Tachiyomi: MangaworldAdult",
     "pkg": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
-    "apk": "tachiyomi-it.mangaworldadult-v1.4.4.apk",
+    "apk": "tachiyomi-it.mangaworldadult-v1.4.5.apk",
     "lang": "it",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {

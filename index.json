@@ -3126,17 +3126,17 @@
   {
     "name": "Tachiyomi: KDT Scans",
     "pkg": "eu.kanade.tachiyomi.extension.all.kdtscans",
-    "apk": "tachiyomi-all.kdtscans-v1.4.43.apk",
+    "apk": "tachiyomi-all.kdtscans-v1.4.44.apk",
     "lang": "all",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
         "name": "KDT Scans",
         "lang": "all",
         "id": "5253252278559475443",
-        "baseUrl": "https://kdt.akan01.com"
+        "baseUrl": "https://kdtscans.com"
       }
     ]
   },
@@ -14357,10 +14357,10 @@
   {
     "name": "Tachiyomi: Toonily",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonily",
-    "apk": "tachiyomi-en.toonily-v1.4.54.apk",
+    "apk": "tachiyomi-en.toonily-v1.4.55.apk",
     "lang": "en",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -22616,11 +22616,11 @@
   {
     "name": "Tachiyomi: MangaBuff",
     "pkg": "eu.kanade.tachiyomi.extension.ru.mangabuff",
-    "apk": "tachiyomi-ru.mangabuff-v1.4.1.apk",
+    "apk": "tachiyomi-ru.mangabuff-v1.4.2.apk",
     "lang": "ru",
-    "code": 1,
-    "version": "1.4.1",
-    "nsfw": 0,
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
     "sources": [
       {
         "name": "MangaBuff",
@@ -24214,17 +24214,17 @@
   {
     "name": "Tachiyomi: MangaGezgini",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangagezgini",
-    "apk": "tachiyomi-tr.mangagezgini-v1.4.48.apk",
+    "apk": "tachiyomi-tr.mangagezgini-v1.4.49.apk",
     "lang": "tr",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaGezgini",
         "lang": "tr",
         "id": "6502558540101660304",
-        "baseUrl": "https://mangagezgini.site"
+        "baseUrl": "https://mangagezginim.com"
       }
     ]
   },
@@ -24435,17 +24435,17 @@
   {
     "name": "Tachiyomi: MangaTR.net",
     "pkg": "eu.kanade.tachiyomi.extension.tr.mangatrnet",
-    "apk": "tachiyomi-tr.mangatrnet-v1.4.42.apk",
+    "apk": "tachiyomi-tr.mangatrnet-v1.4.43.apk",
     "lang": "tr",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 0,
     "sources": [
       {
         "name": "MangaTR.net",
         "lang": "tr",
         "id": "5931997681871831803",
-        "baseUrl": "https://mangatr.net"
+        "baseUrl": "https://mangatr.app"
       }
     ]
   },
@@ -24894,17 +24894,17 @@
   {
     "name": "Tachiyomi: Gri Melek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
-    "apk": "tachiyomi-tr.siyahmelek-v1.4.54.apk",
+    "apk": "tachiyomi-tr.siyahmelek-v1.4.55.apk",
     "lang": "tr",
-    "code": 54,
-    "version": "1.4.54",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
         "name": "Gri Melek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://grimelek.online"
+        "baseUrl": "https://siyahmelek.org"
       }
     ]
   },
@@ -24979,17 +24979,17 @@
   {
     "name": "Tachiyomi: Time Naight",
     "pkg": "eu.kanade.tachiyomi.extension.tr.timenaight",
-    "apk": "tachiyomi-tr.timenaight-v1.4.42.apk",
+    "apk": "tachiyomi-tr.timenaight-v1.4.43.apk",
     "lang": "tr",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
         "name": "Time Naight",
         "lang": "tr",
         "id": "4617867168429348469",
-        "baseUrl": "https://timenaight.com"
+        "baseUrl": "https://timenaight.org"
       }
     ]
   },
@@ -25557,17 +25557,17 @@
   {
     "name": "Tachiyomi: TruyenGG",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyengg",
-    "apk": "tachiyomi-vi.truyengg-v1.4.5.apk",
+    "apk": "tachiyomi-vi.truyengg-v1.4.6.apk",
     "lang": "vi",
-    "code": 5,
-    "version": "1.4.5",
+    "code": 6,
+    "version": "1.4.6",
     "nsfw": 0,
     "sources": [
       {
         "name": "TruyenGG",
         "lang": "vi",
         "id": "1458993267006200127",
-        "baseUrl": "https://truyengg.com"
+        "baseUrl": "https://truyengg.net"
       }
     ]
   },
@@ -25591,17 +25591,17 @@
   {
     "name": "Tachiyomi: TruyenQQ",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqq",
-    "apk": "tachiyomi-vi.truyenqq-v1.4.18.apk",
+    "apk": "tachiyomi-vi.truyenqq-v1.4.19.apk",
     "lang": "vi",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 0,
     "sources": [
       {
         "name": "TruyenQQ",
         "lang": "vi",
         "id": "2553532324170433933",
-        "baseUrl": "https://truyenqqto.com"
+        "baseUrl": "https://truyenqqgo.com"
       }
     ]
   },
@@ -26050,10 +26050,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.47.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.48.apk",
     "lang": "zh",
-    "code": 47,
-    "version": "1.4.47",
+    "code": 48,
+    "version": "1.4.48",
     "nsfw": 1,
     "sources": [
       {

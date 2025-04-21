@@ -6651,10 +6651,10 @@
   {
     "name": "Tachiyomi: Webtoons.com",
     "pkg": "eu.kanade.tachiyomi.extension.all.webtoons",
-    "apk": "tachiyomi-all.webtoons-v1.4.44.apk",
+    "apk": "tachiyomi-all.webtoons-v1.4.45.apk",
     "lang": "all",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
@@ -14204,17 +14204,17 @@
   {
     "name": "Tachiyomi: TCB Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.tcbscans",
-    "apk": "tachiyomi-en.tcbscans-v1.4.10.apk",
+    "apk": "tachiyomi-en.tcbscans-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {
         "name": "TCB Scans",
         "lang": "en",
         "id": "1435116756378369709",
-        "baseUrl": "https://tcbscans.me"
+        "baseUrl": "https://tcbonepiecechapters.com"
       }
     ]
   },

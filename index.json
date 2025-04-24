@@ -8638,10 +8638,10 @@
   {
     "name": "Tachiyomi: ComicHubFree",
     "pkg": "eu.kanade.tachiyomi.extension.en.comichubfree",
-    "apk": "tachiyomi-en.comichubfree-v1.4.1.apk",
+    "apk": "tachiyomi-en.comichubfree-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -10526,6 +10526,23 @@
         "lang": "en",
         "id": "2136088453725931591",
         "baseUrl": "https://madaradex.org"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Madara Scans",
+    "pkg": "eu.kanade.tachiyomi.extension.en.madarascans",
+    "apk": "tachiyomi-en.madarascans-v1.4.30.apk",
+    "lang": "en",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Madara Scans",
+        "lang": "en",
+        "id": "9025563662441338944",
+        "baseUrl": "https://madarascans.com"
       }
     ]
   },
@@ -13745,10 +13762,10 @@
   {
     "name": "Tachiyomi: Rizz Comic",
     "pkg": "eu.kanade.tachiyomi.extension.en.rizzcomic",
-    "apk": "tachiyomi-en.rizzcomic-v1.4.40.apk",
+    "apk": "tachiyomi-en.rizzcomic-v1.4.41.apk",
     "lang": "en",
-    "code": 40,
-    "version": "1.4.40",
+    "code": 41,
+    "version": "1.4.41",
     "nsfw": 0,
     "sources": [
       {
@@ -16902,10 +16919,10 @@
   {
     "name": "Tachiyomi: AnimeSama",
     "pkg": "eu.kanade.tachiyomi.extension.fr.animesama",
-    "apk": "tachiyomi-fr.animesama-v1.4.4.apk",
+    "apk": "tachiyomi-fr.animesama-v1.4.5.apk",
     "lang": "fr",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 0,
     "sources": [
       {
@@ -20302,19 +20319,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf385.com"
+        "baseUrl": "https://wfwf386.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf385.com"
+        "baseUrl": "https://wfwf386.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf385.com"
+        "baseUrl": "https://wfwf386.com"
       }
     ]
   },
@@ -26237,10 +26254,10 @@
   {
     "name": "Tachiyomi: Picacomic",
     "pkg": "eu.kanade.tachiyomi.extension.zh.picacomic",
-    "apk": "tachiyomi-zh.picacomic-v1.4.6.apk",
+    "apk": "tachiyomi-zh.picacomic-v1.4.7.apk",
     "lang": "zh",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
@@ -26271,16 +26288,16 @@
   {
     "name": "Tachiyomi: 6Manhua",
     "pkg": "eu.kanade.tachiyomi.extension.zh.sixmh",
-    "apk": "tachiyomi-zh.sixmh-v1.4.12.apk",
+    "apk": "tachiyomi-zh.sixmh-v1.4.13.apk",
     "lang": "zh",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
         "name": "六漫画",
         "lang": "zh",
-        "id": "5483710122572444235",
+        "id": "5183325399429659419",
         "baseUrl": "https://www.liumanhua.com"
       }
     ]

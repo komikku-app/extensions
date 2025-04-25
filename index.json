@@ -7822,10 +7822,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.20.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.21.apk",
     "lang": "ar",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 0,
     "sources": [
       {
@@ -9308,17 +9308,17 @@
   {
     "name": "Tachiyomi: 1st-Kiss Manga.net",
     "pkg": "eu.kanade.tachiyomi.extension.en.firstkissmanganet",
-    "apk": "tachiyomi-en.firstkissmanganet-v1.4.42.apk",
+    "apk": "tachiyomi-en.firstkissmanganet-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
         "name": "1st-Kiss Manga.net",
         "lang": "en",
         "id": "7814507107683102923",
-        "baseUrl": "https://1st-kissmanga.net"
+        "baseUrl": "https://1stkissmanga.org"
       }
     ]
   },
@@ -14635,10 +14635,10 @@
   {
     "name": "Tachiyomi: VyvyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.vyvymanga",
-    "apk": "tachiyomi-en.vyvymanga-v1.4.37.apk",
+    "apk": "tachiyomi-en.vyvymanga-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 1,
     "sources": [
       {
@@ -18976,17 +18976,17 @@
   {
     "name": "Tachiyomi: West Manga",
     "pkg": "eu.kanade.tachiyomi.extension.id.westmanga",
-    "apk": "tachiyomi-id.westmanga-v1.4.34.apk",
+    "apk": "tachiyomi-id.westmanga-v1.4.35.apk",
     "lang": "id",
-    "code": 34,
-    "version": "1.4.34",
+    "code": 35,
+    "version": "1.4.35",
     "nsfw": 1,
     "sources": [
       {
         "name": "West Manga",
         "lang": "id",
         "id": "8883916630998758688",
-        "baseUrl": "https://westmanga.fun"
+        "baseUrl": "https://westmanga.me"
       }
     ]
   },
@@ -21845,6 +21845,23 @@
         "lang": "pt-BR",
         "id": "580774737017310111",
         "baseUrl": "https://pirulitorosa.site"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Pizzaria Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.pizzariascan",
+    "apk": "tachiyomi-pt.pizzariascan-v1.4.42.apk",
+    "lang": "pt-BR",
+    "code": 42,
+    "version": "1.4.42",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Pizzaria Scan",
+        "lang": "pt-BR",
+        "id": "3359822911747375789",
+        "baseUrl": "https://pizzariascan.site"
       }
     ]
   },

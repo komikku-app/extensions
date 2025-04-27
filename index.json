@@ -1904,10 +1904,10 @@
   {
     "name": "Tachiyomi: EternalMangas",
     "pkg": "eu.kanade.tachiyomi.extension.all.eternalmangas",
-    "apk": "tachiyomi-all.eternalmangas-v1.4.6.apk",
+    "apk": "tachiyomi-all.eternalmangas-v1.4.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {
@@ -2052,6 +2052,263 @@
         "lang": "ar",
         "id": "2729515745226258240",
         "baseUrl": "https://galaxymanga.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: GlobalComix",
+    "pkg": "eu.kanade.tachiyomi.extension.all.globalcomix",
+    "apk": "tachiyomi-all.globalcomix-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "GlobalComix",
+        "lang": "al",
+        "id": "3356591153022230079",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ar",
+        "id": "1187989220698209376",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "bg",
+        "id": "6787452093863347937",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "bn",
+        "id": "1751301957307147711",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "pt-BR",
+        "id": "6857041228017945908",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "zh-Hans",
+        "id": "7151191693036508367",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "cs",
+        "id": "4590681486679254754",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "de",
+        "id": "8246492784517686839",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "dk",
+        "id": "5048347663546425663",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "el",
+        "id": "5023036788669530148",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "en",
+        "id": "1702911211040495914",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "es",
+        "id": "4898409906840499301",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "fa",
+        "id": "3091586499988578585",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "fi",
+        "id": "8293773554510083311",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "fil",
+        "id": "7193534094270200605",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "fr",
+        "id": "1331353277450289630",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "hi",
+        "id": "7833228326192857667",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "hu",
+        "id": "1139058264127464070",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "id",
+        "id": "5793414625714246782",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "it",
+        "id": "680772027911898954",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "he",
+        "id": "4966216283610323571",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ja",
+        "id": "5239712539549115551",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ko",
+        "id": "7082086175158655309",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "lv",
+        "id": "857003208346192351",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ms",
+        "id": "4045163592638299384",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "nl",
+        "id": "8660336682320212854",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "no",
+        "id": "1325846979854909240",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "pl",
+        "id": "9036722702118837888",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "pt",
+        "id": "1914303745574265340",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ro",
+        "id": "868801900692890109",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ru",
+        "id": "8611257855285214680",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "sv",
+        "id": "3631246013481179045",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "sk",
+        "id": "3295788255356719804",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "sl",
+        "id": "1644770244825001357",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ta",
+        "id": "5543642209942020458",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "th",
+        "id": "7868281684851943971",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "tr",
+        "id": "2641311214423625823",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "uk",
+        "id": "1335726222164693622",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "ur",
+        "id": "2272106648760140404",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "vi",
+        "id": "6987743887369255757",
+        "baseUrl": "https://globalcomix.com"
+      },
+      {
+        "name": "GlobalComix",
+        "lang": "zh-Hant",
+        "id": "3451257781273481191",
+        "baseUrl": "https://globalcomix.com"
       }
     ]
   },
@@ -7822,10 +8079,10 @@
   {
     "name": "Tachiyomi: Team X",
     "pkg": "eu.kanade.tachiyomi.extension.ar.teamx",
-    "apk": "tachiyomi-ar.teamx-v1.4.21.apk",
+    "apk": "tachiyomi-ar.teamx-v1.4.22.apk",
     "lang": "ar",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
@@ -10498,10 +10755,10 @@
   {
     "name": "Tachiyomi: Lunar Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.lunarscans",
-    "apk": "tachiyomi-en.lunarscans-v1.4.33.apk",
+    "apk": "tachiyomi-en.lunarscans-v1.4.34.apk",
     "lang": "en",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 1,
     "sources": [
       {
@@ -10940,10 +11197,10 @@
   {
     "name": "Tachiyomi: MangaFox.fun",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafoxfun",
-    "apk": "tachiyomi-en.mangafoxfun-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangafoxfun-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11110,10 +11367,10 @@
   {
     "name": "Tachiyomi: MangaHere.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahereonl",
-    "apk": "tachiyomi-en.mangahereonl-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangahereonl-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11127,10 +11384,10 @@
   {
     "name": "Tachiyomi: MangaHub",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangahubio",
-    "apk": "tachiyomi-en.mangahubio-v1.4.42.apk",
+    "apk": "tachiyomi-en.mangahubio-v1.4.43.apk",
     "lang": "en",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
@@ -11161,10 +11418,10 @@
   {
     "name": "Tachiyomi: Mangakakalot.fun",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalotfun",
-    "apk": "tachiyomi-en.mangakakalotfun-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangakakalotfun-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11297,10 +11554,10 @@
   {
     "name": "Tachiyomi: MangaNel",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganel",
-    "apk": "tachiyomi-en.manganel-v1.4.32.apk",
+    "apk": "tachiyomi-en.manganel-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11348,10 +11605,10 @@
   {
     "name": "Tachiyomi: MangaOnline.fun",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaonlinefun",
-    "apk": "tachiyomi-en.mangaonlinefun-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangaonlinefun-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11399,10 +11656,10 @@
   {
     "name": "Tachiyomi: MangaPanda.onl",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
-    "apk": "tachiyomi-en.mangapandaonl-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangapandaonl-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -11535,10 +11792,10 @@
   {
     "name": "Tachiyomi: MangaReader.site",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangareadersite",
-    "apk": "tachiyomi-en.mangareadersite-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangareadersite-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 0,
     "sources": [
       {
@@ -11688,10 +11945,10 @@
   {
     "name": "Tachiyomi: MangaToday",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatoday",
-    "apk": "tachiyomi-en.mangatoday-v1.4.32.apk",
+    "apk": "tachiyomi-en.mangatoday-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -11739,11 +11996,11 @@
   {
     "name": "Tachiyomi: Mangatown",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangatown",
-    "apk": "tachiyomi-en.mangatown-v1.4.7.apk",
+    "apk": "tachiyomi-en.mangatown-v1.4.8.apk",
     "lang": "en",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 0,
+    "code": 8,
+    "version": "1.4.8",
+    "nsfw": 1,
     "sources": [
       {
         "name": "Mangatown",
@@ -12912,10 +13169,10 @@
   {
     "name": "Tachiyomi: 1Manga.co",
     "pkg": "eu.kanade.tachiyomi.extension.en.onemangaco",
-    "apk": "tachiyomi-en.onemangaco-v1.4.32.apk",
+    "apk": "tachiyomi-en.onemangaco-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -12929,10 +13186,10 @@
   {
     "name": "Tachiyomi: OneManga.info",
     "pkg": "eu.kanade.tachiyomi.extension.en.onemangainfo",
-    "apk": "tachiyomi-en.onemangainfo-v1.4.32.apk",
+    "apk": "tachiyomi-en.onemangainfo-v1.4.33.apk",
     "lang": "en",
-    "code": 32,
-    "version": "1.4.32",
+    "code": 33,
+    "version": "1.4.33",
     "nsfw": 1,
     "sources": [
       {
@@ -14856,10 +15113,10 @@
   {
     "name": "Tachiyomi: XOXO Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.xoxocomics",
-    "apk": "tachiyomi-en.xoxocomics-v1.4.10.apk",
+    "apk": "tachiyomi-en.xoxocomics-v1.4.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {

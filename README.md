@@ -2,28 +2,28 @@
 
 | Build |Install to app |
 |-------|----------------|
-| [![CI](https://github.com/zosetsu-repo/tachiyomi-extensions/actions/workflows/build_push.yml/badge.svg)](https://github.com/zosetsu-repo/tachiyomi-extensions/actions/workflows/build_push.yml) | [![Install](https://img.shields.io/badge/Click%20here%20to%20install%20repo-gray?style=flat&labelColor=red)](https://intradeus.github.io/http-protocol-redirector/?r=tachiyomi://add-repo?url=https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/index.min.json) |
+| [![CI](https://github.com/yuzono/tachiyomi-extensions/actions/workflows/build_push.yml/badge.svg)](https://github.com/yuzono/tachiyomi-extensions/actions/workflows/build_push.yml) | [![Install](https://img.shields.io/badge/Click%20here%20to%20install%20repo-gray?style=flat&labelColor=red)](https://intradeus.github.io/http-protocol-redirector/?r=tachiyomi://add-repo?url=https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json) |
 
 ## Install
 
 Copy:
 
 ```html
-https://raw.githubusercontent.com/zosetsu-repo/tachi-repo/repo/index.min.json
+https://raw.githubusercontent.com/yuzono/manga-repo/repo/index.min.json
 ```
 
 ## Source Code
 
-https://github.com/zosetsu-repo/tachiyomi-extensions
+https://github.com/yuzono/tachiyomi-extensions
 
 ## Report issues
 
-https://github.com/zosetsu-repo/tachiyomi-extensions/issues/new/choose
+https://github.com/yuzono/tachiyomi-extensions/issues/new/choose
 
 ## Guide
 
-[Getting started](https://zosetsu-repo.github.io/docs/guides/getting-started#adding-the-extension-repo)
+[Getting started](https://yuzono.github.io/docs/guides/getting-started#adding-the-extension-repo)
 
 # Others
 
-If you're not using any of the above fork then manually download and update extensions from [the listing page](https://zosetsu-repo.github.io/extensions/)
+If you're not using any of the above fork then manually download and update extensions from [the listing page](https://yuzono.github.io/extensions/)

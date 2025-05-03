@@ -7688,17 +7688,17 @@
   {
     "name": "Tachiyomi: Manga Pro",
     "pkg": "eu.kanade.tachiyomi.extension.ar.mangapro",
-    "apk": "tachiyomi-ar.mangapro-v1.4.37.apk",
+    "apk": "tachiyomi-ar.mangapro-v1.4.38.apk",
     "lang": "ar",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
         "name": "Manga Pro",
         "lang": "ar",
         "id": "1250466030789918250",
-        "baseUrl": "https://promanga.pro"
+        "baseUrl": "https://promanga.net"
       }
     ]
   },
@@ -7943,17 +7943,17 @@
   {
     "name": "Tachiyomi: Onma",
     "pkg": "eu.kanade.tachiyomi.extension.ar.onma",
-    "apk": "tachiyomi-ar.onma-v1.4.13.apk",
+    "apk": "tachiyomi-ar.onma-v1.4.14.apk",
     "lang": "ar",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "مانجا اون لاين",
         "lang": "ar",
         "id": "335499577904379512",
-        "baseUrl": "https://onma.me"
+        "baseUrl": "https://onma.top"
       }
     ]
   },
@@ -10126,17 +10126,17 @@
   {
     "name": "Tachiyomi: Hiperdex",
     "pkg": "eu.kanade.tachiyomi.extension.en.hiperdex",
-    "apk": "tachiyomi-en.hiperdex-v1.4.59.apk",
+    "apk": "tachiyomi-en.hiperdex-v1.4.60.apk",
     "lang": "en",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
         "name": "Hiperdex",
         "lang": "en",
         "id": "3064755045370217842",
-        "baseUrl": "https://hipertoon.com"
+        "baseUrl": "https://hiperdex.com"
       }
     ]
   },
@@ -23298,17 +23298,17 @@
   {
     "name": "Tachiyomi: Cat300",
     "pkg": "eu.kanade.tachiyomi.extension.th.cat300",
-    "apk": "tachiyomi-th.cat300-v1.4.44.apk",
+    "apk": "tachiyomi-th.cat300-v1.4.45.apk",
     "lang": "th",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
         "name": "Cat300",
         "lang": "th",
         "id": "6055828959180481405",
-        "baseUrl": "https://cat300.net"
+        "baseUrl": "https://cat-300.com"
       }
     ]
   },

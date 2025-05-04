@@ -3417,10 +3417,10 @@
   {
     "name": "Tachiyomi: Kiutaku",
     "pkg": "eu.kanade.tachiyomi.extension.all.kiutaku",
-    "apk": "tachiyomi-all.kiutaku-v1.4.2.apk",
+    "apk": "tachiyomi-all.kiutaku-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -9429,10 +9429,10 @@
   {
     "name": "Tachiyomi: Erofus",
     "pkg": "eu.kanade.tachiyomi.extension.en.erofus",
-    "apk": "tachiyomi-en.erofus-v1.4.2.apk",
+    "apk": "tachiyomi-en.erofus-v1.4.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -10806,10 +10806,10 @@
   {
     "name": "Tachiyomi: Madokami",
     "pkg": "eu.kanade.tachiyomi.extension.en.madokami",
-    "apk": "tachiyomi-en.madokami-v1.4.11.apk",
+    "apk": "tachiyomi-en.madokami-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
@@ -12986,7 +12986,7 @@
     "lang": "en",
     "code": 5,
     "version": "1.4.5",
-    "nsfw": 0,
+    "nsfw": 1,
     "sources": [
       {
         "name": "NineAnime",
@@ -22890,10 +22890,10 @@
   {
     "name": "Tachiyomi: AComics",
     "pkg": "eu.kanade.tachiyomi.extension.ru.acomics",
-    "apk": "tachiyomi-ru.acomics-v1.4.6.apk",
+    "apk": "tachiyomi-ru.acomics-v1.4.7.apk",
     "lang": "ru",
-    "code": 6,
-    "version": "1.4.6",
+    "code": 7,
+    "version": "1.4.7",
     "nsfw": 1,
     "sources": [
       {

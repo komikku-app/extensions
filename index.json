@@ -1904,10 +1904,10 @@
   {
     "name": "Tachiyomi: EternalMangas",
     "pkg": "eu.kanade.tachiyomi.extension.all.eternalmangas",
-    "apk": "tachiyomi-all.eternalmangas-v1.4.8.apk",
+    "apk": "tachiyomi-all.eternalmangas-v1.4.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 1,
     "sources": [
       {
@@ -8553,23 +8553,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Astra Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.astrascans",
-    "apk": "tachiyomi-en.astrascans-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Astra Scans",
-        "lang": "en",
-        "id": "8151430323343538599",
-        "baseUrl": "https://astrascans.org"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Asura Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.asurascans",
     "apk": "tachiyomi-en.asurascans-v1.4.47.apk",
@@ -13966,23 +13949,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Reaper Scans",
-    "pkg": "eu.kanade.tachiyomi.extension.en.reaperscans",
-    "apk": "tachiyomi-en.reaperscans-v1.4.58.apk",
-    "lang": "en",
-    "code": 58,
-    "version": "1.4.58",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Reaper Scans",
-        "lang": "en",
-        "id": "6230932661862006642",
-        "baseUrl": "https://reaperscans.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
     "apk": "tachiyomi-en.resetscans-v1.4.51.apk",
@@ -14886,23 +14852,6 @@
         "lang": "en",
         "id": "2964046845727023397",
         "baseUrl": "https://www.viz.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Vortex Scans Free (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.en.vortexscansfree",
-    "apk": "tachiyomi-en.vortexscansfree-v1.4.30.apk",
-    "lang": "en",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Vortex Scans Free (unoriginal)",
-        "lang": "en",
-        "id": "9059618150769908601",
-        "baseUrl": "https://vortexscansfree.com"
       }
     ]
   },
@@ -20644,19 +20593,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf387.com"
+        "baseUrl": "https://wfwf388.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf387.com"
+        "baseUrl": "https://wfwf388.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf387.com"
+        "baseUrl": "https://wfwf388.com"
       }
     ]
   },
@@ -20878,6 +20827,23 @@
         "lang": "pt-BR",
         "id": "4457222405258030659",
         "baseUrl": "https://atemporal.cloud"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Aurora Scan",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Aurora Scan",
+        "lang": "pt-BR",
+        "id": "3121404924614598451",
+        "baseUrl": "https://aurorascan.net"
       }
     ]
   },
@@ -21734,17 +21700,17 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.44.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "Maid Scan",
         "lang": "pt-BR",
         "id": "7624757094973334315",
-        "baseUrl": "https://empreguetes.site"
+        "baseUrl": "https://novo.empreguetes.site"
       }
     ]
   },
@@ -21881,6 +21847,23 @@
         "lang": "pt-BR",
         "id": "5123733616022476906",
         "baseUrl": "https://manhastro.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mediocre Toons",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mediocre Toons",
+        "lang": "pt-BR",
+        "id": "6774658952974641159",
+        "baseUrl": "https://mediocretoons.com"
       }
     ]
   },
@@ -22533,10 +22516,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.53.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.55.apk",
     "lang": "pt-BR",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 55,
+    "version": "1.4.55",
     "nsfw": 1,
     "sources": [
       {
@@ -26256,10 +26239,10 @@
   {
     "name": "Tachiyomi: BoyLove",
     "pkg": "eu.kanade.tachiyomi.extension.zh.boylove",
-    "apk": "tachiyomi-zh.boylove-v1.4.13.apk",
+    "apk": "tachiyomi-zh.boylove-v1.4.14.apk",
     "lang": "zh",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {

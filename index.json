@@ -10942,10 +10942,10 @@
   {
     "name": "Tachiyomi: Mangabat",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabat",
-    "apk": "tachiyomi-en.mangabat-v1.4.13.apk",
+    "apk": "tachiyomi-en.mangabat-v1.4.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
@@ -11384,10 +11384,10 @@
   {
     "name": "Tachiyomi: Mangakakalot",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangakakalot",
-    "apk": "tachiyomi-en.mangakakalot-v1.4.12.apk",
+    "apk": "tachiyomi-en.mangakakalot-v1.4.13.apk",
     "lang": "en",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
@@ -11554,10 +11554,10 @@
   {
     "name": "Tachiyomi: Manganato",
     "pkg": "eu.kanade.tachiyomi.extension.en.manganelo",
-    "apk": "tachiyomi-en.manganelo-v1.4.11.apk",
+    "apk": "tachiyomi-en.manganelo-v1.4.12.apk",
     "lang": "en",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {
@@ -21819,17 +21819,17 @@
   {
     "name": "Tachiyomi: Manhastro",
     "pkg": "eu.kanade.tachiyomi.extension.pt.manhastro",
-    "apk": "tachiyomi-pt.manhastro-v1.4.48.apk",
+    "apk": "tachiyomi-pt.manhastro-v1.4.49.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {
         "name": "Manhastro",
         "lang": "pt-BR",
         "id": "5123733616022476906",
-        "baseUrl": "https://manhastro.com"
+        "baseUrl": "https://manhastro.net"
       }
     ]
   },

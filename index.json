@@ -21088,10 +21088,10 @@
   {
     "name": "Tachiyomi: Ego Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.egotoons",
-    "apk": "tachiyomi-pt.egotoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.egotoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -21660,23 +21660,6 @@
         "lang": "pt-BR",
         "id": "4886334142812146511",
         "baseUrl": "https://www.tiraninha.baby"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Lunar Scan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.lunarscan",
-    "apk": "tachiyomi-pt.lunarscan-v1.4.44.apk",
-    "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Lunar Scan",
-        "lang": "pt-BR",
-        "id": "5914813814432882097",
-        "baseUrl": "https://lunarrscan.com"
       }
     ]
   },
@@ -22329,10 +22312,10 @@
   {
     "name": "Tachiyomi: Remangas",
     "pkg": "eu.kanade.tachiyomi.extension.pt.remangas",
-    "apk": "tachiyomi-pt.remangas-v1.4.43.apk",
+    "apk": "tachiyomi-pt.remangas-v1.4.44.apk",
     "lang": "pt-BR",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
@@ -22516,10 +22499,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.55.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.57.apk",
     "lang": "pt-BR",
-    "code": 55,
-    "version": "1.4.55",
+    "code": 57,
+    "version": "1.4.57",
     "nsfw": 1,
     "sources": [
       {

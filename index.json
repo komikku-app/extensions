@@ -902,10 +902,10 @@
   {
     "name": "Tachiyomi: Buon Dua",
     "pkg": "eu.kanade.tachiyomi.extension.all.buondua",
-    "apk": "tachiyomi-all.buondua-v1.4.3.apk",
+    "apk": "tachiyomi-all.buondua-v1.4.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {

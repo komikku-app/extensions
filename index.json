@@ -5372,10 +5372,10 @@
   {
     "name": "Tachiyomi: MyReadingManga",
     "pkg": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
-    "apk": "tachiyomi-all.myreadingmanga-v1.4.57.apk",
+    "apk": "tachiyomi-all.myreadingmanga-v1.4.58.apk",
     "lang": "all",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -12846,10 +12846,10 @@
   {
     "name": "Tachiyomi: Multporn",
     "pkg": "eu.kanade.tachiyomi.extension.en.multporn",
-    "apk": "tachiyomi-en.multporn-v1.4.4.apk",
+    "apk": "tachiyomi-en.multporn-v1.4.5.apk",
     "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
+    "code": 5,
+    "version": "1.4.5",
     "nsfw": 1,
     "sources": [
       {
@@ -12948,10 +12948,10 @@
   {
     "name": "Tachiyomi: NIGHT SCANS",
     "pkg": "eu.kanade.tachiyomi.extension.en.nightscans",
-    "apk": "tachiyomi-en.nightscans-v1.4.41.apk",
+    "apk": "tachiyomi-en.nightscans-v1.4.42.apk",
     "lang": "en",
-    "code": 41,
-    "version": "1.4.41",
+    "code": 42,
+    "version": "1.4.42",
     "nsfw": 1,
     "sources": [
       {
@@ -13594,10 +13594,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.35.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.36.apk",
     "lang": "en",
-    "code": 35,
-    "version": "1.4.35",
+    "code": 36,
+    "version": "1.4.36",
     "nsfw": 0,
     "sources": [
       {
@@ -16898,17 +16898,17 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.43.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
         "name": "Temple Scan",
         "lang": "es",
         "id": "3451196845457607826",
-        "baseUrl": "https://templescanesp.kawi.lat"
+        "baseUrl": "https://templescanesp.vxviral.xyz"
       }
     ]
   },
@@ -19639,6 +19639,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: ComicTop",
+    "pkg": "eu.kanade.tachiyomi.extension.ja.comictop",
+    "apk": "tachiyomi-ja.comictop-v1.4.1.apk",
+    "lang": "ja",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ComicTop",
+        "lang": "ja",
+        "id": "3246429234791332929",
+        "baseUrl": "https://comic-top.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comiplex",
     "pkg": "eu.kanade.tachiyomi.extension.ja.comiplex",
     "apk": "tachiyomi-ja.comiplex-v1.4.6.apk",
@@ -20593,19 +20610,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf388.com"
+        "baseUrl": "https://wfwf389.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf388.com"
+        "baseUrl": "https://wfwf389.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf388.com"
+        "baseUrl": "https://wfwf389.com"
       }
     ]
   },
@@ -20833,10 +20850,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.1.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -21683,10 +21700,10 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.46.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.47.apk",
     "lang": "pt-BR",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 1,
     "sources": [
       {
@@ -21836,10 +21853,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.1.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -22499,10 +22516,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.57.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.58.apk",
     "lang": "pt-BR",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
@@ -26443,10 +26460,10 @@
   {
     "name": "Tachiyomi: Jinman Tiantang",
     "pkg": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
-    "apk": "tachiyomi-zh.jinmantiantang-v1.4.48.apk",
+    "apk": "tachiyomi-zh.jinmantiantang-v1.4.49.apk",
     "lang": "zh",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 49,
+    "version": "1.4.49",
     "nsfw": 1,
     "sources": [
       {

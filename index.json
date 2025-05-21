@@ -8332,23 +8332,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Anata no Motokare",
-    "pkg": "eu.kanade.tachiyomi.extension.en.anatanomotokare",
-    "apk": "tachiyomi-en.anatanomotokare-v1.4.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Anata no Motokare",
-        "lang": "en",
-        "id": "4598364931281498633",
-        "baseUrl": "https://motokare.xyz"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Animated Glitched Comics",
     "pkg": "eu.kanade.tachiyomi.extension.en.animatedglitchedcomics",
     "apk": "tachiyomi-en.animatedglitchedcomics-v1.4.40.apk",
@@ -13951,17 +13934,17 @@
   {
     "name": "Tachiyomi: Reset Scans",
     "pkg": "eu.kanade.tachiyomi.extension.en.resetscans",
-    "apk": "tachiyomi-en.resetscans-v1.4.51.apk",
+    "apk": "tachiyomi-en.resetscans-v1.4.52.apk",
     "lang": "en",
-    "code": 51,
-    "version": "1.4.51",
+    "code": 52,
+    "version": "1.4.52",
     "nsfw": 0,
     "sources": [
       {
         "name": "Reset Scans",
         "lang": "en",
         "id": "8358008083447218926",
-        "baseUrl": "https://reset-scans.co"
+        "baseUrl": "https://reset-scans.org"
       }
     ]
   },
@@ -16439,10 +16422,10 @@
   {
     "name": "Tachiyomi: ManhwaWeb",
     "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-    "apk": "tachiyomi-es.manhwaweb-v1.4.7.apk",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.8.apk",
     "lang": "es",
-    "code": 7,
-    "version": "1.4.7",
+    "code": 8,
+    "version": "1.4.8",
     "nsfw": 1,
     "sources": [
       {
@@ -17255,6 +17238,23 @@
         "lang": "fr",
         "id": "3121632933690925888",
         "baseUrl": "https://harmony-scan.fr"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Blue Solo",
+    "pkg": "eu.kanade.tachiyomi.extension.fr.bluesolo",
+    "apk": "tachiyomi-fr.bluesolo-v1.4.3.apk",
+    "lang": "fr",
+    "code": 3,
+    "version": "1.4.3",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Blue Solo",
+        "lang": "fr",
+        "id": "2095949455655924623",
+        "baseUrl": "https://bluesolo.org"
       }
     ]
   },
@@ -18876,17 +18876,17 @@
   {
     "name": "Tachiyomi: Monzee Komik",
     "pkg": "eu.kanade.tachiyomi.extension.id.monzeekomik",
-    "apk": "tachiyomi-id.monzeekomik-v1.4.30.apk",
+    "apk": "tachiyomi-id.monzeekomik-v1.4.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Monzee Komik",
         "lang": "id",
         "id": "6468031272052511755",
-        "baseUrl": "https://monzeekomik.my.id"
+        "baseUrl": "https://monzee01.my.id"
       }
     ]
   },
@@ -22446,23 +22446,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: SS Reading",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.ssreading",
-    "apk": "tachiyomi-pt.ssreading-v1.4.42.apk",
-    "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "SS Reading",
-        "lang": "pt-BR",
-        "id": "6282617458069414622",
-        "baseUrl": "https://ssreading.com.br"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Yomu Comics",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
     "apk": "tachiyomi-pt.sssscanlator-v1.4.37.apk",
@@ -22703,16 +22686,16 @@
   {
     "name": "Tachiyomi: Wind Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.windscan",
-    "apk": "tachiyomi-pt.windscan-v1.4.42.apk",
+    "apk": "tachiyomi-pt.windscan-v1.4.43.apk",
     "lang": "pt-BR",
-    "code": 42,
-    "version": "1.4.42",
+    "code": 43,
+    "version": "1.4.43",
     "nsfw": 1,
     "sources": [
       {
         "name": "Wind Scan",
         "lang": "pt-BR",
-        "id": "3281831928801935157",
+        "id": "7361411707034654704",
         "baseUrl": "https://windscan.xyz"
       }
     ]
@@ -22799,6 +22782,23 @@
         "lang": "pt-BR",
         "id": "3609380518472019202",
         "baseUrl": "https://www.yaoifanclub.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Yomu Mangás",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.yomumangas",
+    "apk": "tachiyomi-pt.yomumangas-v1.4.4.apk",
+    "lang": "pt-BR",
+    "code": 4,
+    "version": "1.4.4",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Yomu Mangás",
+        "lang": "pt-BR",
+        "id": "1636954121036022614",
+        "baseUrl": "https://yomumangas.com"
       }
     ]
   },
@@ -26776,7 +26776,7 @@
         "name": "zero搬运网",
         "lang": "zh",
         "id": "8743284448117690086",
-        "baseUrl": "http://www.zerobywrar.com"
+        "baseUrl": "http://www.zerobywtar.com"
       }
     ]
   }

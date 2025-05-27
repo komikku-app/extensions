@@ -6523,10 +6523,10 @@
   {
     "name": "Tachiyomi: Simply Cosplay",
     "pkg": "eu.kanade.tachiyomi.extension.all.simplycosplay",
-    "apk": "tachiyomi-all.simplycosplay-v1.4.2.apk",
+    "apk": "tachiyomi-all.simplycosplay-v1.4.3.apk",
     "lang": "all",
-    "code": 2,
-    "version": "1.4.2",
+    "code": 3,
+    "version": "1.4.3",
     "nsfw": 1,
     "sources": [
       {
@@ -10789,17 +10789,17 @@
   {
     "name": "Tachiyomi: Magus Manga",
     "pkg": "eu.kanade.tachiyomi.extension.en.magusmanga",
-    "apk": "tachiyomi-en.magusmanga-v1.4.52.apk",
+    "apk": "tachiyomi-en.magusmanga-v1.4.53.apk",
     "lang": "en",
-    "code": 52,
-    "version": "1.4.52",
+    "code": 53,
+    "version": "1.4.53",
     "nsfw": 0,
     "sources": [
       {
         "name": "Magus Manga",
         "lang": "en",
-        "id": "8637252306330424523",
-        "baseUrl": "https://magustoon.com"
+        "id": "1589747287364201069",
+        "baseUrl": "https://magustoon.org"
       }
     ]
   },
@@ -16014,17 +16014,17 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.46.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.45.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
-        "name": "JeazScans",
+        "name": "Jeaz Scans",
         "lang": "es",
         "id": "5292079548510508306",
-        "baseUrl": "https://marcialhub.xyz"
+        "baseUrl": "https://lectorhub.j5z.xyz"
       }
     ]
   },
@@ -16229,6 +16229,23 @@
         "lang": "es",
         "id": "1420213267345607410",
         "baseUrl": "https://lector.lolivault.net"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MangaClub",
+    "pkg": "eu.kanade.tachiyomi.extension.es.mangaclub",
+    "apk": "tachiyomi-es.mangaclub-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MangaClub",
+        "lang": "es",
+        "id": "6766836918158705826",
+        "baseUrl": "https://mangaclub.moe"
       }
     ]
   },
@@ -16794,6 +16811,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: 6ianfranc9",
+    "pkg": "eu.kanade.tachiyomi.extension.es.sixianfranc9",
+    "apk": "tachiyomi-es.sixianfranc9-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "6ianfranc9",
+        "lang": "es",
+        "id": "852558842404987566",
+        "baseUrl": "https://6ianfranc9.capibaratraductor.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: SkyMangas",
     "pkg": "eu.kanade.tachiyomi.extension.es.skymangas",
     "apk": "tachiyomi-es.skymangas-v1.4.31.apk",
@@ -16828,36 +16862,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Taikutsu",
-    "pkg": "eu.kanade.tachiyomi.extension.es.taikutsu",
-    "apk": "tachiyomi-es.taikutsu-v1.4.3.apk",
-    "lang": "es",
-    "code": 3,
-    "version": "1.4.3",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Taikutsu",
-        "lang": "es",
-        "id": "2272086146156858772",
-        "baseUrl": "https://taikutsutl.capibaratraductor.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Taurus Fansub",
     "pkg": "eu.kanade.tachiyomi.extension.es.taurusfansub",
-    "apk": "tachiyomi-es.taurusfansub-v1.4.46.apk",
+    "apk": "tachiyomi-es.taurusfansub-v1.4.47.apk",
     "lang": "es",
-    "code": 46,
-    "version": "1.4.46",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
         "name": "Taurus Fansub",
         "lang": "es",
         "id": "5157867187592331768",
-        "baseUrl": "https://lectortaurus.yopres.com"
+        "baseUrl": "https://lectortaurus2.yopres.com"
       }
     ]
   },
@@ -25899,17 +25916,17 @@
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.22.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.23.apk",
     "lang": "vi",
-    "code": 22,
-    "version": "1.4.22",
+    "code": 23,
+    "version": "1.4.23",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung5.shop"
+        "baseUrl": "https://teamlanhlung9.shop"
       }
     ]
   },

@@ -7213,6 +7213,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: Xiutaku",
+    "pkg": "eu.kanade.tachiyomi.extension.all.xiutaku",
+    "apk": "tachiyomi-all.xiutaku-v1.4.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Xiutaku",
+        "lang": "all",
+        "id": "6520733892888572506",
+        "baseUrl": "https://xiutaku.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: xkcd",
     "pkg": "eu.kanade.tachiyomi.extension.all.xkcd",
     "apk": "tachiyomi-all.xkcd-v1.4.13.apk",
@@ -16014,10 +16031,10 @@
   {
     "name": "Tachiyomi: Jeaz Scans",
     "pkg": "eu.kanade.tachiyomi.extension.es.jeazscans",
-    "apk": "tachiyomi-es.jeazscans-v1.4.45.apk",
+    "apk": "tachiyomi-es.jeazscans-v1.4.47.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 47,
+    "version": "1.4.47",
     "nsfw": 0,
     "sources": [
       {
@@ -23740,17 +23757,17 @@
   {
     "name": "Tachiyomi: Moodtoon",
     "pkg": "eu.kanade.tachiyomi.extension.th.moodtoon",
-    "apk": "tachiyomi-th.moodtoon-v1.4.30.apk",
+    "apk": "tachiyomi-th.moodtoon-v1.4.31.apk",
     "lang": "th",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 1,
     "sources": [
       {
         "name": "Moodtoon",
         "lang": "th",
         "id": "8560199796461456661",
-        "baseUrl": "https://moodtoon.net"
+        "baseUrl": "https://moon-toon.com"
       }
     ]
   },
@@ -23819,6 +23836,23 @@
         "lang": "th",
         "id": "2123874844305574539",
         "baseUrl": "https://www.ntr-manga.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: OneManga",
+    "pkg": "eu.kanade.tachiyomi.extension.th.onemanga",
+    "apk": "tachiyomi-th.onemanga-v1.4.30.apk",
+    "lang": "th",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "One-Manga",
+        "lang": "th",
+        "id": "2248402620929558947",
+        "baseUrl": "https://one-manga.com"
       }
     ]
   },

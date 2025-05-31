@@ -15011,10 +15011,10 @@
   {
     "name": "Tachiyomi: Weeb Central",
     "pkg": "eu.kanade.tachiyomi.extension.en.weebcentral",
-    "apk": "tachiyomi-en.weebcentral-v1.4.13.apk",
+    "apk": "tachiyomi-en.weebcentral-v1.4.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 1,
     "sources": [
       {
@@ -17669,16 +17669,16 @@
   {
     "name": "Tachiyomi: Poseidon Scans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.poseidonscans",
-    "apk": "tachiyomi-fr.poseidonscans-v1.4.42.apk",
+    "apk": "tachiyomi-fr.poseidonscans-v1.4.43.apk",
     "lang": "fr",
-    "code": 42,
-    "version": "1.4.42",
-    "nsfw": 1,
+    "code": 43,
+    "version": "1.4.43",
+    "nsfw": 0,
     "sources": [
       {
-        "name": "PoseidonScans",
+        "name": "Poseidon Scans",
         "lang": "fr",
-        "id": "636748432961596353",
+        "id": "8936307069044646761",
         "baseUrl": "https://poseidonscans.fr"
       }
     ]
@@ -21715,23 +21715,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: MahouScan",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.mahouscan",
-    "apk": "tachiyomi-pt.mahouscan-v1.4.4.apk",
-    "lang": "pt-BR",
-    "code": 4,
-    "version": "1.4.4",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "MahouScan",
-        "lang": "pt-BR",
-        "id": "7343101631368185560",
-        "baseUrl": "https://mahouscan.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
     "apk": "tachiyomi-pt.maidscan-v1.4.48.apk",
@@ -22459,23 +22442,6 @@
         "lang": "pt-BR",
         "id": "4570883624419126858",
         "baseUrl": "https://silencescan.com.br"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: SlimeRead",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.slimeread",
-    "apk": "tachiyomi-pt.slimeread-v1.4.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "1.4.19",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "SlimeRead",
-        "lang": "pt-BR",
-        "id": "8209406708962970454",
-        "baseUrl": "https://slimeread.com"
       }
     ]
   },
@@ -26305,6 +26271,23 @@
     ]
   },
   {
+    "name": "Tachiyomi: CartoonMad",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.cartoonmad",
+    "apk": "tachiyomi-zh.cartoonmad-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "動漫狂",
+        "lang": "zh",
+        "id": "6868792237587519643",
+        "baseUrl": "https://www.cartoonmad.com"
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Comicabc",
     "pkg": "eu.kanade.tachiyomi.extension.zh.comicabc",
     "apk": "tachiyomi-zh.comicabc-v1.4.2.apk",
@@ -26460,10 +26443,10 @@
   {
     "name": "Tachiyomi: Happymh",
     "pkg": "eu.kanade.tachiyomi.extension.zh.happymh",
-    "apk": "tachiyomi-zh.happymh-v1.4.17.apk",
+    "apk": "tachiyomi-zh.happymh-v1.4.18.apk",
     "lang": "zh",
-    "code": 17,
-    "version": "1.4.17",
+    "code": 18,
+    "version": "1.4.18",
     "nsfw": 0,
     "sources": [
       {
@@ -26641,6 +26624,23 @@
         "lang": "zh",
         "id": "1795888684783606321",
         "baseUrl": "https://manwa.fun"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: MyComic",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.mycomic",
+    "apk": "tachiyomi-zh.mycomic-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "MyComic",
+        "lang": "zh",
+        "id": "9119537447562549661",
+        "baseUrl": "https://mycomic.com"
       }
     ]
   },

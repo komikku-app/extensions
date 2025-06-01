@@ -13594,10 +13594,10 @@
   {
     "name": "Tachiyomi: ReadComicOnline",
     "pkg": "eu.kanade.tachiyomi.extension.en.readcomiconline",
-    "apk": "tachiyomi-en.readcomiconline-v1.4.37.apk",
+    "apk": "tachiyomi-en.readcomiconline-v1.4.38.apk",
     "lang": "en",
-    "code": 37,
-    "version": "1.4.37",
+    "code": 38,
+    "version": "1.4.38",
     "nsfw": 0,
     "sources": [
       {
@@ -14835,10 +14835,10 @@
   {
     "name": "Tachiyomi: VIZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
-    "apk": "tachiyomi-en.vizshonenjump-v1.4.21.apk",
+    "apk": "tachiyomi-en.vizshonenjump-v1.4.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "1.4.21",
+    "code": 22,
+    "version": "1.4.22",
     "nsfw": 0,
     "sources": [
       {
@@ -25678,17 +25678,17 @@
   {
     "name": "Tachiyomi: DocTruyen3Q",
     "pkg": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
-    "apk": "tachiyomi-vi.doctruyen3q-v1.4.15.apk",
+    "apk": "tachiyomi-vi.doctruyen3q-v1.4.16.apk",
     "lang": "vi",
-    "code": 15,
-    "version": "1.4.15",
+    "code": 16,
+    "version": "1.4.16",
     "nsfw": 1,
     "sources": [
       {
         "name": "DocTruyen3Q",
         "lang": "vi",
         "id": "6168143505244976507",
-        "baseUrl": "https://doctruyen3qui9.pro"
+        "baseUrl": "https://doctruyen3qui10.pro"
       }
     ]
   },
@@ -25763,34 +25763,34 @@
   {
     "name": "Tachiyomi: CBHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaicube",
-    "apk": "tachiyomi-vi.hentaicube-v1.4.60.apk",
+    "apk": "tachiyomi-vi.hentaicube-v1.4.61.apk",
     "lang": "vi",
-    "code": 60,
-    "version": "1.4.60",
+    "code": 61,
+    "version": "1.4.61",
     "nsfw": 1,
     "sources": [
       {
         "name": "CBHentai",
         "lang": "vi",
         "id": "823638192569572166",
-        "baseUrl": "https://hentaicb.pics"
+        "baseUrl": "https://hentaicb.sbs"
       }
     ]
   },
   {
     "name": "Tachiyomi: HentaiVN.plus",
     "pkg": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
-    "apk": "tachiyomi-vi.hentaivnplus-v1.4.53.apk",
+    "apk": "tachiyomi-vi.hentaivnplus-v1.4.54.apk",
     "lang": "vi",
-    "code": 53,
-    "version": "1.4.53",
+    "code": 54,
+    "version": "1.4.54",
     "nsfw": 1,
     "sources": [
       {
         "name": "HentaiVN.plus",
         "lang": "vi",
         "id": "7015430763374257867",
-        "baseUrl": "https://hentaivn.cash"
+        "baseUrl": "https://hentaivn.cx"
       }
     ]
   },
@@ -25916,51 +25916,51 @@
   {
     "name": "Tachiyomi: SayHentai",
     "pkg": "eu.kanade.tachiyomi.extension.vi.sayhentai",
-    "apk": "tachiyomi-vi.sayhentai-v1.4.12.apk",
+    "apk": "tachiyomi-vi.sayhentai-v1.4.13.apk",
     "lang": "vi",
-    "code": 12,
-    "version": "1.4.12",
+    "code": 13,
+    "version": "1.4.13",
     "nsfw": 1,
     "sources": [
       {
         "name": "SayHentai",
         "lang": "vi",
         "id": "4370817879994829481",
-        "baseUrl": "https://sayhentai.ink"
+        "baseUrl": "https://sayhentaii.me"
       }
     ]
   },
   {
     "name": "Tachiyomi: Team Lanh Lung",
     "pkg": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
-    "apk": "tachiyomi-vi.teamlanhlung-v1.4.23.apk",
+    "apk": "tachiyomi-vi.teamlanhlung-v1.4.24.apk",
     "lang": "vi",
-    "code": 23,
-    "version": "1.4.23",
+    "code": 24,
+    "version": "1.4.24",
     "nsfw": 1,
     "sources": [
       {
         "name": "Team Lạnh Lùng",
         "lang": "vi",
         "id": "1832370231745386795",
-        "baseUrl": "https://teamlanhlung9.shop"
+        "baseUrl": "https://teamlanhlung10.shop"
       }
     ]
   },
   {
     "name": "Tachiyomi: Top Truyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.toptruyen",
-    "apk": "tachiyomi-vi.toptruyen-v1.4.19.apk",
+    "apk": "tachiyomi-vi.toptruyen-v1.4.20.apk",
     "lang": "vi",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "sources": [
       {
         "name": "Top Truyen",
         "lang": "vi",
         "id": "1166901607721102706",
-        "baseUrl": "https://www.toptruyentv6.pro"
+        "baseUrl": "https://www.toptruyentv7.pro"
       }
     ]
   },
@@ -26052,17 +26052,17 @@
   {
     "name": "Tachiyomi: TruyenVN",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenvn",
-    "apk": "tachiyomi-vi.truyenvn-v1.4.57.apk",
+    "apk": "tachiyomi-vi.truyenvn-v1.4.58.apk",
     "lang": "vi",
-    "code": 57,
-    "version": "1.4.57",
+    "code": 58,
+    "version": "1.4.58",
     "nsfw": 1,
     "sources": [
       {
         "name": "TruyenVN",
         "lang": "vi",
         "id": "5758845301840022147",
-        "baseUrl": "https://truyenvn.ad"
+        "baseUrl": "https://truyenvn.shop"
       }
     ]
   },
@@ -26103,17 +26103,17 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.10.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.11.apk",
     "lang": "vi",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 1,
     "sources": [
       {
         "name": "VlogTruyen",
         "lang": "vi",
         "id": "6425642624422299254",
-        "baseUrl": "https://vlogtruyen49.com"
+        "baseUrl": "https://vlogtruyen50.com"
       }
     ]
   },
@@ -26811,6 +26811,23 @@
         "lang": "zh",
         "id": "2417676426413230210",
         "baseUrl": "https://yidan1.club"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: YYmanhua",
+    "pkg": "eu.kanade.tachiyomi.extension.zh.yymanhua",
+    "apk": "tachiyomi-zh.yymanhua-v1.4.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "YY漫画",
+        "lang": "zh",
+        "id": "8722392504765051514",
+        "baseUrl": "https://www.yymanhua.com"
       }
     ]
   },

@@ -8708,10 +8708,10 @@
   {
     "name": "Tachiyomi: BeeHentai",
     "pkg": "eu.kanade.tachiyomi.extension.en.beehentai",
-    "apk": "tachiyomi-en.beehentai-v1.4.18.apk",
+    "apk": "tachiyomi-en.beehentai-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -8742,10 +8742,10 @@
   {
     "name": "Tachiyomi: BoxManhwa",
     "pkg": "eu.kanade.tachiyomi.extension.en.boxmanhwa",
-    "apk": "tachiyomi-en.boxmanhwa-v1.4.18.apk",
+    "apk": "tachiyomi-en.boxmanhwa-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -10381,10 +10381,10 @@
   {
     "name": "Tachiyomi: KaliScan.com",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaliscancom",
-    "apk": "tachiyomi-en.kaliscancom-v1.4.18.apk",
+    "apk": "tachiyomi-en.kaliscancom-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -10398,10 +10398,10 @@
   {
     "name": "Tachiyomi: KaliScan.io",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaliscanio",
-    "apk": "tachiyomi-en.kaliscanio-v1.4.18.apk",
+    "apk": "tachiyomi-en.kaliscanio-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -10415,10 +10415,10 @@
   {
     "name": "Tachiyomi: KaliScan.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.kaliscanme",
-    "apk": "tachiyomi-en.kaliscanme-v1.4.18.apk",
+    "apk": "tachiyomi-en.kaliscanme-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -10993,10 +10993,10 @@
   {
     "name": "Tachiyomi: MangaBuddy",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangabuddy",
-    "apk": "tachiyomi-en.mangabuddy-v1.4.20.apk",
+    "apk": "tachiyomi-en.mangabuddy-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
@@ -11027,10 +11027,10 @@
   {
     "name": "Tachiyomi: MangaCute",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangacute",
-    "apk": "tachiyomi-en.mangacute-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangacute-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -11078,10 +11078,10 @@
   {
     "name": "Tachiyomi: MangaFab",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangafab",
-    "apk": "tachiyomi-en.mangafab-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangafab-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -11112,10 +11112,10 @@
   {
     "name": "Tachiyomi: MangaForest",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaforest",
-    "apk": "tachiyomi-en.mangaforest-v1.4.19.apk",
+    "apk": "tachiyomi-en.mangaforest-v1.4.20.apk",
     "lang": "en",
-    "code": 19,
-    "version": "1.4.19",
+    "code": 20,
+    "version": "1.4.20",
     "nsfw": 1,
     "sources": [
       {
@@ -11520,10 +11520,10 @@
   {
     "name": "Tachiyomi: MangaMonk",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangamonk",
-    "apk": "tachiyomi-en.mangamonk-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangamonk-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -11707,10 +11707,10 @@
   {
     "name": "Tachiyomi: MangaPuma",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangapuma",
-    "apk": "tachiyomi-en.mangapuma-v1.4.20.apk",
+    "apk": "tachiyomi-en.mangapuma-v1.4.21.apk",
     "lang": "en",
-    "code": 20,
-    "version": "1.4.20",
+    "code": 21,
+    "version": "1.4.21",
     "nsfw": 1,
     "sources": [
       {
@@ -11826,10 +11826,10 @@
   {
     "name": "Tachiyomi: MangaSaga",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangasaga",
-    "apk": "tachiyomi-en.mangasaga-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangasaga-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -11877,10 +11877,10 @@
   {
     "name": "Tachiyomi: MangaSpin",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaspin",
-    "apk": "tachiyomi-en.mangaspin-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangaspin-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -12047,10 +12047,10 @@
   {
     "name": "Tachiyomi: MangaXYZ",
     "pkg": "eu.kanade.tachiyomi.extension.en.mangaxyz",
-    "apk": "tachiyomi-en.mangaxyz-v1.4.18.apk",
+    "apk": "tachiyomi-en.mangaxyz-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -12200,10 +12200,10 @@
   {
     "name": "Tachiyomi: ManhuaNow",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuanow",
-    "apk": "tachiyomi-en.manhuanow-v1.4.18.apk",
+    "apk": "tachiyomi-en.manhuanow-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -12285,10 +12285,10 @@
   {
     "name": "Tachiyomi: ManhuaSite",
     "pkg": "eu.kanade.tachiyomi.extension.en.manhuasite",
-    "apk": "tachiyomi-en.manhuasite-v1.4.18.apk",
+    "apk": "tachiyomi-en.manhuasite-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -12761,10 +12761,10 @@
   {
     "name": "Tachiyomi: MGJinx",
     "pkg": "eu.kanade.tachiyomi.extension.en.mgjinx",
-    "apk": "tachiyomi-en.mgjinx-v1.4.18.apk",
+    "apk": "tachiyomi-en.mgjinx-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -14648,10 +14648,10 @@
   {
     "name": "Tachiyomi: Toonily.me",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonilyme",
-    "apk": "tachiyomi-en.toonilyme-v1.4.18.apk",
+    "apk": "tachiyomi-en.toonilyme-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -14665,10 +14665,10 @@
   {
     "name": "Tachiyomi: TooniTube",
     "pkg": "eu.kanade.tachiyomi.extension.en.toonitube",
-    "apk": "tachiyomi-en.toonitube-v1.4.18.apk",
+    "apk": "tachiyomi-en.toonitube-v1.4.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "1.4.18",
+    "code": 19,
+    "version": "1.4.19",
     "nsfw": 1,
     "sources": [
       {
@@ -15470,17 +15470,17 @@
   {
     "name": "Tachiyomi: Catharsis World",
     "pkg": "eu.kanade.tachiyomi.extension.es.catharsisworld",
-    "apk": "tachiyomi-es.catharsisworld-v1.4.45.apk",
+    "apk": "tachiyomi-es.catharsisworld-v1.4.46.apk",
     "lang": "es",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
         "name": "Catharsis World",
         "lang": "es",
         "id": "2856082375563763469",
-        "baseUrl": "https://catharsisworld.dig-it.info"
+        "baseUrl": "https://catharsisworld.justep.me"
       }
     ]
   },
@@ -16216,19 +16216,19 @@
     ]
   },
   {
-    "name": "Tachiyomi: Jobsibe",
+    "name": "Tachiyomi: Lmtos",
     "pkg": "eu.kanade.tachiyomi.extension.es.lmtoonline",
-    "apk": "tachiyomi-es.lmtoonline-v1.4.43.apk",
+    "apk": "tachiyomi-es.lmtoonline-v1.4.44.apk",
     "lang": "es",
-    "code": 43,
-    "version": "1.4.43",
+    "code": 44,
+    "version": "1.4.44",
     "nsfw": 1,
     "sources": [
       {
-        "name": "Jobsibe",
+        "name": "Lmtos",
         "lang": "es",
         "id": "3752522006902890093",
-        "baseUrl": "https://lmtos.com"
+        "baseUrl": "https://www.lmtos.com"
       }
     ]
   },

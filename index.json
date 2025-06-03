@@ -10600,23 +10600,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Latis Books",
-    "pkg": "eu.kanade.tachiyomi.extension.en.latisbooks",
-    "apk": "tachiyomi-en.latisbooks-v1.4.6.apk",
-    "lang": "en",
-    "code": 6,
-    "version": "1.4.6",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Latis Books",
-        "lang": "en",
-        "id": "4723653690154986979",
-        "baseUrl": "https://www.latisbooks.com"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: LemonFont",
     "pkg": "eu.kanade.tachiyomi.extension.en.lemonfont",
     "apk": "tachiyomi-en.lemonfont-v1.4.3.apk",
@@ -12755,6 +12738,23 @@
         "lang": "en",
         "id": "2609498548705590664",
         "baseUrl": "https://megatokyo.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Mehgazone",
+    "pkg": "eu.kanade.tachiyomi.extension.en.mehgazone",
+    "apk": "tachiyomi-en.mehgazone-v1.4.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Mehgazone",
+        "lang": "en",
+        "id": "2698265163169248715",
+        "baseUrl": "https://mehgazone.com"
       }
     ]
   },
@@ -22856,10 +22856,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.44.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.45.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 0,
     "sources": [
       {
@@ -25848,17 +25848,17 @@
   {
     "name": "Tachiyomi: ManhuaRock",
     "pkg": "eu.kanade.tachiyomi.extension.vi.manhuarock",
-    "apk": "tachiyomi-vi.manhuarock-v1.4.13.apk",
+    "apk": "tachiyomi-vi.manhuarock-v1.4.14.apk",
     "lang": "vi",
-    "code": 13,
-    "version": "1.4.13",
+    "code": 14,
+    "version": "1.4.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "ManhuaRock",
         "lang": "vi",
         "id": "5818973680777851987",
-        "baseUrl": "https://manhuarock1.site"
+        "baseUrl": "https://manhuarock.site"
       }
     ]
   },
@@ -26137,10 +26137,10 @@
   {
     "name": "Tachiyomi: VlogTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.vlogtruyen",
-    "apk": "tachiyomi-vi.vlogtruyen-v1.4.11.apk",
+    "apk": "tachiyomi-vi.vlogtruyen-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 1,
     "sources": [
       {

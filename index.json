@@ -22856,10 +22856,10 @@
   {
     "name": "Tachiyomi: Yugen Mangás",
     "pkg": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
-    "apk": "tachiyomi-pt.yugenmangas-v1.4.45.apk",
+    "apk": "tachiyomi-pt.yugenmangas-v1.4.46.apk",
     "lang": "pt-BR",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 0,
     "sources": [
       {
@@ -25916,17 +25916,17 @@
   {
     "name": "Tachiyomi: NhatTruyenS (unoriginal)",
     "pkg": "eu.kanade.tachiyomi.extension.vi.nhattruyens",
-    "apk": "tachiyomi-vi.nhattruyens-v1.4.8.apk",
+    "apk": "tachiyomi-vi.nhattruyens-v1.4.9.apk",
     "lang": "vi",
-    "code": 8,
-    "version": "1.4.8",
+    "code": 9,
+    "version": "1.4.9",
     "nsfw": 0,
     "sources": [
       {
         "name": "NhatTruyenS (unoriginal)",
         "lang": "vi",
         "id": "3351211853254823251",
-        "baseUrl": "https://www.nhattruyenss.net"
+        "baseUrl": "https://nhattruyensss.com"
       }
     ]
   },
@@ -26579,10 +26579,10 @@
   {
     "name": "Tachiyomi: Mangabz",
     "pkg": "eu.kanade.tachiyomi.extension.zh.mangabz",
-    "apk": "tachiyomi-zh.mangabz-v1.4.10.apk",
+    "apk": "tachiyomi-zh.mangabz-v1.4.11.apk",
     "lang": "zh",
-    "code": 10,
-    "version": "1.4.10",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "sources": [
       {

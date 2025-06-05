@@ -16794,23 +16794,6 @@
     ]
   },
   {
-    "name": "Tachiyomi: Senpai Ediciones",
-    "pkg": "eu.kanade.tachiyomi.extension.es.senpaiediciones",
-    "apk": "tachiyomi-es.senpaiediciones-v1.4.32.apk",
-    "lang": "es",
-    "code": 32,
-    "version": "1.4.32",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Senpai Ediciones",
-        "lang": "es",
-        "id": "5823367250265948060",
-        "baseUrl": "https://senpaimangas.online"
-      }
-    ]
-  },
-  {
     "name": "Tachiyomi: Senshi Manga",
     "pkg": "eu.kanade.tachiyomi.extension.es.senshimanga",
     "apk": "tachiyomi-es.senshimanga-v1.4.8.apk",
@@ -17669,10 +17652,10 @@
   {
     "name": "Tachiyomi: PhenixScans",
     "pkg": "eu.kanade.tachiyomi.extension.fr.phenixscans",
-    "apk": "tachiyomi-fr.phenixscans-v1.4.33.apk",
+    "apk": "tachiyomi-fr.phenixscans-v1.4.34.apk",
     "lang": "fr",
-    "code": 33,
-    "version": "1.4.33",
+    "code": 34,
+    "version": "1.4.34",
     "nsfw": 0,
     "sources": [
       {
@@ -20644,19 +20627,19 @@
         "name": "늑대닷컴 - 웹툰",
         "lang": "ko",
         "id": "5583626852311652499",
-        "baseUrl": "https://wfwf392.com"
+        "baseUrl": "https://wfwf393.com"
       },
       {
         "name": "늑대닷컴 - 만화책",
         "lang": "ko",
         "id": "7074060458114951398",
-        "baseUrl": "https://wfwf392.com"
+        "baseUrl": "https://wfwf393.com"
       },
       {
         "name": "늑대닷컴 - 포토툰",
         "lang": "ko",
         "id": "4225505094399546613",
-        "baseUrl": "https://wfwf392.com"
+        "baseUrl": "https://wfwf393.com"
       }
     ]
   },

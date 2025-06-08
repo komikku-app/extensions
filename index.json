@@ -14495,10 +14495,10 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.en.templescan",
-    "apk": "tachiyomi-en.templescan-v1.4.45.apk",
+    "apk": "tachiyomi-en.templescan-v1.4.46.apk",
     "lang": "en",
-    "code": 45,
-    "version": "1.4.45",
+    "code": 46,
+    "version": "1.4.46",
     "nsfw": 1,
     "sources": [
       {
@@ -16915,17 +16915,17 @@
   {
     "name": "Tachiyomi: Temple Scan",
     "pkg": "eu.kanade.tachiyomi.extension.es.templescanesp",
-    "apk": "tachiyomi-es.templescanesp-v1.4.44.apk",
+    "apk": "tachiyomi-es.templescanesp-v1.4.45.apk",
     "lang": "es",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
         "name": "Temple Scan",
         "lang": "es",
         "id": "3451196845457607826",
-        "baseUrl": "https://templescanesp.vxviral.xyz"
+        "baseUrl": "https://templescanesp.caserosvive.com.ar"
       }
     ]
   },
@@ -20867,10 +20867,10 @@
   {
     "name": "Tachiyomi: Aurora Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.aurorascan",
-    "apk": "tachiyomi-pt.aurorascan-v1.4.3.apk",
+    "apk": "tachiyomi-pt.aurorascan-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 0,
     "sources": [
       {
@@ -21286,6 +21286,23 @@
         "lang": "pt-BR",
         "id": "5085205208030136350",
         "baseUrl": "https://galinhasamurai.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Geass Comics",
+    "pkg": "eu.kanade.tachiyomi.extension.pt.geasscomics",
+    "apk": "tachiyomi-pt.geasscomics-v1.4.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Geass Comics",
+        "lang": "pt-BR",
+        "id": "177568692231056996",
+        "baseUrl": "https://geasscomics.xyz"
       }
     ]
   },
@@ -21734,10 +21751,10 @@
   {
     "name": "Tachiyomi: Maid Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.maidscan",
-    "apk": "tachiyomi-pt.maidscan-v1.4.48.apk",
+    "apk": "tachiyomi-pt.maidscan-v1.4.50.apk",
     "lang": "pt-BR",
-    "code": 48,
-    "version": "1.4.48",
+    "code": 50,
+    "version": "1.4.50",
     "nsfw": 1,
     "sources": [
       {
@@ -21887,10 +21904,10 @@
   {
     "name": "Tachiyomi: Mediocre Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
-    "apk": "tachiyomi-pt.mediocretoons-v1.4.3.apk",
+    "apk": "tachiyomi-pt.mediocretoons-v1.4.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "1.4.3",
+    "code": 4,
+    "version": "1.4.4",
     "nsfw": 1,
     "sources": [
       {
@@ -22516,10 +22533,10 @@
   {
     "name": "Tachiyomi: Sussy Toons",
     "pkg": "eu.kanade.tachiyomi.extension.pt.sussyscan",
-    "apk": "tachiyomi-pt.sussyscan-v1.4.59.apk",
+    "apk": "tachiyomi-pt.sussyscan-v1.4.60.apk",
     "lang": "pt-BR",
-    "code": 59,
-    "version": "1.4.59",
+    "code": 60,
+    "version": "1.4.60",
     "nsfw": 1,
     "sources": [
       {
@@ -22720,10 +22737,10 @@
   {
     "name": "Tachiyomi: Wind Scan",
     "pkg": "eu.kanade.tachiyomi.extension.pt.windscan",
-    "apk": "tachiyomi-pt.windscan-v1.4.44.apk",
+    "apk": "tachiyomi-pt.windscan-v1.4.45.apk",
     "lang": "pt-BR",
-    "code": 44,
-    "version": "1.4.44",
+    "code": 45,
+    "version": "1.4.45",
     "nsfw": 1,
     "sources": [
       {
@@ -25389,17 +25406,17 @@
   {
     "name": "Tachiyomi: Tempest Scans",
     "pkg": "eu.kanade.tachiyomi.extension.tr.tempestscans",
-    "apk": "tachiyomi-tr.tempestscans-v1.4.30.apk",
+    "apk": "tachiyomi-tr.tempestscans-v1.4.31.apk",
     "lang": "tr",
-    "code": 30,
-    "version": "1.4.30",
+    "code": 31,
+    "version": "1.4.31",
     "nsfw": 0,
     "sources": [
       {
         "name": "Tempest Scans",
         "lang": "tr",
         "id": "5317159072505726832",
-        "baseUrl": "https://tempestscans.net"
+        "baseUrl": "https://tempestmangas.com"
       }
     ]
   },

@@ -4777,26 +4777,6 @@
         ]
       },
       {
-        "name": "Mihentai",
-        "packageName": "eu.kanade.tachiyomi.extension.all.mihentai",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-all.mihentai-v1.4.32.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.all.mihentai.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "32",
-        "versionName": "1.4.32",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "3558188315762724556",
-            "name": "Mihentai",
-            "language": "all",
-            "homeUrl": "https://mihentai.com"
-          }
-        ]
-      },
-      {
         "name": "MissKon",
         "packageName": "eu.kanade.tachiyomi.extension.all.misskon",
         "resources": {
@@ -20181,26 +20161,6 @@
             "name": "Epsilon Scan",
             "language": "fr",
             "homeUrl": "https://epsilonscan.to"
-          }
-        ]
-      },
-      {
-        "name": "Legacy Scans",
-        "packageName": "eu.kanade.tachiyomi.extension.fr.flamescansfr",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/apk/tachiyomi-fr.flamescansfr-v1.4.31.apk",
-          "iconUrl": "https://raw.githubusercontent.com/keiyoushi/extensions/refs/heads/repo/icon/eu.kanade.tachiyomi.extension.fr.flamescansfr.png"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "31",
-        "versionName": "1.4.31",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "6502091652464133570",
-            "name": "Legacy Scans",
-            "language": "fr",
-            "homeUrl": "https://legacy-scans.com"
           }
         ]
       },

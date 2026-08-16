@@ -9638,27 +9638,6 @@
         ]
       },
       {
-        "name": "BeeHentai",
-        "packageName": "eu.kanade.tachiyomi.extension.en.beehentai",
-        "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-en.beehentai-v1.4.24.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/beehentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-en.beehentai-v1.4.24.jar"
-        },
-        "extensionLib": "1.4",
-        "versionCode": "24",
-        "versionName": "1.4.24",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "3819152328997277823",
-            "name": "BeeHentai",
-            "language": "en",
-            "homeUrl": "https://beehentai.com"
-          }
-        ]
-      },
-      {
         "name": "BookWalker",
         "packageName": "eu.kanade.tachiyomi.extension.en.bookwalker",
         "resources": {
@@ -12990,13 +12969,13 @@
         "name": "Mangago",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangago",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-en.mangago-v1.6.38.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/38c1356/tachiyomi-en.mangago-v1.6.39.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/mangago/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-en.mangago-v1.6.38.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/38c1356/tachiyomi-en.mangago-v1.6.39.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "38",
-        "versionName": "1.6.38",
+        "versionCode": "39",
+        "versionName": "1.6.39",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

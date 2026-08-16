@@ -2159,16 +2159,6 @@
       "sha256": "e9f7f424ecfbcfd3b4d1f4fbada8dad81c31ac12e272270242d5c5030e66c483"
     }
   },
-  "eu.kanade.tachiyomi.extension.en.beehentai": {
-    "apk": {
-      "name": "tachiyomi-en.beehentai-v1.4.24.apk",
-      "sha256": "c4bc412caa23dafe115e66517f6224ca1017ee8802c65c3fb3b4f071c6d4e14e"
-    },
-    "jar": {
-      "name": "tachiyomi-en.beehentai-v1.4.24.jar",
-      "sha256": "45df4bd95208c3af179b1f8b559dd65640c7f6bd2ff763d826158e185a1caee2"
-    }
-  },
   "eu.kanade.tachiyomi.extension.en.bookwalker": {
     "apk": {
       "name": "tachiyomi-en.bookwalker-v1.4.7.apk",
@@ -3751,12 +3741,12 @@
   },
   "eu.kanade.tachiyomi.extension.en.mangago": {
     "apk": {
-      "name": "tachiyomi-en.mangago-v1.6.38.apk",
-      "sha256": "7f491f34a35ab9521a3006cf08ae673f26ecde17bb3d66dfce6eaf465f3756da"
+      "name": "tachiyomi-en.mangago-v1.6.39.apk",
+      "sha256": "aa1581bc7163ee4d3674da7a4222b6ccd0d525b10bcab02b81bd3947927eae3d"
     },
     "jar": {
-      "name": "tachiyomi-en.mangago-v1.6.38.jar",
-      "sha256": "873afac9696a998263ebd520ab75c5064522cef76bf7a7f6a36da07c2859508b"
+      "name": "tachiyomi-en.mangago-v1.6.39.jar",
+      "sha256": "d2567f1a732e47f19ce26520de783f55cfb98c77dbba18236af26a9ef8eab59f"
     }
   },
   "eu.kanade.tachiyomi.extension.en.mangagofun": {

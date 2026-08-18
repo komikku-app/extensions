@@ -9473,13 +9473,13 @@
         "name": "Atsumaru",
         "packageName": "eu.kanade.tachiyomi.extension.en.atsumaru",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-en.atsumaru-v1.6.21.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/c3f09e3/tachiyomi-en.atsumaru-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-en.atsumaru-v1.6.21.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/c3f09e3/tachiyomi-en.atsumaru-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "21",
-        "versionName": "1.6.21",
+        "versionCode": "22",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {

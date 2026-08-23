@@ -231,13 +231,13 @@
         "name": "AsmHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.asmhentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.asmhentai-v1.4.12.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.asmhentai-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/asmhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.asmhentai-v1.4.12.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.asmhentai-v1.6.11.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1887,13 +1887,13 @@
         "name": "HentaiEnvy",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaienvy",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.hentaienvy-v1.4.10.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaienvy-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentaienvy/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.hentaienvy-v1.4.10.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaienvy-v1.6.9.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "10",
-        "versionName": "1.4.10",
+        "extensionLib": "1.6",
+        "versionCode": "9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1950,13 +1950,13 @@
         "name": "HentaiEra",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaiera",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.hentaiera-v1.4.12.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaiera-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentaiera/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.hentaiera-v1.4.12.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaiera-v1.6.11.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "12",
-        "versionName": "1.4.12",
+        "extensionLib": "1.6",
+        "versionCode": "11",
+        "versionName": "1.6.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2013,13 +2013,13 @@
         "name": "HentaiFox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaifox",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.hentaifox-v1.4.17.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaifox-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentaifox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.hentaifox-v1.4.17.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaifox-v1.6.17.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "17",
-        "versionName": "1.4.17",
+        "versionName": "1.6.17",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2298,13 +2298,13 @@
         "name": "HentaiRox",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentairox",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.hentairox-v1.4.11.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentairox-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentairox/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.hentairox-v1.4.11.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentairox-v1.6.9.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "11",
-        "versionName": "1.4.11",
+        "extensionLib": "1.6",
+        "versionCode": "9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2337,13 +2337,13 @@
         "name": "HentaiZap",
         "packageName": "eu.kanade.tachiyomi.extension.all.hentaizap",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.hentaizap-v1.4.10.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaizap-v1.6.10.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/hentaizap/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.hentaizap-v1.4.10.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.hentaizap-v1.6.10.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2505,13 +2505,13 @@
         "name": "IMHentai",
         "packageName": "eu.kanade.tachiyomi.extension.all.imhentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.imhentai-v1.4.25.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.imhentai-v1.6.24.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/imhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.imhentai-v1.4.25.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.imhentai-v1.6.24.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "25",
-        "versionName": "1.4.25",
+        "extensionLib": "1.6",
+        "versionCode": "24",
+        "versionName": "1.6.24",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -5359,16 +5359,61 @@
         ]
       },
       {
+        "name": "NHentai.to",
+        "packageName": "eu.kanade.tachiyomi.extension.all.nhentaito",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.nhentaito-v1.6.9.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.nhentaito-v1.6.9.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "9",
+        "versionName": "1.6.9",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1911624300824763845",
+            "name": "NHentai.to",
+            "language": "en",
+            "homeUrl": "https://nhentai.to"
+          },
+          {
+            "id": "2472948389653215607",
+            "name": "NHentai.to",
+            "language": "ja",
+            "homeUrl": "https://nhentai.to"
+          },
+          {
+            "id": "79691962210322609",
+            "name": "NHentai.to",
+            "language": "zh",
+            "homeUrl": "https://nhentai.to"
+          },
+          {
+            "id": "874357157692405334",
+            "name": "NHentai.to",
+            "language": "ko",
+            "homeUrl": "https://nhentai.to"
+          },
+          {
+            "id": "7910220811455615939",
+            "name": "NHentai.to",
+            "language": "all",
+            "homeUrl": "https://nhentai.to"
+          }
+        ]
+      },
+      {
         "name": "NHentai.xxx",
         "packageName": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-all.nhentaixxx-v1.4.10.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/nhentaixxx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-all.nhentaixxx-v1.4.10.jar"
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.nhentaixxx-v1.6.10.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/6bb3176/tachiyomi-all.nhentaixxx-v1.6.10.jar"
         },
-        "extensionLib": "1.4",
+        "extensionLib": "1.6",
         "versionCode": "10",
-        "versionName": "1.4.10",
+        "versionName": "1.6.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

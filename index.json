@@ -4228,13 +4228,13 @@
         "name": "MangaFire",
         "packageName": "eu.kanade.tachiyomi.extension.all.mangafire",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/5d419e0/tachiyomi-all.mangafire-v1.6.31.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-all.mangafire-v1.6.32.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/5d419e0/tachiyomi-all.mangafire-v1.6.31.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-all.mangafire-v1.6.32.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "31",
-        "versionName": "1.6.31",
+        "versionCode": "32",
+        "versionName": "1.6.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -14590,13 +14590,13 @@
         "name": "Mgread.io",
         "packageName": "eu.kanade.tachiyomi.extension.en.mgreadio",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-0/tachiyomi-en.mgreadio-v1.4.1.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-en.mgreadio-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-0/tachiyomi-en.mgreadio-v1.4.1.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-en.mgreadio-v1.6.2.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "1",
-        "versionName": "1.4.1",
+        "extensionLib": "1.6",
+        "versionCode": "2",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -20386,13 +20386,13 @@
         "name": "Hentai Origines",
         "packageName": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ed2b89f/tachiyomi-fr.hentaiorigines-v1.6.55.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-fr.hentaiorigines-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/hentaiorigines/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ed2b89f/tachiyomi-fr.hentaiorigines-v1.6.55.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-fr.hentaiorigines-v1.6.56.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "55",
-        "versionName": "1.6.55",
+        "versionCode": "56",
+        "versionName": "1.6.56",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -20764,13 +20764,13 @@
         "name": "Mangas-Origines.fr",
         "packageName": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ed2b89f/tachiyomi-fr.mangasoriginesfr-v1.6.58.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-fr.mangasoriginesfr-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/ed2b89f/tachiyomi-fr.mangasoriginesfr-v1.6.58.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-fr.mangasoriginesfr-v1.6.59.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "58",
-        "versionName": "1.6.58",
+        "versionCode": "59",
+        "versionName": "1.6.59",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -22024,13 +22024,13 @@
         "name": "Komiku.com",
         "packageName": "eu.kanade.tachiyomi.extension.id.komikucom",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/f70ddf4-1/tachiyomi-id.komikucom-v1.4.34.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-id.komikucom-v1.6.35.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/id/komikucom/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/aba7139-1/tachiyomi-id.komikucom-v1.4.34.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-id.komikucom-v1.6.35.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "34",
-        "versionName": "1.4.34",
+        "extensionLib": "1.6",
+        "versionCode": "35",
+        "versionName": "1.6.35",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32581,6 +32581,27 @@
             "name": "Team L\u1ea1nh L\u00f9ng",
             "language": "vi",
             "homeUrl": "https://lanhlungteam2.top"
+          }
+        ]
+      },
+      {
+        "name": "TeleTruyen",
+        "packageName": "eu.kanade.tachiyomi.extension.vi.teletruyen",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-vi.teletruyen-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/teletruyen/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/660d29c/tachiyomi-vi.teletruyen-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "7833855011739264901",
+            "name": "TeleTruyen",
+            "language": "vi",
+            "homeUrl": "https://teletruyen.com"
           }
         ]
       },

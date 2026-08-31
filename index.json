@@ -7963,6 +7963,27 @@
         ]
       },
       {
+        "name": "Arab Hentai",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.arabhentai",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ar.arabhentai-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ar/arabhentai/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ar.arabhentai-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "6899943547168982381",
+            "name": "\u0647\u0646\u062a\u0627\u064a \u0627\u0644\u0639\u0631\u0628 - \u0646\u062a",
+            "language": "ar",
+            "homeUrl": "https://arabhentai.net"
+          }
+        ]
+      },
+      {
         "name": "ArabManhwa",
         "packageName": "eu.kanade.tachiyomi.extension.ar.arabmanhwa",
         "resources": {
@@ -8295,6 +8316,27 @@
             "name": "Goon Scans",
             "language": "ar",
             "homeUrl": "https://goonscans.org"
+          }
+        ]
+      },
+      {
+        "name": "Hentai Lek",
+        "packageName": "eu.kanade.tachiyomi.extension.ar.hentailek",
+        "resources": {
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ar.hentailek-v1.6.1.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ar/hentailek/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ar.hentailek-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "sources": [
+          {
+            "id": "1258840903039841012",
+            "name": "\u0647\u0646\u062a\u0627\u064a \u0644\u064a\u0643",
+            "language": "ar",
+            "homeUrl": "https://hentailek.com"
           }
         ]
       },
@@ -12939,19 +12981,259 @@
         "name": "Mangadotnet",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangadotnet",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/4797bb2-0/tachiyomi-en.mangadotnet-v1.6.18.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/4797bb2-0/tachiyomi-en.mangadotnet-v1.6.18.jar"
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-en.mangadotnet-v1.6.19.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-en.mangadotnet-v1.6.19.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "18",
-        "versionName": "1.6.18",
+        "versionCode": "19",
+        "versionName": "1.6.19",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
+          {
+            "id": "5133570518916566066",
+            "name": "Mangadotnet",
+            "language": "ar",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4728703871864086205",
+            "name": "Mangadotnet",
+            "language": "bn",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4621039982977056475",
+            "name": "Mangadotnet",
+            "language": "bg",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8689086897953658974",
+            "name": "Mangadotnet",
+            "language": "my",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4593442970144109426",
+            "name": "Mangadotnet",
+            "language": "zh",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2076066796458496830",
+            "name": "Mangadotnet",
+            "language": "zh-Hant",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "182506561627032263",
+            "name": "Mangadotnet",
+            "language": "cs",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "522919629093846860",
+            "name": "Mangadotnet",
+            "language": "da",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5339181991315919474",
+            "name": "Mangadotnet",
+            "language": "nl",
+            "homeUrl": "https://mangadot.net"
+          },
           {
             "id": "5900936305360403385",
             "name": "Mangadotnet",
             "language": "en",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5536176722691621839",
+            "name": "Mangadotnet",
+            "language": "tl",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7568879765052968178",
+            "name": "Mangadotnet",
+            "language": "fi",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6544312035114371248",
+            "name": "Mangadotnet",
+            "language": "fr",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7781185259229560796",
+            "name": "Mangadotnet",
+            "language": "ka",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1739134904773959471",
+            "name": "Mangadotnet",
+            "language": "de",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6280808899001059050",
+            "name": "Mangadotnet",
+            "language": "el",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7524478288761759786",
+            "name": "Mangadotnet",
+            "language": "he",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4686432307246610016",
+            "name": "Mangadotnet",
+            "language": "hi",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2744567066632059507",
+            "name": "Mangadotnet",
+            "language": "hu",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8591108444263884327",
+            "name": "Mangadotnet",
+            "language": "id",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8788147393700258423",
+            "name": "Mangadotnet",
+            "language": "it",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2305771977147956314",
+            "name": "Mangadotnet",
+            "language": "ja",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8733946525904795862",
+            "name": "Mangadotnet",
+            "language": "ko",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5980076819966447323",
+            "name": "Mangadotnet",
+            "language": "la",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3456620422576095825",
+            "name": "Mangadotnet",
+            "language": "lt",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2379671138411944871",
+            "name": "Mangadotnet",
+            "language": "ms",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "9192319104809604483",
+            "name": "Mangadotnet",
+            "language": "mn",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "2111970709663576933",
+            "name": "Mangadotnet",
+            "language": "no",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6840185760082019759",
+            "name": "Mangadotnet",
+            "language": "fa",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "516446519459282312",
+            "name": "Mangadotnet",
+            "language": "pl",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1374245104599191336",
+            "name": "Mangadotnet",
+            "language": "pt",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "6883842335519142390",
+            "name": "Mangadotnet",
+            "language": "pt-BR",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "7223291528565862680",
+            "name": "Mangadotnet",
+            "language": "ro",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8911989140118399619",
+            "name": "Mangadotnet",
+            "language": "ru",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "1356109540530417190",
+            "name": "Mangadotnet",
+            "language": "es",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5046796980408019790",
+            "name": "Mangadotnet",
+            "language": "es-419",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "4958143963089747877",
+            "name": "Mangadotnet",
+            "language": "sv",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "8348427309728988846",
+            "name": "Mangadotnet",
+            "language": "th",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "5964430973280552505",
+            "name": "Mangadotnet",
+            "language": "tr",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3578850460057110410",
+            "name": "Mangadotnet",
+            "language": "uk",
+            "homeUrl": "https://mangadot.net"
+          },
+          {
+            "id": "3741155905873931805",
+            "name": "Mangadotnet",
+            "language": "vi",
             "homeUrl": "https://mangadot.net"
           }
         ]
@@ -26113,13 +26395,13 @@
         "name": "Argos Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.argoscomics",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-pt.argoscomics-v1.6.57.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-pt.argoscomics-v1.6.58.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-pt.argoscomics-v1.6.57.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-pt.argoscomics-v1.6.58.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "57",
-        "versionName": "1.6.57",
+        "versionCode": "58",
+        "versionName": "1.6.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -27709,17 +27991,17 @@
         "name": "Pluma Comics",
         "packageName": "eu.kanade.tachiyomi.extension.pt.plumacomics",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-pt.plumacomics-v1.4.50.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-pt.plumacomics-v1.6.51.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/plumacomics/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-pt.plumacomics-v1.4.50.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-pt.plumacomics-v1.6.51.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "50",
-        "versionName": "1.4.50",
+        "extensionLib": "1.6",
+        "versionCode": "51",
+        "versionName": "1.6.51",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
-            "id": "3795139541047356251",
+            "id": "7420625896970441024",
             "name": "Pluma Comics",
             "language": "pt-BR",
             "homeUrl": "https://plumacomics.cloud"
@@ -28444,13 +28726,13 @@
         "name": "AllHentai",
         "packageName": "eu.kanade.tachiyomi.extension.ru.allhentai",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.allhentai-v1.6.67.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.allhentai-v1.6.68.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/allhentai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.allhentai-v1.6.67.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.allhentai-v1.6.68.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "67",
-        "versionName": "1.6.67",
+        "versionCode": "68",
+        "versionName": "1.6.68",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -28742,13 +29024,13 @@
         "name": "MintManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.mintmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.mintmanga-v1.6.88.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.mintmanga-v1.6.89.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/mintmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.mintmanga-v1.6.88.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.mintmanga-v1.6.89.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "88",
-        "versionName": "1.6.88",
+        "versionCode": "89",
+        "versionName": "1.6.89",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28805,13 +29087,13 @@
         "name": "ReadManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.readmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.readmanga-v1.6.89.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.readmanga-v1.6.90.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/readmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.readmanga-v1.6.89.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.readmanga-v1.6.90.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "89",
-        "versionName": "1.6.89",
+        "versionCode": "90",
+        "versionName": "1.6.90",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28826,13 +29108,13 @@
         "name": "SeiManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.seimanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.seimanga-v1.6.42.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.seimanga-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/seimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.seimanga-v1.6.42.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.seimanga-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "42",
-        "versionName": "1.6.42",
+        "versionCode": "43",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -28847,13 +29129,13 @@
         "name": "SelfManga",
         "packageName": "eu.kanade.tachiyomi.extension.ru.selfmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.selfmanga-v1.6.64.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.selfmanga-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/selfmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.selfmanga-v1.6.64.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.selfmanga-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "64",
-        "versionName": "1.6.64",
+        "versionCode": "65",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -28960,13 +29242,13 @@
         "name": "Usagi",
         "packageName": "eu.kanade.tachiyomi.extension.ru.usagi",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.usagi-v1.6.42.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.usagi-v1.6.43.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ru/usagi/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-ru.usagi-v1.6.42.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-ru.usagi-v1.6.43.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "42",
-        "versionName": "1.6.42",
+        "versionCode": "43",
+        "versionName": "1.6.43",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -32269,13 +32551,13 @@
         "name": "MoeTruyen",
         "packageName": "eu.kanade.tachiyomi.extension.vi.moetruyen",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-vi.moetruyen-v1.6.8.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-vi.moetruyen-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/664f72a-2/tachiyomi-vi.moetruyen-v1.6.8.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/1d5dcf9/tachiyomi-vi.moetruyen-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "8",
-        "versionName": "1.6.8",
+        "versionCode": "9",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

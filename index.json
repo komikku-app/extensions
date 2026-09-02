@@ -6649,13 +6649,13 @@
         "name": "XCOMIC",
         "packageName": "eu.kanade.tachiyomi.extension.all.xcomic",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-all.xcomic-v1.6.4.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-all.xcomic-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-all.xcomic-v1.6.4.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-all.xcomic-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -6665,7 +6665,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6675,7 +6676,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6685,7 +6687,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6695,7 +6698,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6705,7 +6709,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6715,7 +6720,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6725,7 +6731,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6735,7 +6742,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6745,7 +6753,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6755,7 +6764,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6765,7 +6775,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6775,7 +6786,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6785,7 +6797,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6795,7 +6808,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6805,7 +6819,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6815,7 +6830,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6825,7 +6841,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6835,7 +6852,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6845,7 +6863,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6855,7 +6874,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6865,7 +6885,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6875,7 +6896,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6885,7 +6907,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6895,7 +6918,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6905,7 +6929,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6915,7 +6940,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6925,7 +6951,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6935,7 +6962,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6945,7 +6973,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6955,7 +6984,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6965,7 +6995,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6975,7 +7006,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6985,7 +7017,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -6995,7 +7028,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7005,7 +7039,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7015,7 +7050,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7025,7 +7061,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7035,7 +7072,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7045,7 +7083,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7055,7 +7094,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7065,7 +7105,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7075,7 +7116,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7085,7 +7127,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7095,7 +7138,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7105,7 +7149,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7115,7 +7160,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7125,7 +7171,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7135,7 +7182,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7145,7 +7193,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7155,7 +7204,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7165,7 +7215,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7175,7 +7226,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7185,7 +7237,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7195,7 +7248,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7205,7 +7259,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7215,7 +7270,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7225,7 +7281,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7235,7 +7292,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7245,7 +7303,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7255,7 +7314,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7265,7 +7325,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7275,7 +7336,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7285,7 +7347,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7295,7 +7358,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7305,7 +7369,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7315,7 +7380,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7325,7 +7391,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7335,7 +7402,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7345,7 +7413,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7355,7 +7424,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7365,7 +7435,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7375,7 +7446,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7385,7 +7457,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7395,7 +7468,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7405,7 +7479,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7415,7 +7490,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7425,7 +7501,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7435,7 +7512,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7445,7 +7523,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7455,7 +7534,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7465,7 +7545,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7475,7 +7556,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7485,7 +7567,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7495,7 +7578,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7505,7 +7589,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7515,7 +7600,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7525,7 +7611,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7535,7 +7622,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7545,7 +7633,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7555,7 +7644,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7565,7 +7655,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7575,7 +7666,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7585,7 +7677,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7595,7 +7688,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7605,7 +7699,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7615,7 +7710,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7625,7 +7721,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7635,7 +7732,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7645,7 +7743,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7655,7 +7754,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7665,7 +7765,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7675,7 +7776,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7685,7 +7787,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7695,7 +7798,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7705,7 +7809,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7715,7 +7820,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7725,7 +7831,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           },
           {
@@ -7735,7 +7842,8 @@
             "homeUrl": "https://xcomic.me",
             "mirrorUrls": [
               "https://xcomic.me",
-              "https://xcomic.net"
+              "https://xcomic.net",
+              "https://comik.to"
             ]
           }
         ]
@@ -8113,13 +8221,13 @@
         "name": "Azora",
         "packageName": "eu.kanade.tachiyomi.extension.ar.azora",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-ar.azora-v1.6.72.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-ar.azora-v1.6.73.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-ar.azora-v1.6.72.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-ar.azora-v1.6.73.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106072",
-        "versionName": "1.6.72",
+        "versionCode": "106073",
+        "versionName": "1.6.73",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9527,13 +9635,13 @@
         "name": "Vortex Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.arvenscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.arvenscans-v1.6.88.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.arvenscans-v1.6.89.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/vortexscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.arvenscans-v1.6.88.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.arvenscans-v1.6.89.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106088",
-        "versionName": "1.6.88",
+        "versionCode": "106089",
+        "versionName": "1.6.89",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -9545,21 +9653,21 @@
         ]
       },
       {
-        "name": "Arya Scans",
+        "name": "BrainRotComics",
         "packageName": "eu.kanade.tachiyomi.extension.en.aryascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.aryascans-v1.6.56.apk",
-          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/aryascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.aryascans-v1.6.56.jar"
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.aryascans-v1.6.57.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/brainrotcomics/res/mipmap-xhdpi/ic_launcher.png",
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.aryascans-v1.6.57.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106056",
-        "versionName": "1.6.56",
+        "versionCode": "106057",
+        "versionName": "1.6.57",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "7621724834621233483",
-            "name": "Arya Scans",
+            "name": "BrainRotComics",
             "language": "en",
             "homeUrl": "https://brainrotcomics.com"
           }
@@ -11673,13 +11781,13 @@
         "name": "Hijala Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.hijalascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.hijalascans-v1.6.26.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.hijalascans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/hijalascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.hijalascans-v1.6.26.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.hijalascans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -11841,13 +11949,13 @@
         "name": "Hive Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.infernalvoidscans-v1.6.70.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.infernalvoidscans-v1.6.71.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/hivescans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.infernalvoidscans-v1.6.70.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.infernalvoidscans-v1.6.71.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106070",
-        "versionName": "1.6.70",
+        "versionCode": "106071",
+        "versionName": "1.6.71",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12078,13 +12186,13 @@
         "name": "Ken Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.kenscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.kenscans-v1.6.36.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.kenscans-v1.6.37.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/kenscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.kenscans-v1.6.36.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.kenscans-v1.6.37.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106036",
-        "versionName": "1.6.36",
+        "versionCode": "106037",
+        "versionName": "1.6.37",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -12624,13 +12732,13 @@
         "name": "Magus Manga",
         "packageName": "eu.kanade.tachiyomi.extension.en.magusmanga",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.magusmanga-v1.6.72.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.magusmanga-v1.6.73.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/magusmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.magusmanga-v1.6.72.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.magusmanga-v1.6.73.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106072",
-        "versionName": "1.6.72",
+        "versionCode": "106073",
+        "versionName": "1.6.73",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15397,13 +15505,13 @@
         "name": "Nyx Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.nyxscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.nyxscans-v1.6.30.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.nyxscans-v1.6.31.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/nyxscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.nyxscans-v1.6.30.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.nyxscans-v1.6.31.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106030",
-        "versionName": "1.6.30",
+        "versionCode": "106031",
+        "versionName": "1.6.31",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -15649,13 +15757,13 @@
         "name": "Orion Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.orionscans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.orionscans-v1.6.26.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.orionscans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/orionscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.orionscans-v1.6.26.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.orionscans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16388,13 +16496,13 @@
         "name": "Renascans",
         "packageName": "eu.kanade.tachiyomi.extension.en.renascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.renascans-v1.6.26.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.renascans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/renascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.renascans-v1.6.26.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.renascans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -16661,13 +16769,13 @@
         "name": "Sana Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.sanascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.sanascans-v1.6.26.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.sanascans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/sanascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.sanascans-v1.6.26.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.sanascans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -17485,13 +17593,13 @@
         "name": "Vanilla Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.vanillascans",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.vanillascans-v1.6.26.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.vanillascans-v1.6.27.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/en/vanillascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-en.vanillascans-v1.6.26.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-en.vanillascans-v1.6.27.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106026",
-        "versionName": "1.6.26",
+        "versionCode": "106027",
+        "versionName": "1.6.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -18730,13 +18838,13 @@
         "name": "EternalMangas",
         "packageName": "eu.kanade.tachiyomi.extension.es.eternalmangas",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-es.eternalmangas-v1.6.28.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-es.eternalmangas-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-es.eternalmangas-v1.6.28.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-es.eternalmangas-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -27634,13 +27742,13 @@
         "name": "ToonLivre",
         "packageName": "eu.kanade.tachiyomi.extension.pt.mangalivre",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/4797bb2-2/tachiyomi-pt.mangalivre-v1.4.88.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-pt.mangalivre-v1.6.89.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/4797bb2-2/tachiyomi-pt.mangalivre-v1.4.88.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-pt.mangalivre-v1.6.89.jar"
         },
-        "extensionLib": "1.4",
-        "versionCode": "104088",
-        "versionName": "1.4.88",
+        "extensionLib": "1.6",
+        "versionCode": "106089",
+        "versionName": "1.6.89",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -33227,13 +33335,13 @@
         "name": "Tranh18",
         "packageName": "eu.kanade.tachiyomi.extension.vi.tranh18",
         "resources": {
-          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-vi.tranh18-v1.6.5.apk",
+          "apkUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-vi.tranh18-v1.6.6.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/yuzono/tachiyomi-extensions@main/src/vi/tranh18/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/a2266fa/tachiyomi-vi.tranh18-v1.6.5.jar"
+          "jarUrl": "https://github.com/cuong-tran/manga-repo/releases/download/3468239/tachiyomi-vi.tranh18-v1.6.6.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106005",
-        "versionName": "1.6.5",
+        "versionCode": "106006",
+        "versionName": "1.6.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
